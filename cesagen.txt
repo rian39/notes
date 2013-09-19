@@ -1,0 +1,1142 @@
+﻿%0 Book
+%D 2005
+%T Revelations : personal responses to the books of the Bible
+%I Canongate ;
+Distributed by Publishers Group West
+%C Edinburgh, Scotland ; New York
+[Berkeley, Calif.?]
+%P 403 p.
+%O 1st American
+%O Revelations : personal responses to the books of the Bible
+%O 9781841957371
+1841957372
+%O 14852778
+%O Jefferson or Adams Bldg General or Area Studies Reading Rms BS511.3; .R47 2005
+%K Bible Criticism, interpretation, etc.
+Bible
+Bible Reader-response criticism.
+%X An anthology of introductions from books in the Pocket canon series.
+%O 2007275412
+(OCoLC)ocn123128095
+(OCoLC)123128095
+21 cm.
+The First Book of Moses, called Genesis / E.L. Doctorow, Thor Heyerdahl, Steven Rose -- The Second Book of Moses, called Exodus / David Grossman -- The Books of Ruth and Esther / Joanna Trollope -- The First and Second Books of Samuel / Meir Shalev -- The Book of Job / Louis de Bernières ... [et al.] -- The Book of Psalms / Bono -- Proverbs / Charles Johnson -- The Song of Solomon / A.S. Byatt -- The Book of Isaiah / Peter Ackroyd -- The Books of Jonah, Micah and Nahum / Alasdair Gray -- The Wisdom of Solomon / Piers Paul Read -- The Gospel according to Matthew / Francisco Goldman, Pier Paolo Pasolini, A.N. Wilson -- The Gospel According to Mark / Nick Cave, Barry Hannah -- The Gospel according to Luke / Thomas Cahill, Richard Holloway, Ray Loriga -- The Gospel according to John / Blake Morrison, Darcey Steinke -- The Acts of the Apostles / P.D. James -- The Epistle of Paul the Apostle to the Romans / Ruth Rendell -- The Epistle of Paul the Apostle to the Hebrews / Karen Armstrong -- The General Epistle of James / the Dalai Lama -- The Revelation of St. John the Divine / Kathleen Norris, Will Self.
+Includes bibliographical references.
+Pocket canon.
+%O http://www.loc.gov/catdir/enhancements/fy0738/2007275412-d.html
+
+
+%0 Journal Article
+%A Andrianantoandro, Ernesto
+%A Basu, Subhayu
+%A Karig, David K.
+%A Weiss, Ron
+%D 2006
+%T Synthetic biology: new engineering rules for an emerging discipline
+%J Mol Syst Biol
+%V 2
+%O 2006 (Epub 2006 May
+%P 2006.0028
+%O Synthetic biology: new engineering rules for an emerging discipline
+%O 1744-4292
+%O MEDLINE:16738572
+%K Index Medicus
+%X Synthetic biologists engineer complex artificial biological systems to investigate natural biological phenomena and for a variety of applications. We outline the basic features of synthetic biology as a new engineering discipline, covering examples from the latest literature and reflecting on the features that make it unique among all other existing engineering fields. We discuss methods for designing and constructing engineered cells with novel functions in a framework of an abstract hierarchy of biological devices, modules, cells, and multicellular systems. The classical engineering strategies of standardization, decoupling, and abstraction will have to be extended to take into account the inherent characteristics of biological devices and modules. To achieve predictability and reliability, strategies for engineering biology must include the notion of cellular context in the functional definition of devices and modules, use rational redesign and directed evolution for system optimization, and focus on accomplishing tasks using cell populations rather than individual cells. The discussion brings to light issues at the heart of designing complex living systems and provides a trajectory for future development.
+%O <Go to ISI>://MEDLINE:16738572 
+%O Department of Electrical Engineering, Princeton University, Princeton, NJ 08544, USA.
+
+
+%0 Journal Article
+%A Badiou, ALain
+%D 1998
+%T Is there a theory of the subject in Georges Canguilhem?
+%J Economy and Society
+%V 27
+%N 2
+%P 225 - 233
+%O Is there a theory of the subject in Georges Canguilhem?
+%O 0308-5147
+%O http://www.informaworld.com/10.1080/03085149800000016 
+%O January 25, 2008
+
+
+%0 Report
+%A Balmer, Andrew
+%A Martin, Paul
+%D 2008
+%T Synthetic Biology Social and Ethical Challenges
+%O May 2008
+%O Synthetic Biology Social and Ethical Challenges
+
+
+%0 Book
+%A Benkler, Yochai
+%D 2006
+%T The wealth of networks : how social production transforms markets and freedom
+%I Yale University Press
+%C New Haven [Conn.]
+%P xii, 515 p.
+%O The wealth of networks : how social production transforms markets and freedom
+%O 0300110561 (alk. paper)
+9780300110562
+%O HM851 .B457 2006
+303.48/33
+%K Information society.
+Information networks.
+Computer networks Social aspects.
+Computer networks Economic aspects.
+%O Yochai Benkler.
+ill. ; 25 cm.
+Introduction: a moment of opportunity and challenge -- The networked information economy -- Some basic economics of information production and innovation -- Peer production and sharing -- The economics of social production -- The political economy of property and commons -- Individual freedom: autonomy, information, and law -- Political freedom part 1: the trouble with mass media -- Political freedom part 2: emergence of the networked public sphere -- Cultural freedom: a culture both plastic and critical -- Justice and development -- Social ties: networking together -- Policies of freedom at a moment of transformation -- The battle over the institutional ecology of the digital environment -- Conclusion: the stakes of information law and policy.
+%O http://www.loc.gov/catdir/toc/ecip061/2005028316.html
+http://www.loc.gov/catdir/enhancements/fy0623/2005028316-b.html
+http://www.loc.gov/catdir/enhancements/fy0623/2005028316-d.html 
+
+
+%0 Journal Article
+%A caffentzis, george
+%D 2007
+%T Crystals and Analytical Engines
+%J ephemera
+%V 7
+%N 1
+%P 24-45
+%O Crystals and Analytical Engines
+%O e-archived
+
+
+%0 Journal Article
+%A Cambrosio, A., P. Keating, et al.
+%D 2004
+%T Mapping collaborative work and innovation in biomedicine
+%J Social Studies of Science
+%V 34
+%N 3
+%P 325-364
+%O Mapping collaborative work and innovation in biomedicine
+
+
+%0 Journal Article
+%A Chan, Leon Y
+%A Kosuri, Sriram
+%A Endy, Drew
+%D 2005
+%T Refactoring Bacteriophage T7
+%J Mol Syst Biol
+%V 
+%O Refactoring Bacteriophage T7
+
+
+%0 Journal Article
+%A Dae-Kyun Ro, Eric M. Paradise2*, Mario Ouellet1, Karl J. Fisher6, Karyn L. Newman1, John M. Ndungu3,
+%A Kimberly A. Ho1, Rachel A. Eachus1, Timothy S. Ham4, James Kirby2, Michelle C. Y. Chang1, Sydnor T. Withers2,
+%A Yoichiro Shiba2, Richmond Sarpong3 & Jay D. Keasling1, 2,4,5
+%D 2006
+%T Production of the antimalarial drug precursor artemisinic acid in engineered yeast
+%J Nature
+%V 440
+%N 13 April
+%P 940-3
+%O Production of the antimalarial drug precursor artemisinic acid in engineered yeast
+%O doi:10.1038/nature04640
+
+
+%0 Journal Article
+%A Daniel G. Gibson, Gwynedd A. Benders, Cynthia Andrews-Pfannkoch, Evgeniya A. Denisova, Holly Baden-Tillson, Jayshree Zaveri, Timothy B. Stockwell, Anushka Brownley, David W. Thomas, Mikkel A. Algire, Chuck Merryman, Lei Young, Vladimir N. Noskov, John I. Glass, J. Craig Venter, Clyde A. Hutchison, III, Hamilton O. Smith* 
+%D 2008
+%T Complete Chemical Synthesis, Assembly, and Cloning of a Mycoplasma genitalium Genome
+%J Science 
+%V 319
+%N 5867
+%O 29 February
+%P 1215 - 1220
+%O Complete Chemical Synthesis, Assembly, and Cloning of a Mycoplasma genitalium Genome
+%O DOI: 10.1126/science.1151721
+%O http://www.sciencemag.org/cgi/content/full/319/5867/1215
+
+
+%0 Web Page
+%A Emergence
+%D 2008
+%T Emergence.  	A Foundation for Synthetic Biology in Europe
+%V 2008
+%N 12 June
+%O Emergence.  	A Foundation for Synthetic Biology in Europe
+%O http://www.emergence.ethz.ch/
+%O 12 June
+
+
+%0 Report
+%A ETC Group
+%D 2007
+%T Extreme Genetic Enginering. An Introduction to Synthetic Biology
+%O January 2007
+%O Extreme Genetic Enginering. An Introduction to Synthetic Biology
+%O TBA
+
+
+%0 Report
+%A EU NEST High-Level Expert Group
+%D 2005
+%T Synthetic Biology: Applying Engineering to Biology
+%O Synthetic Biology: Applying Engineering to Biology
+
+
+%0 Journal Article
+%A Fischer, Michael M.J.
+%D 2007
+%T Four genealogies for a recombinant anthropology of science and technology
+%J Cultural Anthropology
+%V 22
+%N 4
+%P 539-615
+%O Four genealogies for a recombinant anthropology of science and technology
+%O 002030; e-archived
+
+
+%0 Book
+%A Franklin, Sarah
+%A Lock, Margaret M.
+%D 2003
+%T Remaking life & death : toward an anthropology of the biosciences
+%S School of American Research advanced seminar series
+%I School of American Research Press ;
+James Currey
+%C Santa Fe
+Oxford
+%P xii, 372 p.
+%O 1st
+%O Remaking life & death : toward an anthropology of the biosciences
+%O 1930618190 (hbk. alk. paper)
+1930618204 (pbk. alk. paper)
+%O 13076594
+%O Jefferson or Adams Bldg General or Area Studies Reading Rms QP81; .R45 2003
+Main or Science/Business Reading Rms - STORED OFFSITE QP81; .R45 2003
+%K Life (Biology) Social aspects.
+Medical anthropology.
+Physical anthropology.
+Human reproductive technology Social aspects.
+Biotechnology Social aspects.
+Death Social aspects.
+%O 2003002084
+edited by Sarah Franklin and Margaret Lock.
+Remaking life and death
+ill. ; 24 cm.
+Includes bibliographical references (p. 329-360) and index.
+Animation and cessation: the remaking of life and death / Sarah Franklin and Margaret Lock -- On beginning and ending with apoptosis: cell death and biomedicine / Hannah Landecker -- Life/time warranty: rechargeable cells and extendable lives / Linda F. Hogle -- Ethical biocapital: new strategies of cell culture / Sarah Franklin -- Cell life and death, child life and death: genomic horizons, genetic diseases, family stories / Rayna Rapp -- On making up the good-as-dead in a utilitarian world / Margaret Lock -- Suspended animation: a brine shrimp essay / Corinne P. Hayden -- Life@sea: networking marine biodiversity into biotech futures / Stefan Helmreich -- Embryo tales / Lynn Morgan -- Cloning mutts, saving tigers: ethical emergents in technocultural dog worlds / Donna J. Haraway.
+%O http://www.loc.gov/catdir/toc/fy037/2003002084.html
+
+
+%0 Report
+%A Garfinkel, Michele S.
+%A Drew Endy
+%A Gerald L. Epstein
+%A Friedman, Robert M.
+%D 2007
+%T SYNTHETIC GENOMICS Options for Governance
+%I Craig J. Venter Institute
+%O October
+%O SYNTHETIC GENOMICS Options for Governance
+
+
+%0 Book
+%A Gibbon, Sahra
+%D 2007
+%T Breast cancer genes and the gendering of knowledge : science and citizenship in the cultural context of the "new" genetics
+%I Palgrave
+%C New York
+%O Breast cancer genes and the gendering of knowledge : science and citizenship in the cultural context of the "new" genetics
+%O 9781403999016
+1403999015 (cloth)
+%K Breast Cancer Genetic aspects.
+Breast Cancer Social aspects.
+%O Sahra Gibbon.
+%O http://www.loc.gov/catdir/enhancements/fy0665/2006050342-d.html
+http://www.loc.gov/catdir/enhancements/fy0665/2006050342-t.html
+http://www.loc.gov/catdir/enhancements/fy0805/2006050342-b.html 
+
+
+%0 Book
+%A Gibbon, Sahra
+%A Novas, Carlos
+%D 2007
+%T Genetics, biosociality, and the social sciences : making biologies and identities
+%I Routledge
+%C Abingdon, Oxon ; New York
+%P p.
+%O Genetics, biosociality, and the social sciences : making biologies and identities
+%O 9780415401371 (hardback)
+0415401372 (hardback)
+9780415401388 (pbk.)
+0415401380 (pbk.)
+%K Genetics.
+Social sciences.
+Biotechnology.
+Genetic engineering.
+Genetics, Medical.
+Biotechnology.
+Genetic Engineering.
+Genome, Human.
+Reproductive Medicine.
+Social Medicine.
+%O edited by Sahra Gibbon and Carlos Novas.
+cm.
+Introduction: biosocialities, genetics, and the social sciences / Sahra Gibbon and Carlos Novas -- Charity, breast cancer activism, and the iconic figure of the BRCA carrier / Sahra Gibbon -- Brains, pedigrees, and promises: lessons from the politics of autism genetics / Chloe Silverman -- Biosociality and susceptibility genes: a cautionary tale / Margaret Lock -- Biology, sociality, and reproductive modernity in Ecuadorian in-vitro fertilization: the particulars of place / Elizabeth Roberts -- Biosociality & bio-crossings: encounters with assisted conception and embryonic stem cells in India / Aditya Bhardawaj -- Synecdochic Ricochets: biosocialities in a Jerusalem IVF clinic / Michal Nahman -- Patients, profits, and values: myozyme as an exemplar of biosociality / Carlos Novas -- Biocapital as an emergent form of life: speculations on the figure of the -- Experimental subject / Kaushik Sunder Rajan -- Afterword: concept work / Paul Rabinow.
+%O http://www.loc.gov/catdir/toc/ecip078/2007001043.html
+http://www.loc.gov/catdir/enhancements/fy0705/2007001043-d.html 
+
+
+%0 Book
+%A Hayden, Cori
+%D 2003
+%T When nature goes public : the making and unmaking of bioprospecting in Mexico / Cori Hayden
+%S In-formation series
+%I Princeton University Press
+%C Princeton
+%P xv, 284 p.
+%O When nature goes public : the making and unmaking of bioprospecting in Mexico / Cori Hayden
+%O 0691095566 (alk. paper)
+0691095574 (pbk. alk. paper)
+%O Jefferson or Adams Bldg General or Area Studies Reading Rms QK99.M498 H38 2003
+Jefferson or Adams Bldg General or Area Studies Reading Rms
+%K Medicinal plants Mexico.
+Botanical drug industry Mexico.
+Ethnoscience Mexico.
+Intellectual property Mexico.
+Indigenous peoples Legal status, laws, etc. Mexico.
+Plant diversity conservation Mexico.
+Genetic resources conservation Mexico.
+%O ill. ; 24 cm.
+%O http://www.loc.gov/catdir/toc/prin051/2003043339.html
+http://www.loc.gov/catdir/description/prin031/2003043339.html 
+
+
+%0 Journal Article
+%A Hayden, Cori
+%D 2007
+%T Taking as Giving:Biosciences, Exchange and the Politics of Benefit Sharing
+%J Social Studies of Science
+%V 37
+%N October
+%P 729-758
+%O Taking as Giving:Biosciences, Exchange and the Politics of Benefit Sharing
+%O 002031;e-archived
+
+
+%0 Journal Article
+%A Helmreich, Stefan
+%D 2007
+%T Blue Green Capital
+%J Biosocieties
+%V 2
+%P 287-302
+%O Blue Green Capital
+
+
+%0 Book
+%A Hertel, Thomas W.
+%A Rose, Steven
+%A Tol, Richard S. J.
+%D 2008
+%T Economic analysis of land use in global climate change policy
+%S Routledge exploration in environmental economics
+%I Routledge
+%C New York, NY
+%O Economic analysis of land use in global climate change policy
+%O 9780415773089 (hb)
+9780203882962 (ebook)
+%O 15379767
+%K Land use Economic aspects.
+Land use Environmental aspects.
+Climatic changes Economic aspects.
+Climatic changes Government policy International cooperation.
+%O 2008032747
+[edited by] Thomas W. Hertel, Steven Rose & Richard Tol.
+
+
+%0 Book
+%A Hertel, Thomas W.
+%A Rose, Steven
+%A Tol, Richard S. J.
+%D 2008
+%T Economic analysis of land use in global climate change policy
+%S Routledge exploration in environmental economics
+%I Routledge
+%C New York, NY
+%O Economic analysis of land use in global climate change policy
+%O 9780415773089 (hb)
+9780203882962 (ebook)
+%O 15379767
+%K Land use Economic aspects.
+Land use Environmental aspects.
+Climatic changes Economic aspects.
+Climatic changes Government policy International cooperation.
+%O 2008032747
+[edited by] Thomas W. Hertel, Steven Rose & Richard Tol.
+
+
+%0 Book
+%A Hippel, Eric von
+%D 2005
+%T Democratizing innovation
+%I MIT Press
+%C Cambridge, Mass.
+%P x, 204 p.
+%O Democratizing innovation
+%O 0262002744
+%O HC79.T4 H558 2005
+338/.064
+%K Technological innovations Economic aspects.
+Diffusion of innovations.
+Democracy.
+%O Eric von Hippel.
+ill. ; 24 cm.
+%O http://www.loc.gov/catdir/toc/fy053/2004061060.html 
+
+
+%0 Book
+%A Hope, Janet
+%D 2007
+%T Biobazaar : the open source revolution and biotechnology
+%I Harvard University Press
+%C Cambridge, Mass.
+%P p.
+%O Biobazaar : the open source revolution and biotechnology
+%O 9780674026353
+0674026357
+%O K1519.B54 H67 2007
+346.04/86
+%K Biotechnology Patents.
+Technological innovations Patents.
+Patent licenses.
+Biotechnology Economic aspects.
+Technological innovations Economic aspects.
+%O Janet Hope.
+cm.
+An irresistible analogy -- The trouble with intellectual property in biotechnology -- Intellectual property and innovation -- Welcome to the bazaar -- Open source licensing for biotechnology -- Foundations of the biobazaar -- Financing open source biotechnology -- Biotechnology's open source revolution.
+
+
+%0 Book
+%A Jasanoff, Sheila
+%D 2005
+%T Designs on nature : science and democracy in Europe and the United States
+%I Princeton University Press
+%C Princeton, N.J.
+%P xiii, 374 p.
+%O Designs on nature : science and democracy in Europe and the United States
+%O 0691118116 (cloth acid-free paper)
+%O Q127.E8 J37 2005
+338.9/26
+%K Democracy and science Europe.
+Democracy and science United States.
+%O Sheila Jasanoff.
+ill. ; 24 cm.
+Why compare? -- Controlling narratives -- A question of Europe -- Unsettled settlements -- Food for thought -- Natural mothers and other kinds -- Ethical sense and sensibility -- Making something of life -- The new social contract -- Civic epistemology -- Republics of science.
+%O http://www.loc.gov/catdir/enhancements/fy0704/2004055296-d.html
+http://www.loc.gov/catdir/enhancements/fy0704/2004055296-t.html
+http://www.loc.gov/catdir/enhancements/fy0734/2004055296-b.html 
+
+
+%0 Book
+%A Keller, Evelyn Fox
+%D 2002
+%T Making sense of life : explaining biological development with models, metaphors, and machines
+%I Harvard University Press
+%C Cambridge, Mass.
+%P xii, 388 p.
+%O Making sense of life : explaining biological development with models, metaphors, and machines
+%O 0674007468 (alk. paper)
+%O QH491 .K387 2002
+570/.1
+%K Developmental biology.
+%O Evelyn Fox Keller.
+ill. ; 22 cm.
+
+
+%0 Book
+%A Koenig, Barbara A.
+%A Lee, Sandra Soo-Jin
+%A Richardson, Sarah
+%D 2008
+%T Revisiting race in a genomic age
+%I Rutgers University Press
+%C New Brunswick, N.J.
+%O Revisiting race in a genomic age
+%O 9780813543239 (hardcover alk. paper)
+9780813543246 (pbk. alk. paper)
+%O GN269 .R48 2008
+305.8
+%K Race.
+Genomics Social aspects.
+Genomics Moral and ethical aspects.
+%O edited by Barbara A. Koenig, Sandra Soo-Jin Lee, and Sarah Richardson.
+Studies in medical anthropology
+Race : past, present, and future / Jonathan Marks -- What genes are, and why there are no 'genes for race' / John Dupre -- A social constructionist analysis of race / Sally Haslanger -- Individual ancestry inference and the reification of race as a biological phenomenon / Deborah A. Bolnick -- Race, ancestry and medicine / Marcus W. Feldman and Richard C. Lewontin -- Will tomorrow's medicines work for everyone? / Sarah K. Tate and David B. Goldstein -- Patenting race in a genomic age / Jonathan Kahn -- The molecularization of race : US health institutions, pharmacogenetics practice and public science after the genome / Duana Fullwiley -- Tracking "race" in addiction research / Molly J. Dingel and Barbara A. Koenig -- Genetic ancestry and the search for personalized genetic histories / Mark D. Shriver and Rick A Kittles -- Genetic genealogy : genetics meets the marketplace / Henry T. Greely -- Native-American-DNA.com : in search of Native American race and tribe / Kimberly TallBear -- The factness of diaspora : kinship aspirations and genetic genealogy testing / Alondra Nelson -- Moving beyond the two race mantra / Pamela Sankar -- Cops, sports, and schools : how the news media frames coverage of genetics and race / Sally Lehrman -- Race without salvation : beyond the science/society divide in genomic studies of human diversity / Jenny Reardon -- The feasibility of government oversight for NIH-funded population genetics research / Jacqueline Stevens -- Racial realism and the discourse of responsibility for health disparities in a genomic age / Sandra Soo-Jin Lee.
+
+
+%0 Book
+%A Landecker, Hannah
+%D 2007
+%T Culturing life : how cells became technologies
+%I Harvard University Press
+%C Cambridge, Mass.
+%P x, 276 p.
+%O Culturing life : how cells became technologies
+%O 9780674023284
+0674023285 (alk. paper)
+%O 14436957
+%O Jefferson or Adams Bldg General or Area Studies Reading Rms QH585.2; .L36 2007
+%K Cell culture.
+Tissue culture.
+Biotechnology.
+%O 2006049019
+Hannah Landecker.
+ill. ; 22 cm.
+Includes bibliographical references (p. [239]-271) and index.
+
+
+%0 Book
+%A Lewontin, Richard C.
+%A Rose, Steven P. R.
+%A Kamin, Leon J.
+%D 1984
+%T Not in our genes : biology, ideology, and human nature
+%I Pantheon Books
+%C New York
+%P xi, 322 p.
+%O 1st
+%O Not in our genes : biology, ideology, and human nature
+%O 0394508173
+%O 935198
+%O Jefferson or Adams Bldg General or Area Studies Reading Rms BF341; .L49 1984
+Main or Science/Business Reading Rms - STORED OFFSITE BF341; .L49 1984
+%K Nature and nurture Political aspects.
+Determinism (Philosophy) Political aspects.
+Behavior genetics Political aspects.
+Psychology Methodology Political aspects.
+Psychiatry Methodology Political aspects.
+United States Social policy.
+%O 83043145
+R.C. Lewontin, Steven Rose, and Leon J. Kamin.
+25 cm.
+Includes bibliographical references and index.
+
+
+%0 Book
+%A Lock, Margaret M.
+%A Farquhar, Judith
+%D 2007
+%T Beyond the body proper : reading the anthropology of material life
+%I Duke University Press
+%C Durham, [N.C.]
+%O Beyond the body proper : reading the anthropology of material life
+%O 9780822338307 (cloth alk. paper)
+9780822338451 (pbk. alk. paper)
+%O HM636 .B48 2007
+306.4
+%K Body, Human.
+Human physiology.
+Physical anthropology.
+Body, Human Social aspects.
+Medical anthropology.
+%O edited by Margaret Lock and Judith Farquhar.
+Body, commodity, text
+An emergent canon, or putting bodies on the scholarly agenda -- Introduction -- Friedrich Engels on the part played by labor in the transition from ape to man / Robert Hertz -- The pre-eminence of the right hand / Marcel Granet --Right and left in China / Marcel Mauss -- Techniques of the body / Victor Turner --Symbols in Ndembu ritual / Terence Turner -- The social skin -- Philosophical studies, or learning how to think embodiment -- Introduction -- Karl Marx and opposition of the materialist and idealist outlook / Friedrich Engels -- Walter Benjamin on the mimetic faculty / Maurice Merleau-Ponty -- From the phenomenology of perception / Ian Hacking -- Making up people / Judith Butler -- From bodies that matter / Bruno Latour -- Do you believe in reality? -- Fundamental processes, or denaturalizing the given -- Introduction / E. E. Evans-Pritchard -- Time and space / Caroline WalK Bynum -- Women mystics and eucharistic devotion in the thirteenth century / Kristofer M. Schipper -- On breath / Henry Abelove -- Some speculations on the history of "sexual intercourse" during the "long eighteenth century" in England / Margaret Lock -- Human body parts as therapeutic tools : contradictory discourses and transformed subjectivities / Anna Lowenhaupt -- Tsing Meratus embryology -- Everyday life, or exploring the body's times and spaces -- Introduction to Part IV / Michel de Certeau -- Walking in the city / Michael Taussig -- Tactility and distraction / Peter Stallybrass and Allon White -- The city, the gaze, and the contaminating touch -- Judith Farquhar -- Medicinal meals / Nancy K. Miller -- Rereading as a woman : the body in practice -- Colonized bodies, or analyzing the materiality of domination -- Introduction ./ Janice Boddy --Remembering Amal : on birth and the British in Northern Sudan / Susan Pedersen -- National bodies, unspeakable acts : the sexual politics of colonial policy making / Stuart Cosgrove -- The zoot suit and style warfare -- John D. O'Neil -- Cooptation and control : the reconstruction of Inuit birth / Patricia Leyland Kaufert, Jean Langford -- Dosic bodies/docile bodies -- Desires and identities, or negotiating sex and gender -- Introduction / John Boswell -- Men, beasts, and "nature" / Gregory M. Pflugfelder -- Cartographies of desire : male-male sexuality in Japanese discourse / Emily Martin -- The egg and the sperm : how science has constructed a romance based on stereotypical male-female roles / Gilles Deleuze -- We always make love with worlds / Felix Guattari -- Bodies at the margin, or attending to distress and difference -- Introduction / Barbara Duden -- The woman beneath the skin : a doctor's patients in eighteenth-century Germany / Mariella Pandolfi-- Memory within the body : women's narrative and identity in a Southern Italian village / Nancy Scheper-Hughes -- Nervoso / Arthur Kleinman -- Somatization : the interconnections in Chinese / Joan Kl/nman -- Society among culture, depressive experiences and the meanings of pain -- Alice Domurat Dreger-- Jarring bodies : thoughts on the display of -- Unusual anatomies -- Capitalist production, or accounting the commodification of bodily life -- Introduction / E. P. Thompson --Time, work-discipline, and industrial capitalism / Aihwa Ong --The production of possession : spirits and the multinational corporation in Malaysia / Brad Weiss plastic teeth extraction : the iconography of Haya gastro-sexual affliction -- Matthew Schmidt and constructing a "good catch," picking a winner / Lisa Jean Moore -- The development of technosemen and the deconstruction of the monolithic male / Margaret Lock -- Alienation of body parts and the biopolitics of immortalized cell lines -- Knowing systems, or tracking the bodies of the biosciences -- Introduction / Shigehisa Kuriyama -- Pulse diagnosis in the Greek and Chinese traditions / Rayna Rapp -- Real-time fetus : the role of the sonogram in the age of monitored reproduction / Charis Thompson -- Quit sniveling, cryo-baby, we'll work out which one's your mama! / Jos van Dijck -- Bodyworlds : the art of plasti
+%O http://www.loc.gov/catdir/toc/ecip071/2006028687.html 
+
+
+%0 Journal Article
+%A O'Malley, Maureen A.
+%A Powell, Alexander
+%A Davies, Jonathan F.
+%A Calvert, Jane
+%D 2008
+%T Knowledge-making distinctions in synthetic biology
+%J Bioessays
+%V 30
+%N 1
+%O 2008
+%P 57-65
+%O Knowledge-making distinctions in synthetic biology
+%O 0265-9247
+%O MEDLINE:18081015
+%X Synthetic biology is an increasingly high-profile area of research that can be understood as encompassing three broad approaches towards the synthesis of living systems: DNA-based device construction, genome-driven cell engineering and protocell creation. Each approach is characterized by different aims, methods and constructs, in addition to a range of positions on intellectual property and regulatory regimes. We identify subtle but important differences between the schools in relation to their treatments of genetic determinism, cellular context and complexity. These distinctions tie into two broader issues that define synthetic biology: the relationships between biology and engineering, and between synthesis and analysis. These themes also illuminate synthetic biology's connections to genetic and other forms of biological engineering, as well as to systems biology. We suggest that all these knowledge-making distinctions in synthetic biology raise fundamental questions about the nature of biological investigation and its relationship to the construction of biological components and systems. (c) 2007 Wiley Periodicals, Inc.
+%O <Go to ISI>://MEDLINE:18081015 
+
+
+%0 Book
+%A Parry, Bronwyn
+%D 2004
+%T Trading the genome : investigating the commodification of bio-information
+%I Columbia University Press
+%C New York
+%P xxi, 319 p.
+%O Trading the genome : investigating the commodification of bio-information
+%O 0231121741 (cloth alk. paper)
+%O Jefferson or Adams Bldg General or Area Studies Reading Rms TP248.23 .P376 2004
+%K Biotechnology Social aspects.
+Germplasm resources.
+Bioinformatics.
+%O Bronwyn Parry.
+ill. ; 24 cm.
+Revision of author's PHD thesis entitled The fate of the collections--University of Cambridge, 1998.
+
+
+%0 Journal Article
+%A Peccoud, Jean
+%A Blauvelt, Megan F.
+%A Cai, Yizhi
+%A Cooper, Kristal L.
+%A Crasta, Oswald
+%A DeLalla, Emily C.
+%A Evans, Clive
+%A Folkerts, Otto
+%A Lyons, Blair M.
+%A Mane, Shrinivasrao P.
+%A Shelton, Rebecca
+%A Sweede, Matthew A.
+%A Waldon, Sally A.
+%D 2008
+%T Targeted Development of Registries of Biological Parts
+%J PLoS One
+%V 3
+%N 7
+%O Targeted Development of Registries of Biological Parts
+%O http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=2441434
+
+
+%0 Book
+%A Rabinow, Paul
+%A Dan-Cohen, Talia
+%D 2005
+%T A machine to make a future : biotech chronicles
+%I Princeton University Press
+%C Princeton, N.J.
+%P 199 p.
+%O A machine to make a future : biotech chronicles
+%O 0691120501 (cl. alk. paper)
+%O Jefferson or Adams Bldg General or Area Studies Reading Rms QH445.2 .R336 2005
+Jefferson or Adams Bldg General or Area Studies Reading Rms QH445.2 .R336 2005
+%K Celera Diagnostics.
+Human Genome Project.
+Biotechnology industries California.
+Business anthropology.
+%O Paul Rabinow and Talia Dan-Cohen.
+ill. ; 24 cm.
+A machine to make a future -- Ending and beginning -- The state of things at Celera Diagnostics, explained to investors and to anthropologists -- The machinery and its stewards -- Ethical and social consultancy -- Confidence and trust -- Models Orient, technologies perform, samples speak (or vice versa) -- Summer 2003.
+%O http://www.loc.gov/catdir/enhancements/fy0654/2004045778-b.html
+http://www.loc.gov/catdir/enhancements/fy0654/2004045778-d.html
+http://www.loc.gov/catdir/enhancements/fy0654/2004045778-t.html 
+
+
+%0 Journal Article
+%A Rajan, Kaushik Sunder
+%D 2003
+%T GENOMIC CAPITAL: Public Cultures and Market Logics of Corporate Biotechnology
+%J Science as Culture
+%V 12
+%N 1
+%P 87-121
+%O GENOMIC CAPITAL: Public Cultures and Market Logics of Corporate Biotechnology
+
+
+%0 Journal Article
+%A Ratto, Mathew
+%D 2006
+%T Foundations and profiles: splicing metaphors in genetic databases and biobanks 
+%J Public Understanding of Science
+%V 15
+%P 1
+%O Foundations and profiles: splicing metaphors in genetic databases and biobanks 
+
+
+%0 Book
+%A Reardon, Jenny
+%D 2005
+%T Race to the finish : identity and governance in an age of genomics
+%S In-formation series
+%I Princeton University Press
+%C Princeton
+%P xii, 237 p.
+%O Race to the finish : identity and governance in an age of genomics
+%O 0691118566 (cl alk. paper)
+0691118574 (pbk. alk. paper)
+%O QH431 .R248 2005
+2005 L-279
+QU 450 R288r 2005
+306.4/5
+%K Human population genetics Social aspects.
+Human Genome Project.
+Human Genome Project.
+Genetics, Population.
+Continental Population Groups genetics.
+%O Jenny Reardon.
+25 cm.
+Post-World War II expert discourses on race -- In the legacy of Darwin -- Diversity meets anthropology -- Group consent and the informed, volitional subject -- Discourses of participation.
+%O http://www.loc.gov/catdir/description/prin051/2004050569.html
+http://www.loc.gov/catdir/enhancements/fy0734/2004050569-b.html 
+
+
+%0 Book
+%A Rees, David A.
+%A Rose, Steven P. R.
+%D 2004
+%T The new brain sciences : perils and prospects
+%I Cambridge University Press
+%C New York
+%P xiv, 301 p.
+%O The new brain sciences : perils and prospects
+%O 0521830095 (hbk.)
+0521537142 (pbk.)
+%O 13506319
+%O Jefferson or Adams Bldg General or Area Studies Reading Rms RC341; .N53 2004
+Main or Science/Business Reading Rms - STORED OFFSITE RC341; .N53 2004
+%K Neurosciences Philosophy.
+Neurosciences Moral and ethical aspects.
+%O 2004045660
+edited by Dai Rees and Steven Rose.
+ill. ; 23 cm.
+Includes bibliographical references (p. [276]-284) and index.
+%O http://www.loc.gov/catdir/toc/cam041/2004045660.html
+http://www.loc.gov/catdir/description/cam041/2004045660.html
+http://www.loc.gov/catdir/enhancements/fy0732/2004045660-b.html
+
+
+%0 Report
+%A Rinie van Est, Huib de Vriend, Bart Walhout
+%D 2007
+%T Constructing Life. The World of Synthetic Biology
+%I Rathenau Institut
+%O November
+%O Constructing Life. The World of Synthetic Biology
+
+
+%0 Book
+%A Rose, Hilary
+%A Rose, Steven P. R.
+%D 1976
+%T The Political economy of science : ideology of/in the natural sciences
+%S Critical social studies
+%I Macmillan
+%C London
+%P xxvi, 218 p.
+%O The Political economy of science : ideology of/in the natural sciences
+%O 0333211383
+0333211391
+%O 2725297
+%O Jefferson or Adams Bldg General or Area Studies Reading Rms Q175; .P829
+%K Science Philosophy.
+Science Social aspects.
+%O 77355457
+GB***
+£10.00.
+edited by Hilary Rose and Steven Rose.
+23 cm.
+Includes bibliographical references and index.
+
+
+%0 Book
+%A Rose, Hilary
+%A Rose, Steven P. R.
+%D 1976
+%T The Radicalisation of science : ideology of/in the natural sciences
+%S Critical social studies
+%I Macmillan
+%C London
+%P xxvi, 205 p.
+%O The Radicalisation of science : ideology of/in the natural sciences
+%O 0333211405
+0333211413
+%O 836223
+%O Jefferson or Adams Bldg General or Area Studies Reading Rms Q175.5; .R3
+%K Science Social aspects.
+Science Philosophy.
+%O 77360175
+GB***
+£10.00.
+edited by Hilary Rose and Steven Rose.
+23 cm.
+Includes bibliographical references and index.
+
+
+%0 Book
+%A Rose, Hilary
+%A Rose, Steven P. R.
+%D 1980
+%T Ideology of/in the natural sciences
+%I G. K. Hall
+%C Boston
+%P xliii, 363 p.
+%O Ideology of/in the natural sciences
+%O 081619002X
+%O 392230
+%O Jefferson or Adams Bldg General or Area Studies Reading Rms Q175; .I3 1980
+Main or Science/Business Reading Rms - STORED OFFSITE Q175; .I3 1980
+%K Science Philosophy.
+Science Social aspects.
+%O 79018748
+edited by Hilary Rose and Steven Rose ; with an introductory essay by Ruth Hubbard.
+21 cm.
+Includes bibliographical references and index.
+
+
+%0 Book
+%A Rose, Hilary
+%A Rose, Steven P. R.
+%D 2000
+%T Alas, poor Darwin : arguments against evolutionary psychology
+%I Harmony Books
+%C New York
+%P vi, 346 p.
+%O 1st American
+%O Alas, poor Darwin : arguments against evolutionary psychology
+%O 0609605135
+%O 11940482
+%O Jefferson or Adams Bldg General or Area Studies Reading Rms BF701; .A43 2000
+%K Evolutionary psychology.
+Human evolution.
+%O 00035062
+edited by Hilary Rose and Steven Rose.
+25 cm.
+Includes bibliographical references (p. 329-337) and index.
+%O http://www.loc.gov/catdir/bios/random052/00035062.html
+http://www.loc.gov/catdir/samples/random041/00035062.html
+http://www.loc.gov/catdir/description/random042/00035062.html
+
+
+%0 Book
+%A Rose, Hilary
+%A Rose, Steven P. R.
+%D 2000
+%T Alas, poor Darwin : arguments against evolutionary psychology
+%I Harmony Books
+%C New York
+%P vi, 346 p.
+%O 1st American
+%O Alas, poor Darwin : arguments against evolutionary psychology
+%O 0609605135
+%O 11940482
+%O Jefferson or Adams Bldg General or Area Studies Reading Rms BF701; .A43 2000
+%K Evolutionary psychology.
+Human evolution.
+%O 00035062
+edited by Hilary Rose and Steven Rose.
+25 cm.
+Includes bibliographical references (p. 329-337) and index.
+%O http://www.loc.gov/catdir/bios/random052/00035062.html
+http://www.loc.gov/catdir/samples/random041/00035062.html
+http://www.loc.gov/catdir/description/random042/00035062.html
+
+
+%0 Book
+%A Rose, Nikolas
+%D 2006
+%T The politics of life itself : biomedicine, power, and subjectivity in the twenty-first century
+%I Princeton University Press
+%C Princeton, NJ
+%O The politics of life itself : biomedicine, power, and subjectivity in the twenty-first century
+%O 9780691121901 (alk. paper)
+0691121907 (alk. paper)
+%O Nikolas Rose.
+%O http://www.loc.gov/catdir/enhancements/fy0668/2006932070-d.html
+http://www.loc.gov/catdir/enhancements/fy0704/2006932070-t.html
+http://www.loc.gov/catdir/enhancements/fy0734/2006932070-b.html 
+
+
+%0 Book
+%A Rose, Steven J.
+%A North Carolina. General Assembly.
+%A North Carolina. General Assembly. Legislative Services Office. Research Division.
+%D 1995
+%T Standing committees : a guide for the professional staff of the Research Division
+%I North Carolina General Assembly
+%C [Raleigh, N.C.?]
+%P 30 leaves
+%O Standing committees : a guide for the professional staff of the Research Division
+%O 4012332
+%O Law Library Reading Room (Madison, LM201) KFN7821.5.C6; A25 1995
+%K North Carolina. General Assembly Committees Handbooks, manuals, etc.
+North Carolina. General Assembly Officials and employees Handbooks, manuals, etc.
+%O 96620650
+(OCoLC)33934661
+04400 NCTE
+[prepared by ... Steven Rose ... [et al.]].
+28 cm.
+Cover title.
+"February 1995."
+
+
+%0 Book
+%A Rose, Steven P. R.
+%D 1998
+%T From brains to consciousness? : essays on the new sciences of the mind
+%I Princeton University Press
+%C Princeton, NJ
+%P x, 278 p
+%O From brains to consciousness? : essays on the new sciences of the mind
+%O 0691004692 (cloth alk. paper)
+%O 4506780
+%O Jefferson or Adams Bldg General or Area Studies Reading Rms QP411; .F76 1998
+%K Consciousness.
+Brain.
+Neuropsychology.
+Memory.
+%O 98024383
+edited by Steven Rose.
+ill. ; 24 cm.
+Includes bibliographical references and index.
+%O http://www.loc.gov/catdir/toc/prin032/98024383.html
+http://www.loc.gov/catdir/description/prin021/98024383.html
+
+
+%0 Book
+%A Rose, Steven P. R.
+%A Appignanesi, Lisa
+%A Institute of Contemporary Arts (London England)
+%D 1986
+%T Science and beyond
+%I B. Blackwell in association with the Institute of Contemporary Arts
+%C Oxford ; New York, N.Y., USA
+%P viii, 211 p.
+%O Science and beyond
+%O 0631144838
+%O 3332859
+%O Jefferson or Adams Bldg General or Area Studies Reading Rms Q175; .S416 1986
+%K Science Philosophy.
+Science Social aspects.
+%O 85018646
+edited by Steven Rose and Lisa Appignanesi.
+24 cm.
+Bibliography: p. [197]-202.
+Includes index.
+
+
+%0 Book
+%A Rose, Steven P. R.
+%A Dialectics of Biology Group.
+%D 1982
+%T Against biological determinism
+%I Allison & Busby ;
+Distributed in the USA by Schocken Books
+%C London ; New York
+New York, N.Y.
+%P 184 p.
+%O Against biological determinism
+%O 0850314240 (pbk.)
+0850314232
+%O 2795505
+%O Jefferson or Adams Bldg General or Area Studies Reading Rms QH331; .A3 1982
+%K Biology Philosophy Congresses.
+Medicine Philosophy Congresses.
+%O 81165677
+£4.50 (
+£9.95
+The Dialectics of Biology Group ; general editor, Steven Rose.
+20 cm.
+Papers presented at a conference held in Bressanone, Italy, Mar. 26-30, 1980.
+Includes bibliographical references and index.
+Biology and ideology : the uses of reductionism / Martin Barker -- Human nature and social explanation / Janna L. Thompson -- On oppositions to reductionism / Hilary Rose and Steven Rose -- Cleaving the mind : speculations on conceptual dichotomies / Lynda Birke -- The ideology of medicine / Lesley Rogers -- Disease models and reductionist thinking in the biomedical sciences / Giorgio Bignami -- Hierarchical structures and structural descriptions / Giacomo Gava -- Holism and reductionism are compatible / Allan Muir -- Matter, information and their interaction in memory processes / Lauro Galzigna -- Reduction reassessed / Werner Callebaut.
+
+
+%0 Book
+%A Rose, Steven P. R.
+%A Dialectics of Biology Group.
+%D 1982
+%T Against biological determinism
+%I Allison & Busby ;
+Distributed in the USA by Schocken Books
+%C London ; New York
+New York, N.Y.
+%P 184 p.
+%O Against biological determinism
+%O 0850314240 (pbk.)
+0850314232
+%O 2795505
+%O Jefferson or Adams Bldg General or Area Studies Reading Rms QH331; .A3 1982
+%K Biology Philosophy Congresses.
+Medicine Philosophy Congresses.
+%O 81165677
+£4.50 (
+£9.95
+The Dialectics of Biology Group ; general editor, Steven Rose.
+20 cm.
+Papers presented at a conference held in Bressanone, Italy, Mar. 26-30, 1980.
+Includes bibliographical references and index.
+Biology and ideology : the uses of reductionism / Martin Barker -- Human nature and social explanation / Janna L. Thompson -- On oppositions to reductionism / Hilary Rose and Steven Rose -- Cleaving the mind : speculations on conceptual dichotomies / Lynda Birke -- The ideology of medicine / Lesley Rogers -- Disease models and reductionist thinking in the biomedical sciences / Giorgio Bignami -- Hierarchical structures and structural descriptions / Giacomo Gava -- Holism and reductionism are compatible / Allan Muir -- Matter, information and their interaction in memory processes / Lauro Galzigna -- Reduction reassessed / Werner Callebaut.
+
+
+%0 Journal Article
+%A Shetty, Reshma P.
+%A Endy, Drew
+%A Knight, Thomas F.
+%D 2008
+%T Engineering BioBrick vectors from BioBrick parts
+%J Journal of Biological Engineering
+%V 2
+%N 5
+%O February
+%O Engineering BioBrick vectors from BioBrick parts
+
+
+%0 Journal Article
+%A Simpson, Michael L.
+%D 2006
+%T Cell-free synthetic biology: a bottom-up approach to discovery by design
+%J Mol Syst Biol
+%V 2
+%O 2006 (Epub 2006 Dec
+%P 69
+%O Comment;
+%O Cell-free synthetic biology: a bottom-up approach to discovery by design
+%O 1744-4292
+%O MEDLINE:17170764
+%K Index Medicus
+%O <Go to ISI>://MEDLINE:17170764 
+%O Center for Nanophase Materials Sciences, Oak Ridge National Laboratory, Oak Ridge, TN, USA.
+
+
+%0 Book
+%A Stephenson, Frank Harold
+%D 2007
+%T DNA : how the biotech revolution is changing the way we fight disease
+%I Prometheus Books
+%C Amherst, N.Y.
+%P 333 p.
+%O DNA : how the biotech revolution is changing the way we fight disease
+%O 159102482X (hardcover alk. paper)
+%O TP248.215 .S74 2007
+616/.042
+%K Biotechnology Popular works.
+Medical genetics Popular works.
+Genetic engineering Popular works.
+%O by Frank H. Stephenson.
+24 cm.
+%O http://www.loc.gov/catdir/toc/ecip0620/2006028339.html 
+
+
+%0 Book
+%A Sunder Rajan, Kaushik
+%D 2006
+%T Biocapital : the constitution of postgenomic life
+%I Duke University Press
+%C Durham
+%P xi, 343 p.
+%O Biocapital : the constitution of postgenomic life
+%O 0822337088 (cloth alk. paper)
+9780822337089 (cloth alk. paper)
+0822337207 (pbk. alk. paper)
+9780822337201 (pbk. alk. paper)
+%O Eisenhower Stacks HD9999.B442 S86 2006
+%K Biotechnology industries.
+Genomics Economic aspects.
+Pharmaceutical industry.
+Genomics economics.
+Genomics history.
+Biotechnology history.
+Drug Industry history.
+History, 20th Century.
+History, 21st Century.
+%O Kaushik Sunder Rajan.
+23 cm.
+Introduction : capitalisms and biotechnologies -- Circulations -- Exchange and value : contradictions in market logic in American and Indian genome enterprises -- Life and debt : global and local political ecologies of biocapital -- Articulations -- Vision and hype : the conjuration of promissory biocapitalist futures -- Promise and fetish : genomic facts and personalized medicine, or life is a business plan -- Salvation and nation : underlying belief structures of biocapital -- Entrepreneurs and start-ups : the story of an e-learning company -- Coda : surplus and symptom.
+%O http://www.loc.gov/catdir/toc/ecip062/2005030718.html 
+
+
+%0 Book
+%A Tapscott, Don
+%A Williams, Anthony D.
+%D 2006
+%T Wikinomics : how mass collaboration changes everything
+%I Portfolio
+%C New York
+%P 324 p.
+%O Wikinomics : how mass collaboration changes everything
+%O 1591841380
+9781591841388
+%O HD69.S8 T37 2006
+658/.046
+%K Business networks.
+Creative ability in business.
+%O Don Tapscott and Anthony D. Williams.
+24 cm.
+Wikinomics -- The perfect storm -- The peer pioneers -- Ideagoras -- The prosumers -- The new Alexandrians -- Platforms for participation -- The global plant floor -- The Wiki workplace -- Collaborative minds -- The Wikinomics playbook.
+%O http://www.wikinomics.com
+http://www.loc.gov/catdir/enhancements/fy0720/2006051390-b.html
+http://www.loc.gov/catdir/enhancements/fy0720/2006051390-d.html 
+
+
+%0 Patent
+%A Venter, J. Craig
+%A Smith, Hamilton O.
+%A Hutchinson III, Clyde A.
+%D 2007
+%T Synthetic genomes
+%O USPTO
+%C U.S.A
+%N US2007/0264688
+%O Synthetic genomes
+
+
+%0 Book
+%A Verdery, Katherine
+%A Humphrey, Caroline
+%D 2004
+%T Property in question : value transformation in the global economy
+%I Berg
+%C Oxford, UK ; New York, NY, USA
+%P xi, 324 p.
+%O English
+%O Property in question : value transformation in the global economy
+%O 1859738826 (cloth)
+1859738877 (pbk.)
+%O Jefferson or Adams Bldg General or Area Studies Reading Rms HB701 .P738 2004
+Jefferson or Adams Bldg General or Area Studies Reading Rms HB701 .P738 2004
+%K Property Philosophy.
+%O edited by Katherine Verdery and Caroline Humphrey.
+ill. ; 25 cm.
+Wenner-Gren international symposium series,
+Bodily transactions: regulating a new space of flows in "bio-information" / Bronwyn Parry -- Heritage as property / Michael A. Brown -- The selective protection of musical ideas: the "creators" and the dispossessed / Anthony Seeger -- Crude properties: the sublime and slime of oil operations in the Ecuadorian Amazon / Suzana Sawyer -- Prospecting's publics / Cori Hayden -- The obligations of ownership: restoring rights to land in postsocialist Transylvania / Katherine Verdery -- Proprietary regimes and sociotechnical systems: rights over land in Mongolia's "age of the market" / David Sneath -- At home in the violence of recognition / Elizabeth Povinelli -- Cultural rights and wrongs: uses of the concept of property / Michael Rowlands -- The menace of hawkers: property forms and the politics of market liberalization in Mumbai / Arvind Rajagopal -- Value, relations, and changing bodies: privatization and property rights in Kazakhstan / Catherine Alexander -- Economic claims and the challenges of new property / Carol M. Rose -- Cyberspatial properties: taxing questions about proprietary regimes / Bill Maurer.
+%O http://www.loc.gov/catdir/description/hol053/2004003079.html
+http://www.loc.gov/catdir/toc/ecip0415/2004003079.html
+http://www.loc.gov/catdir/enhancements/fy0623/2004003079-b.html 
+
+
+%0 Book
+%A Waldby, Cathy
+%A Mitchell, Robert
+%D 2006
+%T Tissue economies : blood, organs, and cell lines in late capitalism
+%S Science and cultural theory
+%I Duke University Press
+%C Durham [N.C.]
+%P viii, 231 p.
+%O Tissue economies : blood, organs, and cell lines in late capitalism
+%O 0822337576 (hdbk. alk. paper)
+0822337703 (pbk. alk. paper)
+%O Jefferson or Adams Bldg General or Area Studies Reading Rms RD127 .W35 2006
+%K Tissue banks Economic aspects.
+Tissue banks Political aspects.
+Tissue banks Moral and ethical aspects.
+Preservation of organs, tissues, etc. Economic aspects.
+Preservation of organs, tissues, etc. Political aspects.
+Preservation of organs, tissues, etc. Moral and ethical aspects.
+Tissue Donors psychology Great Britain.
+Tissue Donors psychology United States.
+Altruism Great Britain.
+Altruism United States.
+Capitalism Great Britain.
+Capitalism United States.
+Cross-Cultural Comparison Great Britain.
+Cross-Cultural Comparison United States.
+Social Responsibility Great Britain.
+Social Responsibility United States.
+Tissue and Organ Procurement economics Great Britain.
+Tissue and Organ Procurement economics United States.
+Tissue and Organ Procurement organization & administration Great Britain.
+Tissue and Organ Procurement organization & administration United States.
+%O Catherine Waldby and Robert Mitchell.
+24 cm.
+Blood banks, risk, and autologous donation: the gift of blood to oneself -- Disentangling the embryonic gift: the UK stem cell bank -- The laws of mo(o)re: waste, biovalue, and information ecologies -- Umbilical cord blood: waste, gift, venture capital -- Commodity-communities and corporate commons -- Real-time demand: information, regeneration, and organ markets -- Conclusion: the future of tissue economies.
+%O http://www.loc.gov/catdir/toc/ecip0518/2005025993.html 
+
+

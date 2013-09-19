@@ -1,0 +1,58 @@
+{\rtf1\ansi\ansicpg1252\deff0
+{\fonttbl{\f0\fnil\fprq2 Times New Roman;}}
+{\colortbl;\red0\green0\blue0;}
+\paperw12240\paperh15840\margl1800\margr1800\margt1440\margb1440\fet2\ftnbj\aenddoc
+\pgnrestart\pgnstarts0
+\pard\plain \fi0\ltrch\loch {\f0\fs20 Kaufman, L. & Rousseeuw, P.J. }{\f0\fs20\i1 Finding Groups in Data}{\f0\fs20 . (Wiley Online Library: 1990). }
+\par\plain {\f0\fs20 Partitioning vs hierarchical}
+\par\plain {\f0\fs20 Computing dissimilarites (DAISY)}
+\par\plain {\f0\fs20 Partitioning around medoids (PAM)}
+\par\plain {\f0\fs20 Clustering Large Applications (CLARA)}
+\par\plain {\f0\fs20 Fuzzy Analysis (FANNY)}
+\par\plain {\f0\fs20 Agglomerative Nesting (AGNES)}
+\par\plain {\f0\fs20 Divisive Analysis (DIANA)}
+\par\plain {\f0\fs20 Monothetic Analysis (MONA)}
+\par\plain \f0\fs20
+\par\plain {\f0\fs20 Cluster analysis is the art of finding groups in data. 1}
+\par\plain \f0\fs20
+\par\plain {\f0\fs20 Such groups are called }{\f0\fs20\i1 clusters, }{\f0\fs20\i0 and to discover them is the aim of cluster analysis. 1}
+\par\plain \f0\fs20\i0
+\par\plain {\f0\fs20\i0 The reason for this variety of methods is probably two fold \uc1\u8230\'85 }
+\par\plain {\f0\fs20\i0 Automatic classification is a very young scientific discipline in vigorous development, as can be seen from the thousands of articles scattered over many periodicals (mainly jounrnals of statistics, biology, psychometrics, computer science and marketing). }
+\par\plain {\f0\fs20\i0 The second main reason for the diversity of algorithms is that there exists no general definition of a cluster, and in fact there are several kinds fo them: spherical clusters, drawn-out clusters, linear clusters and so on.  3}
+\par\plain \f0\fs20\i0
+\par\plain {\f0\fs20\i0 Clustering algorithms typically operate on either of two input structures. 3 \uc1\u8230\'85 aan }{\f0\fs20\i1 n-}{\f0\fs20\i0 by-}{\f0\fs20\i1 p }{\f0\fs20\i0 matrix, where the rows correspond to the objects and columns to the attributes.  \uc1\u8230\'85 The second structure is a collection of proximities that must be available in all pairs of objects. These proximities make up an }{\f0\fs20\i1 n-}{\f0\fs20\i0 by-}{\f0\fs20\i1 n}{\f0\fs20\i0  table. 4}
+\par\plain {\f0\fs20\i0 We shall consider tow types of proximities , namely dissimilarities (which measure how far objects are away from each other) and similarities (which measure how much they resemble each other) 4. }
+\par\plain {\f0\fs20\i0 To avoid this dependence on the choice of measurement units, one has the option of standardizing the data. 6}
+\par\plain {\f0\fs20\i0 The next step is to compute distances between the objects, in order to quantify their degree of dissimilarity. It is necessary to have a distance for each pair of objects }{\f0\fs20\i1 I }{\f0\fs20\i0 and }{\f0\fs20\i1 j.}{\f0\fs20\i0  The most popular choice is the }{\f0\fs20\i1 Euclidean distance}{\f0\fs20\i0 . 11}
+\par\plain {\f0\fs20\i0 Another well-known metric is the }{\f0\fs20\i1 city block}{\f0\fs20\i0  or }{\f0\fs20\i1 Manhattan distance.}{\f0\fs20\i0  \uc1\u8230\'85 The Manhattan distance was used in cluster analysis context by Carmichael and Sneaht (1969). 12}
+\par\plain {\f0\fs20\i0 In all this, it should be noted that a variable not containing any relevant information (say, the telephone number of each person) is worse than useless, because it will make the clustering less apparent. The occurrence of several such \hich\f0 \ldblquote \loch\f0 trash variables\hich\f0 \rdblquote \loch\f0  will kill the whole clustering because they yield a lot of random terms in the distances, thereby hiding the useful information provided by the other variables. 14}
+\par\plain \f0\fs20\i0
+\par\plain {\f0\fs20\i0 Dissimilarities can be obtained in several ways. Often they can be computed from variables that are binary, nominal, ordinal, interval, or a combination of these. \uc1\u8230\'85 Also, dissimilarities can be simple subjective ratings of how much certain objects differ from each other, from the point of view of one or more observers. 17}
+\par\plain {\f0\fs20\i0  Similarity coefficient: The more objects }{\f0\fs20\i1 I}{\f0\fs20\i0  and }{\f0\fs20\i1 j}{\f0\fs20\i0 are alike (or close), the larger }{\f0\fs20\i1 s(i,j) }{\f0\fs20\i0  becomes. 20}
+\par\plain {\f0\fs20\i0 In order to define similarities between }{\f0\fs20\i1 variables,}{\f0\fs20\i0  we can again resort to the Pearson or the Spearman correlation coefficient. 21}
+\par\plain {\f0\fs20\i0 Suppose the data consist of a similarity matrix but one wants to apply a clustering algorithm designed for dissimilarities. Then it is necessary to transform the similarities into dissimilarities. 21}
+\par\plain \f0\fs20\i0
+\par\plain {\f0\fs20\i0 Binary variables have only two possible outcomes (or states). 22 }
+\par\plain {\f0\fs20\i0 When computing a similarity }{\f0\fs20\i1 s(i,j) }{\f0\fs20\i0  or a dissimilarity }{\f0\fs20\i1 d(i,j) }{\f0\fs20\i0 between two objects }{\f0\fs20\i1 I }{\f0\fs20\i0  and }{\f0\fs20\i1 j, }{\f0\fs20\i0 one draws a 2-by-2 contingency talbe}
+\par\plain {\f0\fs20\i0 The binary variable \hich\f0 \ldblquote \loch\f0 sex\hich\f0 \rdblquote \loch\f0  possesses the possible states \hich\f0 \ldblquote \loch\f0 male\hich\f0 \rdblquote \loch\f0  and \hich\f0 \ldblquote \loch\f0 female.\hich\f0 \rdblquote \loch\f0  Both are equally valuable and carry the same weight. There is no preference for which outcome should be coded as 0 and which as 1. Such a variable is called }{\f0\fs20\i1 symmetric. .. }{\f0\fs20\i0 For symmetric variables, it is natural to work with }{\f0\fs20\i1 invariant }{\f0\fs20\i0 similarities.23}
+\par\plain {\f0\fs20\i0 The most well known of these [invariant similarities] is the }{\f0\fs20\i1 simple matching }{\f0\fs20\i0 coefficient, which looks for the percentage of matches. 25 See Zubin, 1938, Dumas, 1955,  Sokal & Michener, 1958, Sneanth 1962). Also called the }{\f0\fs20\i1 M-coefficient or affinity index}{\f0\fs20\i0  25}
+\par\plain \f0\fs20\i0
+\par\plain {\f0\fs20\i0 When working with asymmetric binary variables, we need other proximity coefficients. By convention, we shall always code the most important outcome (which is typically the rarest one) by 1, and the other 0. 26}
+\par\plain {\f0\fs20\i0 The most famous noninvariant coefficient is due to Jaccard (1908) and looks like the simple matching coefficent, except for leaving out }{\f0\fs20\i1 d entirely. }{\f0\fs20\i0 26}
+\par\plain {\f0\fs20\i0 When both symmetric and asymmetric binary variables occur in the same data set, one can apply the \hich\f0 \ldblquote \loch\f0 mixed variables\hich\f0 \rdblquote \loch\f0  approach. 27}
+\par\plain {\f0\fs20\b1\i0 Nominal variables}
+\par\plain {\f0\fs20\i0 By far the most common way of measuring the similarity or dissimilarity between some objects }{\f0\fs20\i1 I }{\f0\fs20\i0 and }{\f0\fs20\i1 j }{\f0\fs20\i0  that are characterized through nominal variables is to the }{\f0\fs20\i1 simple matchign }{\f0\fs20\i0 approach (Sokal & Michener, 1958).  Simply matching dissimilarities can be computed by means of the program DAISY. 29}
+\par\plain {\f0\fs20\b1\i0 Ordinal variables}
+\par\plain {\f0\fs20\b0\i0 A discrete ordinal variable looks like a nominal variable, only now the }{\f0\fs20\b0\i1 M }{\f0\fs20\b0\i0 states are ordered in a meaningful sequence. The codes 1 \uc1\u8230\'85. }{\f0\fs20\b0\i1 M }{\f0\fs20\b0\i0 are no longer arbitrary.  29}
+\par\plain {\f0\fs20\b0\i0 Ordinal variables are very useful for registing subjective assessments of qualities that cannot be measured objectivity. 29}
+\par\plain {\f0\fs20\b1\i0 Mixed variables}
+\par\plain {\f0\fs20\b0\i0 Data with mixed variables can be treated in several ways \uc1\u8230\'85. In our opinion, the most convenient approach is to combine the different variables into a single proximity matrix, as was proposed by Ducker (1965) (Rubin, 1967) and (Colless 1967). The definition of (Gower, 1971a) takes care of interval, nominal, and binary data 35.}
+\par\plain \f0\fs20\b0\i0
+\par\plain {\f0\fs20\b0\i0 Discussion of Gower\hich\f0 \rquote \loch\f0 s formula shows how it handles all the different data types sensibly (35) The computations can performed with the program DAISY 35}
+\par\plain {\f0\fs20\b0\i0 ?daisy in R gives a good description of this}
+\par\plain {\f0\fs20\b1\i0 Which clustering algorithm to choose?}
+\par\plain {\f0\fs20\b0\i0 A partitioning methods constructs }{\f0\fs20\b0\i1 k }{\f0\fs20\b0\i0  clusters.  \uc1\u8230\'85 }{\f0\fs20\b0\i1 k }{\f0\fs20\b0\i0  is given by the user. Indeed the algorithm will construct a partition with as many clusters as desired. Of course not all values of }{\f0\fs20\b0\i1 k }{\f0\fs20\b0\i0  lead to \hich\f0 \ldblquote \loch\f0 natural\hich\f0 \rdblquote \loch\f0  clusterings, so it is advisable to run the algorithm several times with different values of k and to select that k for which certain characteristics or graphics look best, or to retain the clustering that appears to give rise to the most meaningful interpretation.  38}
+\par\plain \f0\fs20\b0\i0
+\par\plain {\f0\fs20\b0\i0 The program PAM clusters objects that are measured on }{\f0\fs20\b0\i1 p }{\f0\fs20\b0\i0 interval-scaled variables, and it can also be applied when the input data is a dissimilarity matrix (set up by DAISY) 40}
+\par\plain {\f0\fs20\b0\i0 To be exactl, the average distance (or average dissimilarity) of the representative object to all other objects of the same cluster is being minimized.  For this reason, such an optimal representative objects we call the }{\f0\fs20\b0\i1 medoid }{\f0\fs20\b0\i0  of the cluster, and the method of partitioning around medoids we call the }{\f0\fs20\b0\i1 k-medoid }{\f0\fs20\b0\i0  technique. 40-}}
