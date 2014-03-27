@@ -1,0 +1,23 @@
+# breiman_2000_2_cultures.md
+[@breiman_statistical_2001]
+
+In the past fifteen years, the growth in algorithmic modeling applications and methodology has been rapid. It has occurred largely outside statistics in a new community—often called machine learning—that is mostly young computer scientists (Section 7). The advances, particularly over the last five years, have been startling. 200
+
+In the mid-1980s two powerful new algorithms for fitting data became
+available: neural nets and decision trees. A new research community using
+these tools sprang up. Their goal was predictive accuracy. The community
+consisted of young com- puter scientists, physicists and engineers plus a few
+aging statisticians. They began using the new tools in working on complex
+prediction problems where it was obvious that data models were not applicable:
+speech recognition, image recognition, nonlinear time series prediction,
+handwriting recognition, prediction in financial markets. 205
+
+In two-class data, separability by a hyperplane does not often occur. However,
+let us increase the dimensionality by adding as additional predictor variables
+all quadratic monomials in the original predictor variables; that is, all
+terms of the form xm1 xm2 . A hyperplane in the original variables plus
+quadratic monomials in the original variables is a more complex creature. The
+possibility of separa- tion is greater. If no separation occurs, add cubic
+monomials as input features. If there are originally 30 predictor variables,
+then there are about 40,000 features if monomials up to the fourth degree are
+added. [@breiman_statistical_2001, 209]

@@ -23,8 +23,11 @@ How large should we grow the tree? Clearly a large tree might overfit the data, 
 
 "Of all the well-known learning methods, decision trees comes closest to meeting the requirements for serving as an off-the-shelf procedure for data-mining" [@hastie_elements_2009, 352]
 
+One major problem with trees is their high variance. Often a small change in the data can result in a very different series of splits, making interpretation somewhat precarious. The major reason for this instability is the hierarchical nature of the process: the effect of an error in the top split is propagated down to all of the splits below it.  312
 
-[the] _support vector machine_ ... produces nonlinear boundaries by constructing a linear boundary in a large transformed version of the feature space. 
+Boosting is one of the most powerful learning ideas  introduced in the last twenty years.  ... The motivation for boosting was a procedure that combines the outputs of many "weak" classifiers to produce a powerful "committee."
+
+[the] _support vector machine_ ... produces nonlinear boundaries by constructing a linear boundary in a large transformed version of the feature space. 417
 
 The _support vector machine_ classifier is an extension of this idea, where the dimension of the enlarged space is allowed to get very large, infinite in some cases. It seems that the computations would become prohibitive. It would also seem that with sufficient basis functions, the data would be separable, and overfitting would occur. 423
 
@@ -45,3 +48,20 @@ cluster the samples, each of which is a vector of length 6830, correspond-
 ing to expression values for the 6830 genes.  513
 
 
+Bagging or _bootstrap aggregation_ ... is  a technique for reducing the variance of an estimated prediction function. Bagging seems to work especially well for high-variance, low-bias procedures such as trees. 587
+
+The essential idea in bagging is to average many noisy but approximately unbiased models, and hence reduce the variance. Trees are ideal candidates for bagging, since they can capture complex interaction structures in the data, and if grown sufficiently deep, have relatively low bias. 587
+
+The idea in random forests is to improve the variance reduction of bagging by reducing the correlation between the trees, without increasing the variance too much. This is achieved in the tree-growing process through random selection of the input variables. 588
+ etc.,
+The ideas is that even though the data may be high-dimensional, involved mixed variables, etc., the promixity plot gives an indication of which observations are effectively close together in the eyes of the random forest classifier 595.
+
+## Bayes
+
+It is especially appropriate when the dimension p of the feature space is high, making density estimation unattractive. The naive Bayes model assumes that given a class $G = j$, the features $X_k$ are independent 211
+
+While this assumption is generally not true, it does simplify the estimation
+dramatically:
+• The individual class-conditional marginal densities $f_{jk}$ can each be estimated separately using one-dimensional kernel density estimates. This is in fact a generalization of the original naive Bayes procedures, which used univariate Gaussians to represent these marginals. • If a component $X_j$ of $X$ is discrete, then an appropriate histogram estimate can be used. This provides a seamless way of mixing variable types in a feature vector. 211
+
+Despite these rather optimistic assumptions, naive Bayes classifiers often outperform far more sophisticated alternatives. The reasons are related to Figure 6.15: although the individual class density estimates may be biased, this bias might not hurt the posterior probabilities as much, especially near the decision regions. In fact, the problem may be able to withstand considerable bias for the savings in variance such a “naive” assumption earns. 211
