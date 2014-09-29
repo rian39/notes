@@ -1,0 +1,5 @@
+﻿{Schneier, 1996 #444}
+
+Schneier, Bruce. 1996. Applied cryptography : protocols, algorithms and source code in C. 2nd ed ed. New York ; Chichester: Wiley.
+The whole point of cryptography is to solve problems. (Actually, that's the whole point of computers – something many people tend to forget.) Cryptography solves problems that involve secrecy, authentication, integrity and dishonest people. (21)
+A protocol  is a series of steps, involving two or more steps, designed to accomplish a task. This is an important definition. A “series of step” means that the protocol has a sequence, from start to finish. Every step most be executed in turn, and no step can be taken before the previous step is finished. “Involving two or more parties” means that at least two people are required to complete the protocol; one person alone does not make a protocol. ... Finally, “designed to accomplish a task” means that the protocol must achieve something. Something that looks like a protocol but does not accomplish a task is not a protocol – it's a waste of time. (21)

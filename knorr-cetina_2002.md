@@ -1,0 +1,1 @@
+Since these markets are exteriorized and concentrated on screen, traders not only participate in these markets, they relate to them as a complex ‘other’ with which they are strongly, even obsessively, engaged. The term ‘postsocial relationships’ refers to new kinds of bonds such as those constructed between humans and objects. 162

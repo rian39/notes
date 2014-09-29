@@ -1,0 +1,3 @@
+﻿Berland, Jody. 2000. Cultural Technologies and the "Evolution" of Cultural Technologies. In The World Wide Web and contemporary cultural theory, edited by A. Herman and T. Swiss. New York: Routledge.
+
+The discourse of evolutionism functions as an alibi for social Darwinism in the public sphere, and for corporate expansion and innovation unimpeded by collective democratic participation. The rendering of technological change as a law of nature works to defend economic and technological relations from social debate and critique, and thus from the production of communal rather than competitive spaces. 255

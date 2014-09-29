@@ -1,0 +1,22 @@
+{Tarde, 1902 #1051}
+## Tarde, G. d. 1902 Psychologie économique, Paris,: F. Alcan.
+
+Vol 1
+Telle sera, du moins, la tendance de cet exemple, arrêtée souvent par l'obstacle d'autres tendances contradictoires ; et cette tendance générale des inventions, des innovations, des initiatives individuelles, à se propager suivant une sorte de progression géométrique, à se déployer en ce que j'appelle un rayonnement imitatif, 14
+
+Il ne reste donc en présence que deux termes, l'adaptation et la répétition, qui, dans le monde social, s'appellent l'invention et l'imitation 16
+Car, à l'origine de toute association entre les hommes, il y a une association entre des idées, qui l'a rendue possible ; et tout ce qui s'opère par collaboration maintenant a été dû d'abord à une conception et à une opération individuelle ; 33
+
+Toutes les fois qu'il y a invention, cela signifie soit que des faits auparavant étrangers les uns aux autres ou paraissant tels (le mouvement de la lune et la chute d'une pomme, l'étincelle électrique et la foudre, etc.), ont été aperçus comme des conséquences d'un même principe, comme des confirmations d'une même proposition, c'est-à-dire comme des affirmations diverses de la même chose au fond, 33
+
+La Valeur, entendue dans son sens le plus large, embrasse la science sociale tout entière. Elle est une qualité que nous attribuons aux choses, comme la couleur, mais qui, en réalité, comme la couleur, n'existe qu'en nous, d'une vie toute subjective. Elle consiste dans l'accord des jugements collectifs que nous portons sur l'aptitude des objets à être plus ou moins, et par un plus ou moins grand nombre de personnes, crus, désirés ou goûtés. Cette qualité est donc de l'espèce singulière de celles qui, paraissant propres à présenter des degrés nombreux et à monter ou à descendre cette échelle sans changer essentiellement de nature, méritent le nom de quantités. 51-52
+
+Comment naît, comment grandit le crédit d'un homme sous toutes ses formes, ou sa célébrité et sa gloire ? Il vaut bien la peine de s'intéresser à ces divers genres de production, aussi bien qu'à la production des richesses et de leur valeur vénale. Et peut-être ces sujets plus neufs se prêtent-ils à des considérations qui ne sont pas inférieures en généralité ni en exactitude à celles que les économistes ont décorées du nom de lois. S'il y a des « lois naturelles » qui règlent la fabrication de tels ou tels articles en plus ou moins grande quantité, et la hausse ou la baisse de leur valeur vénale, pourquoi n'y en auraient-ils pas qui régleraient l'apparition, la croissance, la hausse ou la baisse de l'enthousiasme populaire pour tel ou tel homme, du loyalisme monarchique d'un peuple, de sa foi religieuse, de sa confiance en telles ou telles institutions ?  58
+La monnaie est donc le mètre universel des quantités sociales, et non pas seulement des richesses 61
+On peut faire cette remarque générale : en tant que mesure des richesses, la monnaie n'a trait qu'à des échanges, ventes ou achats ; mais, en tant que mesure des croyances considérées à part des désirs, elle a trait surtout à des donations ou encore à des vols. 61
+On pourrait donner le nom de psychologie inter-cérébrale, ou d'inter-psychologie (barbarisme commode) à l'étude des phénomènes du moi impressionné par un autre moi, sentant un être sensible, voulant un être volontaire, percevant un être intelligent, sympathisant en somme avec son objet. 83
+C'est sur ce qui se passe en lui d'intime et de secret, c'est sur ses idées et ses caprices, sur les désirs qui commencent à naître en lui à l'exemple contagieux d'une coterie, à la suite d'opinions adoptées elles-mêmes par mode, - c'est sur ces délicates opérations intérieures, que l'oeil du producteur est et doit être sans cesse attaché. 92
+La tendance à mathématiser la science économique et la tendance à la psychologiser, loin d'être inconciliables, doivent donc plutôt se prêter à nos yeux un mutuel appui. 102
+Une industrie, née d'une invention, ou plutôt, toujours, d'un groupe d'inventions successives, n'est viable qu'autant que le désir de consommation auquel elle correspond s'est suffisamment répandu d'individu à individu, par une action inter-psychologique curieuse à étudier ; et le développement de cette industrie est entièrement subordonné à la propagation de ce désir. 119
+vol 2
+car il y  49 a des monopoles de consommation, comme des monopoles de production. 48-9

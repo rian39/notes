@@ -1,0 +1,4 @@
+﻿l lme an(i Commodity Culture ESSAYS IT4 CL7LTURAL THEORY AT4D P0ST ODER~4ITY OHN FROW CLARENDON PRESS . OXFORD IP~7
+
+Anthony Giddens's concept of the disembedding of social relations from local contexts of interaction and their reconstruction in more abstract and more cstretched' space-time matrices33 defines the conditions under whlch such non-places come to be characteristic forms of modernize. M_ arc Fugal conversely but symmetrically~ defines the non-place as the'opposite of the ethnographic notion of place as the localization of culture in time and space, constituting closed 'universes of recognition'.34 Place is 'relational, historical and concerned with identify; non-place contains such places but without integrating them; 75 Marc Aug~, Non-Places: Introduction to an Anthropology of Supermodernity, trans. John Howe (London: Verso, 1995), 3z-3. Fu
+

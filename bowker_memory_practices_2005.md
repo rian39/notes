@@ -1,0 +1,2 @@
+﻿(Bowker 2005)
+The issue of what happens to data as it gets from the field to the scientific article has been extensively explored in the science studies literature … There has been little analysis of what happens as one gets from raw data to databases (and even less of the move from databases to analysis) – and whether decisions taken in the process have continuing effects on the interpretation and use of the resultant data stores. 140
