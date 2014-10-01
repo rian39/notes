@@ -1,0 +1,7 @@
+﻿{Rabinow, 1996 #248}
+Rabinow, P. (1996). Making PCR : a story of biotechnology. Chicago ; London, University of Chicago Press.
+I have chosen to interpret Cetus Corporation as a fortuitous space of experimentation. In that space one may see a certain kind of instrumentalization of sites, subjects, and objects coming together, for a time, into a contingent ensemble. 159
+We should no doubt be curious and careful about what questions we should be asking about them. We should wonder about who the “we” is. What form of life, after all, is based in part on tinkering with genetic material and the emergence of unprecedented events? What form of “life regulation” could accompany it? 166
+Hence, a major gap has developed today between scientists' self-representation and the representations of scientists by those who study them. While this discrepance is of little consequence for practicing scientists (most will never have heard of its existence), it provides much of the subject matter and the authority for the social studies of science. 13
+In my view, the task of the human sciences is neither glorification or unmasking, nor is it to embody some phantom neutrality. The anthropologically pertinent point is the fashioning of the particularity of practices. A significant omission from the by now classic laboratory stuides has been the representation of science as a practice and a vocation – by its practitioners. Such representations must be elicited, for there are few other contexts in which they might be produced in a formal matter, i.e. Given reflective form. 17
+

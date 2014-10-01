@@ -1,0 +1,1 @@
+﻿ 'the force of the 'preconstructed' ... weighs heavily upon anyone who chooses to study technology, since the choice of a technological object of study is already itself shaped by a social organized field of choices' (Sterne, 2003, 368)
