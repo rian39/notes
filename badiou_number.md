@@ -1,5 +1,4 @@
 ﻿Badiou, Number
-
 Political 'thought' is a numerical exegesis 2
 
 Number governs the quasi-totality of the 'human sciences ... Statistics invades the entire domains of these disciplines. The bureaucratisation of knowledges is above all an infinite excrescence of numbering. 2
