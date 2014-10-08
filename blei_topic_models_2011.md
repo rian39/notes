@@ -1,2 +1,5 @@
-Probabilistic topic models are a suite of algorithms whose aim is to discover the
-hidden thematic structure in large archives of documents. 1
+Probabilistic topic models are a suite of algorithms whose aim is to discover the hidden thematic structure in large archives of documents. 1
+
+The utility of topic models stems from the property that the inferred hidden structure resembles the thematic structure of the collection. This interpretable hidden structure annotates each document in the collection—a task that is painstaking to perform by hand 5
+
+LDA and other topic models are part of the larger field of probabilistic modeling. In generative probabilistic modeling, we treat our data as arising from a generative process that includes hidden variables. This generative process defines a joint probability distribution over both the observed and hidden random variables. We perform data analysis by using that joint distribution to compute the conditional distribution of the hidden variables given the observed variables. This conditional distribution is also called the posterior distribution. 6
