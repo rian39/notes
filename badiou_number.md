@@ -13,7 +13,7 @@ establishing a thinking of number that, by fixing the latter's status as a form 
 
 what, among the possible objects of thought, singularises those which fall under the concept of number.23
 
-Essentially, a Number is a fragment sectioned from a natural multiplicity; a multiplicity thought, as ordinal, in tis being qua being. 211
+Essentially, a Number is a fragment sectioned from a natural multiplicity; a multiplicity thought, as ordinal, in its being qua being. 211
 
 Every attempt to reduce the matheme to the sole spatialised evidence of a syntax of signs runs aground on the obscure prodigality of being in the forms of the multiple. 51
 

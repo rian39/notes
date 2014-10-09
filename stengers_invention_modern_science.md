@@ -24,15 +24,25 @@ This singularity poses the political problem of its coexistence with other actor
 Mobilized scientists will be happy and proud to see themselves called on as experts by a power that recognises them as the sole legimate representatives of a problem. (129)
 If the historical problem posed by a contingent process is that of its contingent recommencement, with other givens, it is not contradictory to affirm the primordial character of the experimental event while contesting the hierarchy of the sciences grounded on the theoretico-experimental model. (132)
 [T]his singularity is constantly being reinvented by the history of the modern sciences, with other givens, and also with other means and other modalities of engagement. (134)
+
 It is not a question of renouncing the distinction between the “artifact” and the “fact created so as to demonstrate,” but of becoming interested in something else, in the artifact as such, which itself is also capable of making the difference between human fictions with regard to their possibilities of explaining. (138)
+
 Whereas the experimental apparatus instituted an engagement that could be placed under the sign of the “power to judge,” that of the “Darwinian biologist” is inscribed in a strategy of decentering and “demoralization”: the aim of the undertaking is to actively allow reality to put our fictions to the test, but it only receives the means to intervene and make the difference in an activity of the “demoralization” of history. (142)
 Example of field sciences - they can't put things in variation (144)
+
 Example of animals interpreting the apparatus that interrogates them.
+
 Knowing that we can no longer believe does not mean “ceasing to believe” or ridding ourselves of our heritage-it was a misunderstanding or an error, neither seen or known-but rather learning to prolong that heritage differently. (152)
 The question is thus one of knowing what “we can no longer believe” can make us capable of: what sensibilities, what risks, what becomings can it engage us in? Can we confer a positive meaning to “what we can no longer believe”? Can we transform the shame of what our beliefs have permitted into a capacity to problematize and invent- that is, to resist? (152)
+
 Every scientific question, because it is a vector of becoming, involves a responsibility: “Who are you to be asking me this question?” “Who am I to be asking you this question?” These are the interrogations that the scientist, who knows the irreducible link between the production of knowledge and the production of existence, cannot escape. (148)
+
 This is something that can wound our Western desire to do science, to create a theory that allows us to distinguish the rational from the irrational. However, what is also at stake here is the possibility of a practice that, while putting our fictions to the test, as required by the singularity of the modern sciences,  creates a position of humour, in which Western culture, as it produces science, submits itslef to the most demanding test: the test that reinvents the West as one culture among others. (148)
+
 I am not sure I have been able to write a book of philosophy, but in any case I have tried to work at an experimentation of concepts, which permits us to resist the present, and to appeal to a future in the mirror of which our present and our past “are strangely deformed.” (151)
+
 According to the thesis that runs through this book, we are under the influence of the invention of a different way of doing politics, one that integrates what the city separated: human affairs (praxis) and the management-production of things (techné). The event, which we have inherited, is that of the invention of a new practice of measuring things by humans, centered on the difference between “fact” and “fiction”, [it] has created “another way” of doing politics (163)
+
 The perspective I have tried to open up in this book is one in which we would have to become even more “different”, that is, one in which we would have to invent, in our own terms, an antidote to the belief that makes us so formidable, the belief that defines truth and fiction in terms of an opposition, in terms of the power that makes the first destroy the second, a belief older than the invention of the modern sciences, but whose invention constituted a “recommencement”. For me, this perspective corresponds to the double constraint of the event: it makes a difference between the past and the future, in relation to which every dream of a “backwards return” is a vector of monstrosity; it does not have the power to dictate to its heir to take it into account (164-5)
+
 
