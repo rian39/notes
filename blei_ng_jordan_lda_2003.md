@@ -14,3 +14,8 @@ LDA assumes the following generative process for each document **w** in a corpus
 (a) Choose a topic z_n ∼ Multinomial(θ).
 (b) Choose a word w_n from p(w_n | z_n , β), a multinomial probability conditioned on the topic $z_n$ 996
 
+\begin {equation}
+\label {eq: topic_model}
+p(\theta, \mathbf{z, w} | \alpha, \beta) = p(\theta | \alpha) \prod p(z_n | \theta)p(w_n | z_n , \beta),
+\end {equation}
+[@Blei_2003, 996]
