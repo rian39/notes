@@ -19,3 +19,6 @@ LDA assumes the following generative process for each document **w** in a corpus
 p(\theta, \mathbf{z, w} | \alpha, \beta) = p(\theta | \alpha) \prod p(z_n | \theta)p(w_n | z_n , \beta),
 \end {equation}
 [@Blei_2003, 996]
+
+there are three levels to the LDA representation. The parameters $\alpha$ and $\beta$ are corpus- level parameters, assumed to be sampled once in the process of generating a corpus. The variables $\theta_d$ are document-level variables, sampled once per document. Finally, the variables $z_dn$ and $w_dn$ are word-level variables and are sampled once for each word in each document.
+It is important to distinguish LDA from a simple Dirichlet-multinomial clustering model. A classical clustering model would involve a two-level model in which a Dirichlet is sampled once for a corpus, a multinomial clustering variable is selected once for each document in the corpus, and a set of words are selected for the document conditional on the cluster variable. As with many clustering models, such a model restricts a document to being associated with a single topic. LDA, on the other hand, involves three levels, and notably the topic node is sampled repeatedly within the document. Under this model, documents can be associated with multiple topics. 997
