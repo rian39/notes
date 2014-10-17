@@ -1,0 +1,1 @@
+We refer to x as the complete data even though in certain examples x includes what are traditionally called parameters. We postulate a family of sampling densities f(x +) depending on parameters and derive 1
