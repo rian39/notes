@@ -2,9 +2,13 @@
  'my interpretation of the sciences ... would have to respond to the “Leibnizian constraint” according to which philosophy should not have as its ideal the “reversal of established sentiments”'(15)
 'refusing to reduce a situation to what the passing of time gives up power to say about it today' (42)
 A situation - to the degree that is arouses actors who refer explicitly to the constraints it brought into existence-is not reducible to its milieu of emergence, any more than the way of relating to the world that invents a new species is reducible to the constraints that, we know a priori, must be satisfied: reproducing, finding enough food, having a sporting chance to escape from predators, and so on. This does not mean, of course, that the invention or the situation can be separated from the milieu in which it is produced. (48)
+
 I want to show that the singularity of the sciences does not need to denied in order to become discussable. In order to make scientists actors like any others in the life of the city (the “political” preoccupation), it is not necessary to describe their practice as “similar” to all other practices (the “sociological” preoccupation). 58
+
 [T]he Greek city is less the admirable site where “our” democratic ideal was invented than the site where the various means through which a human society constitutes itself were put into words and problematized. Through what type of order, through what “arrangement” among those who are recognized as actors ... will political power constitute itself? To this desacralization, which deprives power of the power to justify itself, there corresponds the Aristotlian definition of man as the “political animal”. (61)
+
 We are referring to the Greeks for the definition of reason we are putting to work, we who have invented the sciences, whereas all other human societies let themselves be defined by their tradition. We are referring to human traditions for the definition of “culture”, we “humans” who are beings of culture, whereas all other “animal societies” let themselves be defined by the specific codes to which they are subjected. In fact, from the modern perspective, the two questions are one. (62)
+
 Just as human politics is not reducible to the politics of baboons, the “politics of reason” I am trying to characterize is not reducible to the games of power we today associate with “power politics.” (64)
 Designating a problematic landscape in no way authorizes one to reduce the solutions that are inscribed in it to a common trait (65).
 This is why, moreover, the history of the sciences constitutes the test par excellence for historical practices. (65)
