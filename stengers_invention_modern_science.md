@@ -10,10 +10,15 @@ I want to show that the singularity of the sciences does not need to denied in o
 We are referring to the Greeks for the definition of reason we are putting to work, we who have invented the sciences, whereas all other human societies let themselves be defined by their tradition. We are referring to human traditions for the definition of “culture”, we “humans” who are beings of culture, whereas all other “animal societies” let themselves be defined by the specific codes to which they are subjected. In fact, from the modern perspective, the two questions are one. (62)
 
 Just as human politics is not reducible to the politics of baboons, the “politics of reason” I am trying to characterize is not reducible to the games of power we today associate with “power politics.” (64)
+
 Designating a problematic landscape in no way authorizes one to reduce the solutions that are inscribed in it to a common trait (65).
+
 This is why, moreover, the history of the sciences constitutes the test par excellence for historical practices. (65)
+
 The decisive point here is no longer to deny the differences scientists claim for themselves, but to avoid any way of describing them which implies that scientists have a privileged knowledge of what this difference that singularizes them signifies. (67)
+
 The event is not identified with the significations that those who follow will create for it, and it does not even designate a priori those for whom it will make a difference. It has neither a privileged representative nor legimate scope. The scope of the event is  part of its effects, of the problem posed in the future it creates. Its measure is the object of multiple interpretations, but it can be measured by the very multiplicity of these interpretations. (67)
+
 The idea of a contingent process excludes explanation, which would transform the description into a deduction. It also excludes arbitrariness, which would insist on the contingency only in order to affirm, in a monotonous manner, that nothing has taken place, that the constructed signification and engendered problems are all valid because they are all relative to their context. The contingent process invites us to “follow” it, each effect being both a prolongation and a reinvention. 72
 Abstraction is not the product of an “abstract way of seeing things”. It has nothing psychological or methodological about it. It is relative to the invention of an experimental practice that distinguishes it from one fiction among others while “creating” a fact that singularizes one class of phenomena among others. (86)
 This is the very meaning of the event that constitutes the experimental invention: the invention of the power to confer on things the power of conferring on the experimenter the power to speak in their name. (89)
