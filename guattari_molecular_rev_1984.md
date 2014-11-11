@@ -1,5 +1,12 @@
 ﻿Guattari, Félix. Molecular Revolution : Psychiatry and Politics. (Harmondsworth, Middlesex, England ; New York, N.Y., U.S.A.: Penguin, 1984).
 {Guattari, 1984 #841}
+
+Denotation disappears in the face of the process described by Peirce as 'diagrammatization.' The function of re-territorializing images, indexes and concepts is replaced by the operation of signs as the foundation for abstract machines and the simulation of physical machinic processes. ... The stratum of signification disappearsl no loner are there two levels and a system of double articulation; there is only a constant return to the continuum of machinic intensities based on  a pluralism of articulations. 95
+
+Diagrammaticism brings into play more or less de-territorialized trans-semiotic forces, systems of signs, of code, of catalysts and so on, that make it possible in various specific ways to cut across stratifications of every kind. 145
+
+Thus there can be no question of any self-existent Truth. A proposition is true in particular machinic field; when any material or semiotic machine changes things, it will cease to be true. 145
+
 One can always replace any pronoun with 'it', which covers all pronominality, be it personal, demonstrative, possessive, interrogative or indefinite, whether it refers to adjectives or verbs.  135
 
 The system of diagrammatic signs parallels real de-territorialization, performing its silent and motionless dance on the plane of consistency away from any machinic manifestation in time, in space or in substances of expression. 139
