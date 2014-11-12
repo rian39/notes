@@ -1,7 +1,9 @@
 ﻿Guattari, Félix. Molecular Revolution : Psychiatry and Politics. (Harmondsworth, Middlesex, England ; New York, N.Y., U.S.A.: Penguin, 1984).
+[TBA - some quotes on what abstract machines are]
+
 {Guattari, 1984 #841}
 
-Denotation disappears in the face of the process described by Peirce as 'diagrammatization.' The function of re-territorializing images, indexes and concepts is replaced by the operation of signs as the foundation for abstract machines and the simulation of physical machinic processes. ... The stratum of signification disappearsl no loner are there two levels and a system of double articulation; there is only a constant return to the continuum of machinic intensities based on  a pluralism of articulations. 95
+Denotation disappears in the face of the process described by Peirce as 'diagrammatization.' The function of re-territorializing images, indexes and concepts is replaced by the operation of signs as the foundation for abstract machines and the simulation of physical machinic processes. ... The stratum of signification disappears no longer are there two levels and a system of double articulation; there is only a constant return to the continuum of machinic intensities based on  a pluralism of articulations. 95
 
 Diagrammaticism brings into play more or less de-territorialized trans-semiotic forces, systems of signs, of code, of catalysts and so on, that make it possible in various specific ways to cut across stratifications of every kind. 145
 
