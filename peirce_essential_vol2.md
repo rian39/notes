@@ -14,3 +14,9 @@ We not only have to select the features of the diagram which it will be pertinen
 A _diagram_ is an _icon_ or schematic image embodying the meaning of a general predicate; and from the observation of this _icon_ we are supposed to construct a new general predicate. 'New Elements' 303
 
 This resolution is of the nature of a plan, or, as one might say, a _diagram_. 246 'What makes a reasoning sound?'
+
+##On the logic of drawing history from ancient documents
+
+the theory of probabilities has been called the logic of the modern exact sciences; and it is known to be the basis of the vast business of insurance; and therefore when a literary man learns that the method which he has been pursuing has the sanction of such a great mathematical doctrine, he begins to feel that he is a very scientific person 80-81
+
+
