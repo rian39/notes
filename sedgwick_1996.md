@@ -1,0 +1,1 @@
+ ‘Love of a book, even a sinister book, love that generates out of concentrated meditation on its pieces a different and needed book; the transformative, frankly instrumental love of the artifacts of a culture, threatening though that culture itself may be: perhaps no impulse has less warrant than such love in the climate of a hermeneutic of suspicion’ (Sedgwick, 1996: 278)

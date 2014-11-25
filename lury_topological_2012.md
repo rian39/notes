@@ -1,0 +1,10 @@
+a new order of spatio- temporal continuity for forms of economic, political and cultural life today. This ordering of continuity emerges, sometimes without explicit coordination, in practices of sorting, naming, numbering, comparing, listing, and calculating. 4
+
+
+In other words, the becoming topo- logical of culture does not simply correspond to how culture imagines topology; instead, our proposal is that topology is now emergent in the practices of ordering, modelling, networking and mapping that co-consti- tute culture, technology and science. In short, a distributed, dynamic con- figuration of practices is organizing the forms of social life in ways that supplement and extend those of Euclidean geometry.5
+
+The effect of these practices is both to introduce new continuities into a discontinuous world by establishing equivalences or similitudes, and to make and mark discontinuities through repeated contrasts. The topological cultural forms (or constantly changing deformations) of lists, models, networks, clouds, fractals, and flows proliferate. In the movements of these dynamic forms there is a multiplica- tion of relations of equivalence and difference and a radical expansion of the possibilities of establishing comparisons 4
+
+The movement of such entities – or the transmittability of what was indicated – has historically required the use of indices in ways that enabled them to make references in relation to objects as if they were indifferent to those objects. In con- trast, many of today’s indices, such as the derivatives of the financial market, the indicators of behaviour employed in the joined-up databases of government, and the algorithmic operations of the software programs that help comprise Facebook and Google, are implicated in transitive relations to an active or dynamic object or environment. 14
+
+The usefulness of one of the most important capacities of indices – to point, to indicate ‘here’ and ‘now’ – a usefulness that has been limited by the grounding, stabilization or territorialization of the fixity of the co-ordinates of the relations they have been used to enact, is now being deliberately animated.14
