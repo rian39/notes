@@ -1,5 +1,9 @@
 These buried similitudes must be indicated on the surface of things; there must be visible marks for the inivisble analogies. 26
 
+the arrangement of identities and differences into ordered tables: these constituted an area of empiricity in the Classical age that had not existed until the end of the Renaissance and that was destined to disappear early in the nineteenth century 72-3
+
+Hedged in by calculus and genesis, we have the area of the _table_. 73
+
 language no longer consists only of representations and of sounds that in turn represent the representations and are ordered amongh them as the links of thought requirel it consists also of formal elements, grouped into a a system, which impose upon the sounds, syllables, and roots an organization that is not that of representation. Thus an element has been introduced into the analysis of language that is not reducible to it. 235
 
 But from now on there is an interior 'mechanism' in languages which determines not only each one's individuality but also its resemblances to the others: it is this mechanism, the bearer of identity and difference, the sign of adjacency, the mark of kinship, that is now to become the basis for history 236
@@ -9,5 +13,10 @@ representation has lost the power to provide a foundation -- with its own being,
 things, in their fundamental truth, have now escaped from the space of the table 239
 
 The space of order, which served as a _common place_ for representation and for things, for empirical visibility and for the essential rules, which united the regularities of nature and the resemblances of imagination in the grid of identities and differences, which displayed the empirical sequence of representations in a simultaneous table, and made it possible to scan step by step, in accordance with a logical sequence, the totality of nature's elements thus rendered contemporaneous with one another -- this space of order is from now on shattered: there will be things, with their own organic structures, their hidden veins, the spaces that articulates them, the time that produces them; and then representation, a purely temporal succession, in which those things address themselves (always partially) to a subjectivity ... 239-240
+
+
+Henceforth, the table, ceasing to be the ground of all possible orders, the matrix of all relations, the form in accordance with which all beings are distributed in their singular individaulity, forms no more than a thin surface film for knowledge; the adjacencies it expresses, the elementary identities it circumscribes and whose repetition it shows, the resemblances it dissolves by displaying them, the constants it makes possible to scan -- these are nothing more than the effects of certain syntheses, or structures, or systems, which reside far beyond all the divisions that can be ordered on the basis of the visible. The visible order, with its permanent grid of distinctions is now only a superficial glitter above an abyss. 251
+
+
 
 The entire system of grids which analysed the sequence of representations (a thin temporal series unfolding in men's minds), arresting its movement, fragmenting it, spreading it out and redistributing it in a permanent table, all these distinctions created by words and discourse, characters and classification, equivalence and exchange, have been so completely abolished that it is difficult today to rediscover how that structure was able to function. 303-4
