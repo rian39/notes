@@ -1,5 +1,11 @@
 These buried similitudes must be indicated on the surface of things; there must be visible marks for the inivisble analogies. 26
 
+in the sixteenth century, the fundamental supposition was that of a total system of correspondence (earth and sky, planets and faces, microcosm and macrocosm), and each particular similitude was then lodged within this overall relation. From now on , every resemblance must be subjected to proof by comparison, that is, it will not be accepted until its identity and the series of dits differences have been discovered by means of measurement with a common unit, or, more radically, by its position in an order. ... A complete enumeration will now be possible: whether in the form of an exhaustive census of all the elements constituting the envisaged whole, or in the form of a categorical arrangement that will articulate the field of study in its totality, or in the form of an analysis of a certain number of points, in sufficient number, taken along the whole length of the series. 55
+
+The activity of the mind ... will therefore no longer consist in _drawing things together_, in setting out on a quest for everything that might reveal some sort of kinship, attraction or secretly shared nature within them, but, on the contrary, in _discriminating_, that is, in establishing their identities, then the inevitability of the connections with all the successive degrees of a series. 55
+
+Since to know is to discriminate, history and science will become separated from one another. On the one hand there will be erudition, the perusal of written works, the interplay of their authors' opinions; this interplay may well, in some cases, possess an indicative value, not so much because of the agreement it produces as because of the disagreement. ... Over and against this history, and lacking any common unit of measurement with it, are the confident judgments we are able to make by means of intuitions and their serial connections. 56
+
 the arrangement of identities and differences into ordered tables: these constituted an area of empiricity in the Classical age that had not existed until the end of the Renaissance and that was destined to disappear early in the nineteenth century 72-3
 
 Hedged in by calculus and genesis, we have the area of the _table_. 73
