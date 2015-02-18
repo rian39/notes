@@ -14,6 +14,12 @@ The logistic regression model arises from the desire to model the posterior prob
 
 $$Pr(G=K|X=x) = \frac{1}{1+\sum_{l=1}^{K-1}exp(\beta_l0 + \beta_l^Tx)}$$ [@hastie_elements_2009, 119]
 
+## model assessment
+
+The generalization performance of a learning method relates to its prediction capability on independent test data. Assessment of this performance is extremely important in practice, since it guides the choice of learning method or model, and gives us a measure of the quality of the ultimately chosen model. 219 
+
+## Trees
+
 Tree-based methods partition the feature space into a set of rectangles and then fit a simple model (like a constant) in each one. They are conceptually simple yet powerful. 305
  
 The full dataset sits at the top of the tree. Observations satisfying the conditions at each junction are assigned to the left branch and the others to the right branch. The terminal nodes or leaves of the tree correspond to the regions $R1$, $R2$,... $R5$. 305
