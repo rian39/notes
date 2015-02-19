@@ -9,3 +9,6 @@ It is pointless to debate which of the two ideas is correct. We note only that o
 To return to _chance_ and _probabilite_: the fundamental distinction between 'objective' and 'subjective' in probability -- so often put in terms of frequency _vs._ belief -- is between modelling and inference. 98
 
 stuff on the probability of a probabilility from Poisson -- 'the ('subjective') probability of an ('objective') probability, or, better, the _probabilite_ of a _chance_. 99
+
+2 small steps in the taming of chance: one's psychological curve became a reality; introduce chance devices to control experimentation 205 [THIS CONCLUSION IS QUITE IMPORTANT -- build on this?]
+One's psychological curve of error became an inferred, theoretical curve, which one cannot judge by introspection. It became a reality underneath the phenomena of consciousness. Secondly, Peirce deliberately used the properties of chance devices to introduce a new level of control into his experimentation. Control not by getting rid of chance fluctuations, but by adding some more. 205
