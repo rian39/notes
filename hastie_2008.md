@@ -2,6 +2,7 @@ Hastie 2008
 [@hastie_elements_2009]
 
 Qualitative variables are typically represented numerically by codes. The easiest case is when there are only two classes or categories, such as “success” or “failure,” “survived” or “died.” These are often represented by a single binary digit or bit as 0 or 1, or else by −1 and 1. For reasons that will become apparent, such numeric codes are sometimes referred to as targets. When there are more than two categories, several alternatives are available. The most useful and commonly used coding is via dummy variables. Here a K-level qualitative variable is represented by a vector of K binary variables or bits, only one of which is “on” at a time. Although more compact coding schemes are possible, dummy variables are symmetric in the levels of the factor. We will typically denote an input variable by the symbol X. If X is
+
 Our goal is to find a useful approximation $\hat(f)(x)$ to the function $f(x)$ that underlies the predictive relationship between input and output.  28
 
 For some problems a deterministic relationship does hold. Many of the classification problems studied in machine learning are of this form, where the response surface can be thought of as a coloured map defined in $\mathbb{R}^p$
