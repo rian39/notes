@@ -38,6 +38,6 @@ de Certeau (1988)
 
 p 121 “The map, a totalizing (sic) stage on which elements of diverse origin are brought together to form the tableau of the ‘state’ of geographical knowledge, pushes away into its prehistory or into its posterity, as if into the wings, the operations of which it is the result or the neccessary condition”. 
 
-(just as diagrams do not reveal the practices, material bases and social relations that are the neccessary condition of their production)
+(just as diagrams do not reveal the practices, material bases and social relations that are the necessary condition of their production)
 
 
