@@ -1,3 +1,9 @@
+instead of referring back to the synthesis or the unifying function of a subject, the various enunciative modalities manifest his dispersion 54
+
+Lastly, a graph, a growth curve, an age pyramid, a distribution cloud are all statements 82
+
+To describe a group of statements not as the closed, plethoric totality of a meaning, but as an incomplete, fragmented figure; to describe a group of statements not with reference to the interiority of an intention, a thought, or a subject, but in accordance with the dispersion of an exter­ iority; to describe a group of statements, in order to rediscover not the moment or the trace of their origin, but the specific forms of an accumula­ tion, is certainly not to uncover an interpretation, to discover a founda­ tion, or to free constituent acts; nor is it to decide on a rationality, or to embrace a teleology. It is to establish what I am quite willing to call a positivity. 125
+
 the positivities that I have tried to establish must not be understood as a set of determinations imposed from the outside ont he thought of individuals, or inhabiting it from the inside, in advance as it were; they constitute rather the set of conditions in accordance with which a practice is exercised, in accordance with which that practices gives rise to partially or totally new statements, and in accordance with which it can be modified. These positivities are no so much limitations imposed on the initiative of subjects as the field in which that initiative is articulated 208-209
 
 Discursive formations can be identified, therefore, neither as sciences, nor as scarcely scientific disciplines, nor as distant prefigurations of the sciences to come, nor as forms that exclude any scientificity from the outset. 181
