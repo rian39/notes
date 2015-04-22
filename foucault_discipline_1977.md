@@ -1,4 +1,6 @@
 # from d&p
+Shift the object and change the scale. Define new tactics in order to reach a target that is now more subtle but also more widely spread in the social body. Find new techniques for adjusting punishment to it and for adapting its effects. Lay down new principles for regularizing, refining, universalizing the art of punishing. Homogenize its application. Reduce its economic and political cost by increasing its effectiveness and by multiplying its circuits. 89
+
 
 In the first instance, discipline proceeds from the distribution of individuals in space. To achieve this end, it employs several techniques. 141
 Discipline sometimes requires enclosure , the specification of a place heterogeneous to all others and closed in upon itself 141
