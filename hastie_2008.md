@@ -79,5 +79,17 @@ Despite these rather optimistic assumptions, naive Bayes classifiers often outpe
 # quotes relating to neural networks
 
 Projection pursuit and neural network models consist of sums of non-linearly transformed linear models. 18
-As we make clear in this section, they are just nonlinear statistical models, much like the projection pursuit regression model discussed above. A neural network is a two-stage regression or classification model, typ- ically represented by a network diagram as in Figure 11.2. This network applies both to regression or classification. 392
+As we make clear in this section, they are just nonlinear statistical models, much like the projection pursuit regression model discussed above. A neural network is a two-stage regression or classification model, typically represented by a network diagram as in Figure 11.2. This network applies both to regression or classification. 392
 
+\\begin {equation}
+\label {eq:linear_model}
+\hat{Y} = \hat{\beta_0}  + \sum^p_{j=1} X_j \hat{\beta_j}
+\end {equation}
+Z_m = \sigma(\alpha_0m + \alpha_m^TX) m = 1, ...,M
+T_k = \beta_0k + \beta_k^TZ, k = 1, ..., K,
+(11.5)
+f_k (X) = g_k (T), k = 1, ..., K,
+where Z = (Z_1 , Z_2, ..., Z_M ), and T = (T_1 , T_2 ,..., T_K ).
+The activation function \sigma(v) is usually chosen to be the sigmoid \sigma(v) =
+1/(1 + e −v )
+392
