@@ -1,4 +1,4 @@
-Asignifying semiotics (stock listings, currencies, corporate accounting, national budgets, computer languages, mathematics, scientific functions and equations as well as the asignifying semiotics of music, art, etc.) are not beholden to significations and the pndividuated subjects who convey them. They slip past rather than produce significations or representations. 80
+Asignifying semiotics (stock listings, currencies, corporate accounting, national budgets, computer languages, mathematics, scientific functions and equations as well as the asignifying semiotics of music, art, etc.) are not beholden to significations and the individuated subjects who convey them. They slip past rather than produce significations or representations. 80
 
 It is utterly insufficient to conceive of the machine in terms of technique. The machine is at once material and semiotic, actual and virtual, assemblage. On the one hand, before being a technique, the machine is diagrammatic, that is, inhabited by diagrams, plans and equations. On the other hand, in the machine there are "visible, synchronic" dimensions (the assemblage of component parts, plans, equations) but also virtual, diachronic dimensions, since it is situated at the intersection of a series of past machines and the infinity of machines to come. 81-82
 
@@ -6,7 +6,7 @@ Ontological mutations are always machinic. They are never the simple result of t
 
 The diagram is a semiotic system and a mode of writing that fulfill the conditions of power signs. (cf icons of relation in Peirce) ... Diagrammatic signs, by acting in place of things themselves, produce machinic rather than significant redundancy 86-7
 
-Diagrams (like equations, designs, graphs, apparatuses, machines, etc.) come to accelerate or slow down, destruct or stabilize, processes of deterritorialization which lanugage has difficulty grasping. 87
+Diagrams (like equations, designs, graphs, apparatuses, machines, etc.) come to accelerate or slow down, destruct or stabilize, processes of deterritorialization which language has difficulty grasping. 87
 
 Through asignifyinn semiotics machines "speak," "express themselves," and "communicate" with man, other machines, and "real" phenomena. Through "power signs" they interact with the expression and content of the atomic and chemical strata of matter, the biological strata of the living being, and the cosmic strata of the universe. 87-88
 
