@@ -8,7 +8,7 @@ The diagram is a semiotic system and a mode of writing that fulfill the conditio
 
 Diagrams (like equations, designs, graphs, apparatuses, machines, etc.) come to accelerate or slow down, destruct or stabilize, processes of deterritorialization which language has difficulty grasping. 87
 
-Through asignifyinn semiotics machines "speak," "express themselves," and "communicate" with man, other machines, and "real" phenomena. Through "power signs" they interact with the expression and content of the atomic and chemical strata of matter, the biological strata of the living being, and the cosmic strata of the universe. 87-88
+Through asignifying semiotics machines "speak," "express themselves," and "communicate" with man, other machines, and "real" phenomena. Through "power signs" they interact with the expression and content of the atomic and chemical strata of matter, the biological strata of the living being, and the cosmic strata of the universe. 87-88
 
 _In a machine-centric, in order to speak, see, smell and act, we are of a piece with machines and asignifying semiotics._ 88
 
