@@ -1,4 +1,4 @@
-These buried similitudes must be indicated on the surface of things; there must be visible marks for the inivisble analogies. 26
+These buried similitudes must be indicated on the surface of things; there must be visible marks for the invisible analogies. 26
 
 in the sixteenth century, the fundamental supposition was that of a total system of correspondence (earth and sky, planets and faces, microcosm and macrocosm), and each particular similitude was then lodged within this overall relation. From now on , every resemblance must be subjected to proof by comparison, that is, it will not be accepted until its identity and the series of dits differences have been discovered by means of measurement with a common unit, or, more radically, by its position in an order. ... A complete enumeration will now be possible: whether in the form of an exhaustive census of all the elements constituting the envisaged whole, or in the form of a categorical arrangement that will articulate the field of study in its totality, or in the form of an analysis of a certain number of points, in sufficient number, taken along the whole length of the series. 55
 
