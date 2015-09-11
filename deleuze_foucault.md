@@ -23,7 +23,7 @@ all knowledge runs from an visible element to an articulable one, and vice versa
 
 the tools or material machines have to be chosen first of all by a diagram 39
 
-there is no diagram that does not also include, beside the points which it connects up, certain relatively free or unbound points, points of creativity, change and resistance, and it perhaps with these that we ought to begin order to understand the whole picture. 44
+there is no diagram that does not also include, beside the points which it connects up, certain relatively free or unbound points, points of creativity, change and resistance, and it perhaps with these that we ought to begin in order to understand the whole picture. 44
 
 knowledge is a practical assemblage, a 'mechanism' of statements and visibilities. 51
 
@@ -34,4 +34,5 @@ these two halves of truth must enter into a relation, problematically, at the ve
 it is between the statements and its conditions that visibilities insinuate themselves 66
 
 statements and visibilities ... which grapple like fighters, force one another to do something or capture one another, and on every occasion constitute 'truth' 67
+
 'between the figure and the text we must admit a whole series of crisscrossings' 66
