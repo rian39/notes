@@ -5,7 +5,7 @@ malley_statistical_2011,
 
 working with statistical learning machines can push us to think about novel structures and functions in our data. This awareness is often counterintuitive, and familiar methods such as simple correlations, or slightly more evolved partial correlations, are often not sufficience to pin down these deeper connections. 5-6
 
-A statistical learning machine is a procedure that can potentially make good use of difficult data. And _if_ it is shown to be effective in making a good prediction about a clinical process or outcome, it can lead us to refeined understanding of that porcess: it can help us _learn_ about the process. 6
+A statistical learning machine is a procedure that can potentially make good use of difficult data. And _if_ it is shown to be effective in making a good prediction about a clinical process or outcome, it can lead us to refined understanding of that porcess: it can help us _learn_ about the process. 6
 
 most of the procedures are reinforcing in their conclusions and are (often) nearly trivial to implement 6
 
