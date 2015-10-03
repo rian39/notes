@@ -1,7 +1,7 @@
 
 deployments of power and knowledge, of truth and pleasures, so unlike those of repression, are not necessarily secondary and derivative; and further, that repression is not in any case fundamental and overriding. We need to take these mechanisms seriously, therefore, and reverse the direction of our analysis: rather than assuming a generally acknowledged repression, and an ignorance measured against what we are supposed to know, we must begin with these positive mechanisms, insofar as they produce knowledge, multiply discourse, induce pleasure, and generate power. 73
 
-The aim of the inquires that will follow is to move less toward a "theory" of power than toward an "analytics" of power: that is, toward a definition of the specific domain formed by relations of power, and toward a determination of the instruments that will make possible its analysis. However, it seems to me this analytics can be constituted only if it frees itself completely from  a certain representation of power that I would term ... "juridico-discursive." 82
+The aim of the inquiries that will follow is to move less toward a "theory" of power than toward an "analytics" of power: that is, toward a definition of the specific domain formed by relations of power, and toward a determination of the instruments that will make possible its analysis. However, it seems to me this analytics can be constituted only if it frees itself completely from  a certain representation of power that I would term ... "juridico-discursive." 82
 
 Why are the deployments of power reduced simply to the procedure of the law of interdiction? 86
 
