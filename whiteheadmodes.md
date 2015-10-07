@@ -7,6 +7,7 @@ Thus one characterization of importance is that it is that aspect of feeling whe
 Matter-of-fact is an abstraction, arrived at by confining thought to purely formal relations which then masquerade as the final reality. 25
 
 Expression is the diffusion, in the environment, of something initially entertained in the experience of the expressor. 29
+
 The Human Body is that region of the world which is the primary field of human expression. 30
 
 Wherever there is a region of nature which is itself the primary field of the expressions issuing from each of its parts, that region is alive, 31
