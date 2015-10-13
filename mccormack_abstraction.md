@@ -1,0 +1,1 @@
+Any affirmative critique of abstraction needs to embrace the possibility that abstraction can also provide potentially inhabitable collective spaces that resingularize political experience (Bamyeh, 2010).
