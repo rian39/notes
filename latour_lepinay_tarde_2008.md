@@ -15,14 +15,7 @@ rien dans l’économie n’est
 objectif, tout est subjectif, ou plutôt intersubjectif, et c’est justement la raison pour
 laquelle on peut la rendre quantifiable et scientifique… 5
 
-le lien des deux domaines ne
-passe pas par l’étape obligée de la recherche des forces cachées dans les
-infrastructures — comme nous allons le voir, il n’y a pas, pour Tarde,
-d’infrastructure du tout. Le lien des deux domaines est infiniment plus intime.
-Tarde compare deux modes de trajectoires et de contamination qui toutes deux, la
-première il y a plusieurs siècles, la seconde sous ses yeux, permet de repérer par
-quelle instrumentation, quels équipements l’on passe d’une quantification locale,
-individuelle et mal commode à une quantification généralisée, rapide et réflexive. 11
+le lien des deux domaines ne passe pas par l’étape obligée de la recherche des forces cachées dans les infrastructures — comme nous allons le voir, il n’y a pas, pour Tarde, d’infrastructure du tout. Le lien des deux domaines est infiniment plus intime. Tarde compare deux modes de trajectoires et de contamination qui toutes deux, la première il y a plusieurs siècles, la seconde sous ses yeux, permet de repérer par quelle instrumentation, quels équipements l’on passe d’une quantification locale, individuelle et mal commode à une quantification généralisée, rapide et réflexive. 11
 
 Si vous voulez vraiment quantifier, ce qui est le fond de toute science, alors
 allez chercher tous les types disponibles de quantum, au lieu d’en utiliser un seul
