@@ -8,4 +8,8 @@ Learning algorithms are the matchmakers: they find producers and consumers for e
 
 Even more astonishing than the breadth of applications of machine learning is that it's the _same_ algorithms doing all of these different things. 23
 
-_All knowledge -- past, present,and future -- can be derived from data by a single, universal learning algorithm 25
+_All knowledge -- past, present,and future -- can be derived from data by a single, universal learning algorithm_ 25
+
+Unlike the theories of a given field, which only have power within that field, the Master Algorithm has power across all fields. ... The Master Algorithm is the germ of every theory 47
+
+
