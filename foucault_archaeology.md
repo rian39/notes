@@ -16,7 +16,13 @@ The rule of materiality that statements necessarily obey is therefore of the ord
 
 I now realize that I could not define the statement as a unit of a linguistic type (superior to the phenomenon of the word, inferior to the text); but that I was dealing with an enunciative function that involved various units (these may sometimes be sentences, sometimes propositions; but they are sometimes made up of fragments of sentences , series or tables of signs, a set of propositions or equivalent formulations); and, instead of giving a 'meaning' to these units, this function relates them to a field of objects; instead of providing them with a subject, it opens up for them a number of possible subjective positions; instead of fixing their limits, it places them in a domain of coordination and coexistence; instead of determining their identity, it places them in a space in which they are used and repeated. In short, what has been discovered is not the atomic statement - with its apparent meaning, its origin, its limits, and its individuality - but the operational field of the enunciative function and the conditions according to which it reveals various units (which may be, but need not be, of a grammatical or logical order) .  106
 
-We are studying statements a t the limit that separates them from what is not said, in the occurrence that allows them to emerge to the exclusion of all others. 119
+We are studying statements at the limit that separates them from what is not said, in the occurrence that allows them to emerge to the exclusion of all others. 119
+
+Archaeology - and this is one of its principal themes - may thus
+constitute the tree of derivation of a discourse. 147
+
+Archaeology
+On the contrary, its purpose is to map, in a particular discursive practice, the point at which they are constituted, to define the form that they assume, the relations that they have with each other, and the domain that they govern. In short, its purpose is to maintain discourse in all its many irregularities; and consequently to suppress the theme of a contradiction uniformly lost and rediscovered, resolved and forever rising again, in the undifferentiated element of the Logos. 155-156
 
 the positivities that I have tried to establish must not be understood as a set of determinations imposed from the outside on the thought of individuals, or inhabiting it from the inside, in advance as it were; they constitute rather the set of conditions in accordance with which a practice is exercised, in accordance with which that practices gives rise to partially or totally new statements, and in accordance with which it can be modified. These positivities are no so much limitations imposed on the initiative of subjects as the field in which that initiative is articulated 208-209
 
