@@ -2,6 +2,8 @@ instead of referring back to the synthesis or the unifying function of a subject
 
 Lastly, a graph, a growth curve, an age pyramid, a distribution cloud are all statements 82
 
+A series of signs will become a statement on condition that it possesses 'something else' (which may be strangely similar to it, and almost identical as in the example chosen), a specific relation that concerns itself- and not its cause, or its elements. 89
+
 To describe a group of statements not as the closed, plethoric totality of a meaning, but as an incomplete, fragmented figure; to describe a group of statements not with reference to the interiority of an intention, a thought, or a subject, but in accordance with the dispersion of an exteriority; to describe a group of statements, in order to rediscover not the moment or the trace of their origin, but the specific forms of an accumulation, is certainly not to uncover an interpretation, to discover a foundation, or to free constituent acts; nor is it to decide on a rationality, or to embrace a teleology. It is to establish what I am quite willing to call a positivity. 125
 
 Instead of referring back to the synthesis or the unifying function of a subject, the various enunciative modalities manifest his dispersion. To the various statuses, the various sites, the various positions that he can occupy or be given when making a discourse. To the discontinuity of the planes from which he speaks. And if these planes are linked by a system of relations, this system is not established by the synthetic activity of a consciousness identical with itself, dumb and anterior to all speech, but by the specificity of a discursive practice. 54
@@ -53,3 +55,12 @@ Archaeological analysis would have another aim: it would try to discover whether
 What archaeology tries to describe is not the specific structure of science, but the very different domain of _knowledge_ 195
 
 because of a gradient that no doubt characterizes our cultures, discursive formations are constantly becoming epistemologized. 195
+
+There is perhaps only one science for which one can neither distinguish
+these different thresholds, nor describe a similar set of shifts : mathematics,
+the only discursive practice to have crossed at one and the same time the
+thresholds of positivity, epistemologization, scientificity, and formaliza­
+tion. The very possibility of its existence implied that which, in all other
+sciences, remains dispersed throughout history, should be given at the
+outset : its original positivity was to constitute an already formalized
+discursive practice (even if other formalizations were to be used later) .188
