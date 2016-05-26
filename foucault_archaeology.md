@@ -1,6 +1,7 @@
 instead of referring back to the synthesis or the unifying function of a subject, the various enunciative modalities manifest his dispersion 54
 
 Lastly, a graph, a growth curve, an age pyramid, a distribution cloud are all statements 82
+an equation of the nth degree, or the algebraic  formula of the law of refraction must be regarded as statements. 82
 
 A series of signs will become a statement on condition that it possesses 'something else' (which may be strangely similar to it, and almost identical as in the example chosen), a specific relation that concerns itself- and not its cause, or its elements. 89
 
@@ -19,6 +20,12 @@ The rule of materiality that statements necessarily obey is therefore of the ord
 I now realize that I could not define the statement as a unit of a linguistic type (superior to the phenomenon of the word, inferior to the text); but that I was dealing with an enunciative function that involved various units (these may sometimes be sentences, sometimes propositions; but they are sometimes made up of fragments of sentences , series or tables of signs, a set of propositions or equivalent formulations); and, instead of giving a 'meaning' to these units, this function relates them to a field of objects; instead of providing them with a subject, it opens up for them a number of possible subjective positions; instead of fixing their limits, it places them in a domain of coordination and coexistence; instead of determining their identity, it places them in a space in which they are used and repeated. In short, what has been discovered is not the atomic statement - with its apparent meaning, its origin, its limits, and its individuality - but the operational field of the enunciative function and the conditions according to which it reveals various units (which may be, but need not be, of a grammatical or logical order) .  106
 
 We are studying statements at the limit that separates them from what is not said, in the occurrence that allows them to emerge to the exclusion of all others. 119
+
+In examining the statement what we have discovered is a function that has a bearing on groups of signs, which is identified neither with grammatical 'acceptability' nor with logical correctness, and which requires if it is to operate : a referential (which is not exactly a fact, a state of things , or even an object, but a principle of differentiation) ; a subject (not the speaking consciousness, not the author of the formulation, but a position that may be filled in certain conditions by various individuals) ; an associated field (which is not the real context of the formulation , the situation in which it was articulated, but a domain of coexistence for other statements) ; a materiality (which is not only the substance or support of the articulation, but a status, rules of transcription, possibilities of use and re-use) .115
+
+We shall call discourse a group of statements in so far as they belong to the same discursive formation; it does not form a rhetorical or formal unity, endlessly repeatable, whose appearance or use in history might be indicated (and, if necessary, explained) ; it is made up of a limited number of statements for which a group of conditions of existence can be defined.117
+
+what we have called 'discursive practice' can now be deftned more precisely. It must not be confused with the expressive operation by which an individual formulates an idea, a desire, an image; nor with the rational activity that may operate in a system of inference; nor with the 'competence' o f a speaking subject when he constructs grammatical sentences; it is a body of anonymous, historical rules, always determined in the time and space that have defmed a given period, and for a given social, economic, geographical, or linguistic area, the conditions of operation of the enunciative function. 117
 
 Archaeology - and this is one of its principal themes - may thus
 constitute the tree of derivation of a discourse. 147
