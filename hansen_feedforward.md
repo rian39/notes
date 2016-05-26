@@ -1,0 +1,5 @@
+prediction is much more than a means of control wielded by today's data industries ... in its fully scope, prediction furnishes a crucial resource that could allow human individuals and collectivities to feed data concerning the oeprational present of sensibility into future consciousness, and thereby, to make it relevant for future-oriented modulation of experience 201-202
+
+prediction focalizes the challenges fced by contemporary media theory. For with the ubiquitous dissemination of probabilistic predictive technologies in our word comes a fundamental shift in the status of sensibility: ... the broadening of human experience to encompass a greater share of the microsensible domain 202
+
+this imperative enjoins us to use the technologies of data capture, analysis and prediction to create a feed-forward structure capable of marshaling the full productive potentialy of data -- its commonality, accessibility, and openness -- in order to improve, indeed to improve by _intensifying_, our experience 77
