@@ -1,6 +1,6 @@
 ﻿Latour, parts, wholes 2012
 
-‘let the agents produce a dynamics and collect the traces that their actions leave as they unfold so as to produce a rich data set’{Latour et al, 2012}. It would ask: ‘is it possible to do justice to … common experience by shifting from prediction and simulation to description and data mining?’
+‘let the agents produce a dynamics and collect the traces that their actions leave as they unfold so as to produce a rich data set’{Latour et al, 2012}. It would ask: ‘is it possible to do justice to … common experience by shifting from prediction and simulation to description and data mining?’ 13
 
 
 To be part of a whole is no longer to ‘enter into’ a higher entity or to ‘obey’ a dispatcher (no matter if this  dispatcher is a corporate body, a sui generis society, or an emergent structure), but 
