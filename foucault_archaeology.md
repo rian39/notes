@@ -70,17 +70,11 @@ The moment at which a discursive practice achieves individuality and autonomy, t
 In seeking the level of discursive practice in the historical density of the sciences, one is not trying to place discursive practice at some deep, original level, one is not trying to place it at the level of lived experience (on this earth, which is given, irregular and fragmented, before all geometry; in the heaven that glitters through the grid of all astronomies); one is trying to reveal between positivities, knowledge, epistemological figures, and sciences, a whole set of differences, relations, gaps, shifts, independencies, autonomies, and the way in which they articulate their own historicities on one another. 191
 
 Archaeology describes discourses as practices specified in the element of the archive. 131
+
 Archaeological analysis would have another aim: it would try to discover whether space, distance, depth, colour, light, proportions, volumes and contours were not, at the period in question, considered, named, enunciated and conceptualised in a discursive practice; and whether the knowledge that this discursive practice gives rise to was not embodied perhaps in theories and speculations, in forms of teaching and codes of practice, but also in processes, techniques, and even in the very gesture of the painter. ... It is shot through ... with the positivity of a knowledge (_savoir_) 194-194
 
 What archaeology tries to describe is not the specific structure of science, but the very different domain of _knowledge_ 195
 
 because of a gradient that no doubt characterizes our cultures, discursive formations are constantly becoming epistemologized. 195
 
-There is perhaps only one science for which one can neither distinguish
-these different thresholds, nor describe a similar set of shifts : mathematics,
-the only discursive practice to have crossed at one and the same time the
-thresholds of positivity, epistemologization, scientificity, and formaliza­
-tion. The very possibility of its existence implied that which, in all other
-sciences, remains dispersed throughout history, should be given at the
-outset : its original positivity was to constitute an already formalized
-discursive practice (even if other formalizations were to be used later) .188
+There is perhaps only one science for which one can neither distinguish these different thresholds, nor describe a similar set of shifts : mathematics, the only discursive practice to have crossed at one and the same time the thresholds of positivity, epistemologization, scientificity, and formaliza­ tion. The very possibility of its existence implied that which, in all other sciences, remains dispersed throughout history, should be given at the outset : its original positivity was to constitute an already formalized discursive practice (even if other formalizations were to be used later) .188
