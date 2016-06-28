@@ -44,6 +44,12 @@ the positivities that I have tried to establish must not be understood as a set 
 
 What it seeks in the texts of Linnaeus or Buffon, Petty or Ricardo, Pinel or Bichat, is not to draw up a list of founding saints; it is to uncover  the regularity of a discursive practice. A practice that is in operation, in the same way, in the work of their predecessors; a practice that takes account in their work not only of the most original affirmations (those that no one else dreamt of before them), but also of those that they borrowed, even copied, from their predecessors. A discovery is no less regular, from the enunciative point of view, than the text that repeats and diffuses it; regularity is no less operant, no less effective and active, in a banal as in a unique formation 144-145
 
+Archaeology - and this is one of its principal themes - may thus constitute the tree of derivation of a discourse. 147
+
+In relation to a history of ideas that attempts to melt contradictions in the semi-nocturnal unity of an overall figure, or which attempts to transmute them into a general, abstract, uniform principle of interpretation or explanation, archaeology describes the different spaces of dissension. 152
+
+Archaeological analysis, then, erects the primacy of a contradiction that has its model in the simultaneous affirmation and negation of a single proposition. 155
+
 Discursive formations can be identified, therefore, neither as sciences, nor as scarcely scientific disciplines, nor as distant prefigurations of the sciences to come, nor as forms that exclude any scientificity from the outset. 181
 
 This group of elements, formed in a regular manner by a discursive practice, and which are indispensable to the constitution of a science, although they are not necesssarily destined to give to one, can be called _knowledge_. Knowledge is that on which one can speak in a discursive practice, and which is specified by that fact 182
