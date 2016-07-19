@@ -1,9 +1,16 @@
 instead of referring back to the synthesis or the unifying function of a subject, the various enunciative modalities manifest his dispersion 54
 
+One stands back in relation to this manifest set of concepts; and one tries to determine according to what schemata (of series, simultaneous groupings, linear or reciprocal modification) the statements may be linked to one another in a type of discourse; one tries in this way to dis­ cover how the recurrent elements of statements can reappear, dissociate, recompose, gain in extension or determination, be taken up into new logical structures, acquire, on the other hand, new semantic contents, and constitute partial organizations among themselves. These schemata make it possible to describe - not the laws of the internal construction of concepts, not their progressive and individual genesis in the mind of man - but their anonymous dispersion through texts, books, and ceuvres. 58
+
 Lastly, a graph, a growth curve, an age pyramid, a distribution cloud are all statements 82
+
 an equation of the nth degree, or the algebraic  formula of the law of refraction must be regarded as statements. 82
 
 A series of signs will become a statement on condition that it possesses 'something else' (which may be strangely similar to it, and almost identical as in the example chosen), a specific relation that concerns itself- and not its cause, or its elements. 89
+
+There is no sub-text. And therefore no plethora. The enunciative domain is identical with its own surface. Each statement occupies in it a place that belongs to it alone. The description of a statement does not consist therefore in rediscovering the unsaid whose place it occupies; nor how one can reduce it to a silent, common text; but on the contrary in discovering what special place it occupies, what ramifications of the system of formations make it possible to map its localization, how it is isolated in the general dispersion of statements . 119 
+
+Because statements are rare, they are collected in unifying totalities, and the meanings to be found in them are multiplied. 120
 
 To describe a group of statements not as the closed, plethoric totality of a meaning, but as an incomplete, fragmented figure; to describe a group of statements not with reference to the interiority of an intention, a thought, or a subject, but in accordance with the dispersion of an exteriority; to describe a group of statements, in order to rediscover not the moment or the trace of their origin, but the specific forms of an accumulation, is certainly not to uncover an interpretation, to discover a foundation, or to free constituent acts; nor is it to decide on a rationality, or to embrace a teleology. It is to establish what I am quite willing to call a positivity. 125
 
@@ -63,17 +70,11 @@ The moment at which a discursive practice achieves individuality and autonomy, t
 In seeking the level of discursive practice in the historical density of the sciences, one is not trying to place discursive practice at some deep, original level, one is not trying to place it at the level of lived experience (on this earth, which is given, irregular and fragmented, before all geometry; in the heaven that glitters through the grid of all astronomies); one is trying to reveal between positivities, knowledge, epistemological figures, and sciences, a whole set of differences, relations, gaps, shifts, independencies, autonomies, and the way in which they articulate their own historicities on one another. 191
 
 Archaeology describes discourses as practices specified in the element of the archive. 131
+
 Archaeological analysis would have another aim: it would try to discover whether space, distance, depth, colour, light, proportions, volumes and contours were not, at the period in question, considered, named, enunciated and conceptualised in a discursive practice; and whether the knowledge that this discursive practice gives rise to was not embodied perhaps in theories and speculations, in forms of teaching and codes of practice, but also in processes, techniques, and even in the very gesture of the painter. ... It is shot through ... with the positivity of a knowledge (_savoir_) 194-194
 
 What archaeology tries to describe is not the specific structure of science, but the very different domain of _knowledge_ 195
 
 because of a gradient that no doubt characterizes our cultures, discursive formations are constantly becoming epistemologized. 195
 
-There is perhaps only one science for which one can neither distinguish
-these different thresholds, nor describe a similar set of shifts : mathematics,
-the only discursive practice to have crossed at one and the same time the
-thresholds of positivity, epistemologization, scientificity, and formaliza­
-tion. The very possibility of its existence implied that which, in all other
-sciences, remains dispersed throughout history, should be given at the
-outset : its original positivity was to constitute an already formalized
-discursive practice (even if other formalizations were to be used later) .188
+There is perhaps only one science for which one can neither distinguish these different thresholds, nor describe a similar set of shifts : mathematics, the only discursive practice to have crossed at one and the same time the thresholds of positivity, epistemologization, scientificity, and formaliza­ tion. The very possibility of its existence implied that which, in all other sciences, remains dispersed throughout history, should be given at the outset : its original positivity was to constitute an already formalized discursive practice (even if other formalizations were to be used later) .188
