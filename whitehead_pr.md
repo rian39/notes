@@ -12,3 +12,5 @@ A prehension reproduces in itself the general characteristics of an actual entit
 Feelings are 'vectors'; for they feel what is there and transform it into what is here 87
 
 Thus 'emotion' is 'emotional feeling' and what is felt is the presupposed vector situation. In physical science this principle takes the form which should never be lost sight of in fundamental speculation, that scalar quantities are constructs derivative from vector quantities. 212
+
+A strain has a complex distribution of geometrical significance. 310  
