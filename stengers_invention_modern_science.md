@@ -1,4 +1,4 @@
-﻿Stengers, Isabelle, The Invention of Modern Science, tr Smith, Daniel, University of Minnesota Press, 2000
+Stengers, Isabelle, The Invention of Modern Science, tr Smith, Daniel, University of Minnesota Press, 2000
  'my interpretation of the sciences ... would have to respond to the “Leibnizian constraint” according to which philosophy should not have as its ideal the “reversal of established sentiments”'(15)
 'refusing to reduce a situation to what the passing of time gives up power to say about it today' (42)
 A situation - to the degree that is arouses actors who refer explicitly to the constraints it brought into existence-is not reducible to its milieu of emergence, any more than the way of relating to the world that invents a new species is reducible to the constraints that, we know a priori, must be satisfied: reproducing, finding enough food, having a sporting chance to escape from predators, and so on. This does not mean, of course, that the invention or the situation can be separated from the milieu in which it is produced. (48)
@@ -21,6 +21,9 @@ The decisive point here is no longer to deny the differences scientists claim fo
 The event is not identified with the significations that those who follow will create for it, and it does not even designate a priori those for whom it will make a difference. It has neither a privileged representative nor legimate scope. The scope of the event is  part of its effects, of the problem posed in the future it creates. Its measure is the object of multiple interpretations, but it can be measured by the very multiplicity of these interpretations. (67)
 
 The idea of a contingent process excludes explanation, which would transform the description into a deduction. It also excludes arbitrariness, which would insist on the contingency only in order to affirm, in a monotonous manner, that nothing has taken place, that the constructed signification and engendered problems are all valid because they are all relative to their context. The contingent process invites us to “follow” it, each effect being both a prolongation and a reinvention. 72
+
+But the "abstraction" is here the creation of a concrete being, an intersecting of references, capable of silencing the rivals of the person who conceives it. 85
+
 Abstraction is not the product of an “abstract way of seeing things”. It has nothing psychological or methodological about it. It is relative to the invention of an experimental practice that distinguishes it from one fiction among others while “creating” a fact that singularizes one class of phenomena among others. (86)
 This is the very meaning of the event that constitutes the experimental invention: the invention of the power to confer on things the power of conferring on the experimenter the power to speak in their name. (89)
 Interest derives from inter-esse: to be situated between' (Stengers, 95)
