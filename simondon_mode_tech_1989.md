@@ -15,7 +15,7 @@ Habital usage is not a good guid because it ... 13
 
 technicity tends to reside at the level of the ensemble today -- supplites unity and stability 16
 
-pt 1 ch 1
+## pt 1 ch 1
 
 negative relation between personalisation and technical object 24
 
@@ -62,6 +62,8 @@ We can create technical beings beacuse we have in us a play of reltions and a ma
 
 The principle of the individualization of the technical object through recurrent causality in an associated milieu allows us to think with more clarity certain technical ensembles and to know if we must treat them as technical individuals or organised collections of individuals. 61
 
+The principle of individuation of technical objects in an ensemble is that of sub-ensembles of recurrent causality in the associated milieu. all technical objects that have a recurrent causality in their associated milieu must be separated from each other and connected in ways that maintain the independence of associated milieus iin relation to each other 63. 
+
 Where is the individuality of the ensemble? At the level of the sub-ensemble or that of the ensemble? 64 
 
 definition of technical element: they don't have an  associated milieu 65
@@ -79,6 +81,17 @@ capacity or puissance of elements increases as it concretises 74 and the wider t
 stable technical individuals and technical ensembles only sometimes exist; often they are temporary 76
 
 often people become the associated milieu for an ensemble 77
+
+machine often replaces human as carrier of tools 78
+
+but people can remain as associated milieu for machine 79
+
+the two positions that people occupy in relation to ensemble: element or chef 81
+
+## Part 2: human and technical object
+
+### ch1 - 2 fundamental reltions of human to techniques
+
 
 [L]es objets apparaissent à un certain moment, mais le technicité les précède et les dépasse; les object techniques résultent d'une objectivation de la technicité; ils sont produite par elle, mais la technicité ne s'épuise pas dans les objects et n'est pas tout entière contenue en eux 163
 
