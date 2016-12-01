@@ -7,13 +7,13 @@ machine of high technicity is open, and supposes human as permanent organiser an
 
 He is _among_ the machine which operate with him 12
 
-Through intermediary of margin of indetermination and not through automism that the machines can be grouped in coherent ensembles,  12
+Through intermediary of margin of indetermination and not through automatism that the machines can be grouped in coherent ensembles,  12
 
-Habital usage is not a good guid because it ... 13
+Habitual usage is not a good guide because it ... 13
 
-3 levels of technical object: technical element, technical individual, nd technical ensemble 15
+3 levels of technical object: technical element, technical individual, and technical ensemble 15
 
-technicity tends to reside at the level of the ensemble today -- supplites unity and stability 16
+technicity tends to reside at the level of the ensemble today -- supplies unity and stability 16
 
 ## pt 1 
 
@@ -23,7 +23,7 @@ negative relation between personalisation and technical object 24
 
 technical object, issue from abstract work of organisation of sub-ensembles, is theatre of certain number of relations of reciprocal causality. 27 
 
-difference btween technical object and object of science;  technical object is never fully concrete or known 35-36
+difference between technical object and object of science;  technical object is never fully concrete or known 35-36
 
 progress in technical object is discovery of functional synergies 37
 
@@ -74,7 +74,7 @@ technical time proper: oscillations of relaxation running between different leve
 
 technicity is the degree of concretisation of the object 72
 
-associated milieu is depositary of technicity at the level of the individual, as extension of it is inter-commutativity as the level of the ensemble 73
+associated milieu is depositary of technicity at the level of the individual, as extension of it is inter-commutativity at the level of the ensemble 73
 
 in the elements, technicity exists in the most pure form, whereas in the individuals and the ensembles it only exists in state of combinations 73
 
@@ -86,17 +86,52 @@ often people become the associated milieu for an ensemble 77
 
 machine often replaces human as carrier of tools 78
 
+it is still the human who conserves in himself the centre of the complex technical individual that is the reality constituted by human and machine. 79
+
 but people can remain as associated milieu for machine 79
 
 the two positions that people occupy in relation to ensemble: element or chef 81
+
+technicity is not a hierarchisable reality 81 -- exists from element to ensemble, but the effect of ensemble is more prominent due to the role attributed to the chef 81
 
 ## Part 2: human and technical object
 
 ### ch1 - 2 fundamental reltions of human to techniques
 
+connaturity with elements -- no sentiment or attachment 89
+
+2 types of relation to technical object -- the connaturity approach and the encyclopaedisme approach  93
+
+plates and schemas and their importance to the technical object 93  - new mode of instruction;
+
+encyclopaedisme as a new social force 94
+
+visual symbolisme appropriate to technology  - forms and proportions (97), and the word gives way to the image.  
+
+105 -112: interesting discussion of difference between children and adult relation to technical object; and how culture makes of adult simultaneity the successive virtuality of adolescence. 112 for this conclusion. 
+
+### ch 2: regulative function of culture in the relation between human and the world of technical object
+
+- techniques as treated in encyclopaedisme: enthusiams attest to discovery of the  technicity of technical element 113
+
+- alienation more profound than relation of property -- discontinuity between technical and human  117-118
+
+capital and labour are both incomplete modes of being in relation to the  technicity of the technical object. 
+
+for both, the finality counts more than the scheme of action 119
+by contrast, in the technical individual, the externality of finality disappears in the face of growing internal coherence 119 the auto-regulation takes over the auto-regulation takes over
+
+Intuition of schemes of functioning supports a relation to technical being for human 119
+
+Discussion of difference between inorganic and living memory 120-122
+
+Coupling of human and machine starts when a common coding has been discovered 124
+
+machines that can receive information are those that localise their indetermination 141
+
+## older stuff
 
 [L]es objets apparaissent à un certain moment, mais le technicité les précède et les dépasse; les object techniques résultent d'une objectivation de la technicité; ils sont produite par elle, mais la technicité ne s'épuise pas dans les objects et n'est pas tout entière contenue en eux 163
-
 
 
 Il n'y a pas d'auto-regulation purement interne, entièrement isoleé; les résultats de l'action sont des résultats non seulement en eux-mêmes mais aussi par leur rapport au milieu extériur, à l'ensemble. ... Le type de mémoire et le type de perception qui conviennent à cet aspect de la régulation nécessitent l'intégration, la transformation d'a posteriori en a prior que le vivant seul réalise en lui. 125
@@ -109,7 +144,6 @@ The technical object, taken according to its essence, this is to say, the techni
 
 Par l'intermédiare de 'objet technique se crée alors une relation interhumaine qui est le modèle de la transindividualité. On peut entendre par là une relation  qui ne met pas les individus en rapport au moyen de leur individualité constituée les séparent les uns des autres, ni au moyen  de ce qu'il y a identique en tout sujet humain, par exemple les formes a priori     de la sensibilité, mais au moyen de cette charge de réalité pré-individuelle, de cette charge de nature qui est conservée avec l'être individuel, et qui contient potentiels et virtualité. 248
 
-
 L'object technique apprecie et connu selon son essence, c'est a dire selon l'acte humain d'invention qui l'a fonde, penetre d'intelligibilite fonctionelle, valorise selon  ses normes internes, apporte avec lui une information pure.  … ce qui est connu dans l'object technique, c'est la forme, cristallisation materielle d'une scheme operatoire et d'une pensee qui a resolu un probleme. Cette forme, pour etre comprise, necessite dans le sujet des forms analogues. 247
 
 Par l'intermediare de l'objet technique se cree une relation interhumaine qui est le modele de la transindividualite. On peut  entendre par la une relation qui ne met les individus en rapport au moyen de leur individualite constitue les separant les uns des autres, ni au moyen de ce qu'il ya a d'identique en tout sujet humain, part example les formes a priori de la sensibilite, mais au moyen de cette charge preindividuelle, de cette charge de nature qui est conserve avec l'etre individuel, et qui contient potentials et virtualite. 248
@@ -117,5 +151,4 @@ Par l'intermediare de l'objet technique se cree une relation interhumaine qui es
 La relation a l'objet technique ne peut pas devenir adequate individu par individu, sauf en case tres rare et isoles; elle ne peu s'instituer que dans la mesure ou elle arrivera a faire exister cette realite interindividuelle collective, que nous nommons transindividuelle, parce qu'elle cree un couplage entre les capacites inventives et organisatrices de plusieurs sujets 253
 
 Cette realite de fond qui sous-tend le geste technique est le dynamisme des choses, ce par quoi elles sont productrices, ce qui leur donne une fecondite, une efficacite, une energie utilisable. C'est la chose comme pouvoir et non comme structure que la technique recherche. 203
-
 
