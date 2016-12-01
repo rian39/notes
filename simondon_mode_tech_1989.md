@@ -7,13 +7,13 @@ machine of high technicity is open, and supposes human as permanent organiser an
 
 He is _among_ the machine which operate with him 12
 
-Through intermediary of margin of indetermination and not through automism that the machines can be grouped in coherent ensembles,  12
+Through intermediary of margin of indetermination and not through automatism that the machines can be grouped in coherent ensembles,  12
 
-Habital usage is not a good guid because it ... 13
+Habitual usage is not a good guide because it ... 13
 
-3 levels of technical object: technical element, technical individual, nd technical ensemble 15
+3 levels of technical object: technical element, technical individual, and technical ensemble 15
 
-technicity tends to reside at the level of the ensemble today -- supplites unity and stability 16
+technicity tends to reside at the level of the ensemble today -- supplies unity and stability 16
 
 ## pt 1 ch 1
 
@@ -21,7 +21,7 @@ negative relation between personalisation and technical object 24
 
 technical object, issue from abstract work of organisation of sub-ensembles, is theatre of certain number of relations of reciprocal causality. 27 
 
-difference btween technical object and object of science;  technical object is never fully concrete or known 35-36
+difference between technical object and object of science;  technical object is never fully concrete or known 35-36
 
 progress in technical object is discovery of functional synergies 37
 
@@ -72,7 +72,7 @@ technical time proper: oscillations of relaxation running between different leve
 
 technicity is the degree of concretisation of the object 72
 
-associated milieu is depositary of technicity at the level of the individual, as extension of it is inter-commutativity as the level of the ensemble 73
+associated milieu is depositary of technicity at the level of the individual, as extension of it is inter-commutativity at the level of the ensemble 73
 
 in the elements, technicity exists in the most pure form, whereas in the individuals and the ensembles it only exists in state of combinations 73
 
@@ -110,7 +110,7 @@ visual symbolisme appropriate to technology  - forms and proportions (97), and t
 
 ### ch 2: regulative function of culture in the relation between human and the world of technical object
 
-- techniques as treated in encyclopaedisme: enthusiams attest to discovery of the  technicity of technical ensemble 113
+- techniques as treated in encyclopaedisme: enthusiams attest to discovery of the  technicity of technical element 113
 
 - alienation more profound than relation of property -- discontinuity between technical and human  117-118
 
@@ -125,6 +125,7 @@ Discussion of difference between inorganic and living memory 120-122
 
 Coupling of human and machine starts when a common coding has been discovered 124
 
+machines that can receive information are those that localise their indetermination 141
 
 ## older stuff
 
