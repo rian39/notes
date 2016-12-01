@@ -127,6 +127,8 @@ Discussion of difference between inorganic and living memory 120-122
 
 Coupling of human and machine starts when a common coding has been discovered 124
 
+quite long discussion of synchronisation and how it works -- need for critical points
+
 machines that can receive information are those that localise their indetermination 141
 
 ## older stuff
