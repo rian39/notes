@@ -15,7 +15,9 @@ Habital usage is not a good guid because it ... 13
 
 technicity tends to reside at the level of the ensemble today -- supplites unity and stability 16
 
-## pt 1 ch 1
+## pt 1 
+
+### ch 1
 
 negative relation between personalisation and technical object 24
 
@@ -31,7 +33,7 @@ technical object has a posterity because it is not saturated  43
 
 concretisation means that technical object is between natural object and scientific representation 46
 
-## ch  2 -- evolution of technical reality: element, individual and ensemble
+### ch  2 -- evolution of technical reality: element, individual and ensemble
 
 technical object is at the meeting point of two miliue, and must integrate two milieu at once. 52
 
