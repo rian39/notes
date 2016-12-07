@@ -46,7 +46,9 @@ Le adaptation-concrtisation est un processus qui conditionnne la naissance d'un 
 
 On pourrait dire que l’invention concétisante réalise un milieu techno-géographique (...), qui est une condition de possibilité du fonctionnement de l’objet technique 55
 
-the technical object is thus the condition of itself as comdition of existence of this mixed milieu, technical and geographical at once 55
+One could say that concretising invention realises a techno-geographic milieu .. which is a condition of possibility of the functioning of the technical object 55
+
+the technical object is thus the condition of itself as condition of existence of this mixed milieu, technical and geographical at once 55
 
 evolution of technical object can only progress to the extent they are free from fatal hypertelos 56
 
@@ -131,6 +133,41 @@ quite long discussion of synchronisation and how it works -- need for critical p
 
 machines that can receive information are those that localise their indetermination 141
 
+## conclusion
+- There is work when the human can not confer on the technical object the function of mediation between species and nature, and must accomplish this function himself, through his body, his thought, his action 242
+
+the human who works prepares the mediation but does not accomplish it 243
+
+when the human no longer intervenes as carrier of tools, he cannot leave the centre of the operation in obscurity. It is in effect this centre that must be produced by the  technical object, which does not think, which does not feel and which does not contract habits. 244
+
+technical activity is neither part of a pure social domain or pure psychic domain. It is the modele of the collective relation, which cannt be confounded with either of the trow preceding 245
+
+the technical world offers an indefinite availability of groupings and connections 246
+
+it is functioning and not work which characterises the technical object 246
+
+the technical object supplies a much more vast category than that of work: operational functioning 247
+
+operational functioning supposes at base as condition of possibility an act of invention 247 
+
+L'object technique pris selon essence, c'est-à-dire l'objet technique en tant qu'il a été inventé, pensé et voulu, assumé par un sujet humaine, devient le support et le symbol de cette relation que nous voudrions nommer transindividuelle. 247
+
+The technical object, taken according to its essence, this is to say, the technical object in as much it has been invented, thought and desired,  taken on by a human subject, becomes the support and the symbol of this relation that we would like to call transindividual. 
+
+through the intermediary of the technical object an interhuman relation creates itself, which is the model of transindividualité 248
+
+one could say that there is human nature in technical being, in the sense where the word nature could be employed to designate what remains origine, anterior even to humanity constituted in man 248
+
+work conceived as productive, in the measure where it stems from the individual localised here and now, cannot account for invented technical being; it is not the individual who invents, it is the subject, larger than the individual, more rich than it, and comprising, in addition to the individuality of the individuated being, a certain change of nature, of non-individuated being  248
+
+the activity of reglage is the one which prolongs most naturally the function of invention and construction.: the reglage is a perpetuated invention, albeit limited 250
+
+it is necessary that the genesis of the  technical object effectively becomes part of its existence, and that the relation of human to technical object comprises this attention to the continue genesis of the technical object. 250
+
+so that information can be exchanged, it is necessary the humans possess in themselves a technical culture, that is to say, an ensemble of forms which, encountering forms supplied by the machine, could sustain a signification. The machine remains one of the obscure zones of our civilization at all social levels 252
+
+the foundation of norms and right in the industrial domain is neither work nor property but technicity 252
+
 ## older stuff
 
 [L]es objets apparaissent à un certain moment, mais le technicité les précède et les dépasse; les object techniques résultent d'une objectivation de la technicité; ils sont produite par elle, mais la technicité ne s'épuise pas dans les objects et n'est pas tout entière contenue en eux 163
@@ -140,9 +177,6 @@ Il n'y a pas d'auto-regulation purement interne, entièrement isoleé; les résu
 
 La machine résulte de son essence. Au contraire, l'homme n'est pas une monade, car en lui, l'a posteriori devient a priori,  l'evenement principe. 126
 
-L'object technique pris selon essence, c'est-à-dire l'objet technique en tant qu'il a été inventé, pensé et voulu, assumé par un sujet humaine, devient le support et le symbol de cette relation que nous voudrions nommer transindividuelle. 247
-
-The technical object, taken according to its essence, this is to say, the technical object in as much it has been invented, thought and desired,  taken on by a human subject, becomes the support and the symbol of this relation that we would like to call transindividual. 
 
 Par l'intermédiare de 'objet technique se crée alors une relation interhumaine qui est le modèle de la transindividualité. On peut entendre par là une relation  qui ne met pas les individus en rapport au moyen de leur individualité constituée les séparent les uns des autres, ni au moyen  de ce qu'il y a identique en tout sujet humain, par exemple les formes a priori     de la sensibilité, mais au moyen de cette charge de réalité pré-individuelle, de cette charge de nature qui est conservée avec l'être individuel, et qui contient potentiels et virtualité. 248
 
