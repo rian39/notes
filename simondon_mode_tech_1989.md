@@ -60,7 +60,7 @@ C'est parce que le vivant est un être individuel qui porte avec lui son milieu 
 
 the forms become active when they organise themselves in relation to the ground, bringing to anterior virtualities to actuality. 59
 
-We can create technical beings beacuse we have in us a play of reltions and a matter-form relation which is closely analogous to what we institute in the  technical object 60
+We can create technical beings because we have in us a play of relations and a matter-form relation which is closely analogous to what we institute in the  technical object 60
 
 The principle of the individualization of the technical object through recurrent causality in an associated milieu allows us to think with more clarity certain technical ensembles and to know if we must treat them as technical individuals or organised collections of individuals. 61
 
