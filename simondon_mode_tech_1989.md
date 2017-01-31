@@ -66,7 +66,7 @@ We can create technical beings beacuse we have in us a play of reltions and a ma
 
 The principle of the individualization of the technical object through recurrent causality in an associated milieu allows us to think with more clarity certain technical ensembles and to know if we must treat them as technical individuals or organised collections of individuals. 61
 
-The principle of individuation of technical objects in an ensemble is that of sub-ensembles of recurrent causality in the associated milieu. all technical objects that have a recurrent causality in their associated milieu must be separated from each other and connected in ways that maintain the independence of associated milieus iin relation to each other 63. 
+The principle of individuation of technical objects in an ensemble is that of sub-ensembles of recurrent causality in the associated milieu. all technical objects that have a recurrent causality in their associated milieu must be separated from each other and connected in ways that maintain the independence of associated milieus in relation to each other 63. 
 
 Where is the individuality of the ensemble? At the level of the sub-ensemble or that of the ensemble? 64 
 
@@ -121,7 +121,7 @@ visual symbolisme appropriate to technology  - forms and proportions (97), and t
 capital and labour are both incomplete modes of being in relation to the  technicity of the technical object. 
 
 for both, the finality counts more than the scheme of action 119
-by contrast, in the technical individual, the externality of finality disappears in the face of growing internal coherence 119 the auto-regulation takes over the auto-regulation takes over
+by contrast, in the technical individual, the externality of finality disappears in the face of growing internal coherence 119 the auto-regulation takes over 
 
 Intuition of schemes of functioning supports a relation to technical being for human 119
 
@@ -140,7 +140,7 @@ the human who works prepares the mediation but does not accomplish it 243
 
 when the human no longer intervenes as carrier of tools, he cannot leave the centre of the operation in obscurity. It is in effect this centre that must be produced by the  technical object, which does not think, which does not feel and which does not contract habits. 244
 
-technical activity is neither part of a pure social domain or pure psychic domain. It is the modele of the collective relation, which cannt be confounded with either of the trow preceding 245
+technical activity is neither part of a pure social domain or pure psychic domain. It is the modele of the collective relation, which cannt be confounded with either of the two preceding 245
 
 the technical world offers an indefinite availability of groupings and connections 246
 
