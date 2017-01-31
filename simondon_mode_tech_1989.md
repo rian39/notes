@@ -1,6 +1,8 @@
 ﻿Simondon, G. 1989. Du mode d'existence des objets techniques, Ed. augm. edition. L'invention philosophique. [Paris]: Aubier.
 {Simondon, 1989 #233}
 
+## Introduction
+
 raise the degree of technicity: increase the margin which permits the machine to be sensible to exterior information 11
 
 machine of high technicity is open, and supposes human as permanent organiser and interpreter of machines in relation to each other. 11
@@ -133,14 +135,16 @@ quite long discussion of synchronisation and how it works -- need for critical p
 
 machines that can receive information are those that localise their indetermination 141
 
+
 ## conclusion
-- There is work when the human can not confer on the technical object the function of mediation between species and nature, and must accomplish this function himself, through his body, his thought, his action 242
+
+There is work when the human can not confer on the technical object the function of mediation between species and nature, and must accomplish this function himself, through his body, his thought, his action 242
 
 the human who works prepares the mediation but does not accomplish it 243
 
 when the human no longer intervenes as carrier of tools, he cannot leave the centre of the operation in obscurity. It is in effect this centre that must be produced by the  technical object, which does not think, which does not feel and which does not contract habits. 244
 
-technical activity is neither part of a pure social domain or pure psychic domain. It is the modele of the collective relation, which cannt be confounded with either of the trow preceding 245
+technical activity is neither part of a pure social domain or pure psychic domain. It is the modele of the collective relation, which cannot be confounded with either of the two preceding 245
 
 the technical world offers an indefinite availability of groupings and connections 246
 
@@ -160,7 +164,7 @@ one could say that there is human nature in technical being, in the sense where 
 
 work conceived as productive, in the measure where it stems from the individual localised here and now, cannot account for invented technical being; it is not the individual who invents, it is the subject, larger than the individual, more rich than it, and comprising, in addition to the individuality of the individuated being, a certain change of nature, of non-individuated being  248
 
-the activity of reglage is the one which prolongs most naturally the function of invention and construction.: the reglage is a perpetuated invention, albeit limited 250
+the activity of reglage (adjustment, tuning, control)  is the one which prolongs most naturally the function of invention and construction.: the reglage is a perpetuated invention, albeit limited 250
 
 it is necessary that the genesis of the  technical object effectively becomes part of its existence, and that the relation of human to technical object comprises this attention to the continue genesis of the technical object. 250
 
