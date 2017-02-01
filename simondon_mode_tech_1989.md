@@ -98,7 +98,7 @@ technicity is not a hierarchisable reality 81 -- exists from element to ensemble
 
 ## Part 2: human and technical object
 
-### ch1 - 2 fundamental reltions of human to techniques
+### ch1 - 2 fundamental relations of human to techniques
 
 connaturity with elements -- no sentiment or attachment 89
 
@@ -140,7 +140,7 @@ the human who works prepares the mediation but does not accomplish it 243
 
 when the human no longer intervenes as carrier of tools, he cannot leave the centre of the operation in obscurity. It is in effect this centre that must be produced by the  technical object, which does not think, which does not feel and which does not contract habits. 244
 
-technical activity is neither part of a pure social domain or pure psychic domain. It is the modele of the collective relation, which cannt be confounded with either of the trow preceding 245
+technical activity is neither part of a pure social domain or pure psychic domain. It is the model of the collective relation, which cannot be confounded with either of the trow preceding 245
 
 the technical world offers an indefinite availability of groupings and connections 246
 
