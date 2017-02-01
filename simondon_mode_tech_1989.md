@@ -1,6 +1,8 @@
 ﻿Simondon, G. 1989. Du mode d'existence des objets techniques, Ed. augm. edition. L'invention philosophique. [Paris]: Aubier.
 {Simondon, 1989 #233}
 
+## Introduction
+
 raise the degree of technicity: increase the margin which permits the machine to be sensible to exterior information 11
 
 machine of high technicity is open, and supposes human as permanent organiser and interpreter of machines in relation to each other. 11
@@ -62,11 +64,11 @@ C'est parce que le vivant est un être individuel qui porte avec lui son milieu 
 
 the forms become active when they organise themselves in relation to the ground, bringing to anterior virtualities to actuality. 59
 
-We can create technical beings beacuse we have in us a play of reltions and a matter-form relation which is closely analogous to what we institute in the  technical object 60
+We can create technical beings because we have in us a play of relations and a matter-form relation which is closely analogous to what we institute in the  technical object 60
 
 The principle of the individualization of the technical object through recurrent causality in an associated milieu allows us to think with more clarity certain technical ensembles and to know if we must treat them as technical individuals or organised collections of individuals. 61
 
-The principle of individuation of technical objects in an ensemble is that of sub-ensembles of recurrent causality in the associated milieu. all technical objects that have a recurrent causality in their associated milieu must be separated from each other and connected in ways that maintain the independence of associated milieus iin relation to each other 63. 
+The principle of individuation of technical objects in an ensemble is that of sub-ensembles of recurrent causality in the associated milieu. all technical objects that have a recurrent causality in their associated milieu must be separated from each other and connected in ways that maintain the independence of associated milieus in relation to each other 63. 
 
 Where is the individuality of the ensemble? At the level of the sub-ensemble or that of the ensemble? 64 
 
@@ -121,7 +123,7 @@ visual symbolisme appropriate to technology  - forms and proportions (97), and t
 capital and labour are both incomplete modes of being in relation to the  technicity of the technical object. 
 
 for both, the finality counts more than the scheme of action 119
-by contrast, in the technical individual, the externality of finality disappears in the face of growing internal coherence 119 the auto-regulation takes over the auto-regulation takes over
+by contrast, in the technical individual, the externality of finality disappears in the face of growing internal coherence 119 the auto-regulation takes over 
 
 Intuition of schemes of functioning supports a relation to technical being for human 119
 
@@ -133,8 +135,10 @@ quite long discussion of synchronisation and how it works -- need for critical p
 
 machines that can receive information are those that localise their indetermination 141
 
+
 ## conclusion
-- There is work when the human can not confer on the technical object the function of mediation between species and nature, and must accomplish this function himself, through his body, his thought, his action 242
+
+There is work when the human can not confer on the technical object the function of mediation between species and nature, and must accomplish this function himself, through his body, his thought, his action 242
 
 the human who works prepares the mediation but does not accomplish it 243
 
@@ -160,7 +164,7 @@ one could say that there is human nature in technical being, in the sense where 
 
 work conceived as productive, in the measure where it stems from the individual localised here and now, cannot account for invented technical being; it is not the individual who invents, it is the subject, larger than the individual, more rich than it, and comprising, in addition to the individuality of the individuated being, a certain change of nature, of non-individuated being  248
 
-the activity of reglage is the one which prolongs most naturally the function of invention and construction.: the reglage is a perpetuated invention, albeit limited 250
+the activity of reglage (adjustment, tuning, control)  is the one which prolongs most naturally the function of invention and construction.: the reglage is a perpetuated invention, albeit limited 250
 
 it is necessary that the genesis of the  technical object effectively becomes part of its existence, and that the relation of human to technical object comprises this attention to the continue genesis of the technical object. 250
 
