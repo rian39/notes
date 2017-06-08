@@ -1,3 +1,5 @@
-﻿Braidotti, Rosi, Metamorphoses : towards a materialist theory of becoming  Polity Press, Cambrdige, Oxford, 2002
+﻿Braidotti, Rosi, Metamorphoses: towards a materialist theory of becoming  Polity Press, Cambrdige, Oxford, 2002
+
 I want to start therefore from the assumption that the cyborg as a technologically-enhanced body-machine is the dominant social and discursive figuration for the interaction between the human and the technological in post-industrial societies. It is also a living or active, materially embedded cartography of the kind of power-relations that are operative in the postindustrial social sphere. 222
+
 The model of the body proposed by the brand of philosophical nomadism I am defending is symbiotic interdependence. This points to the co-presence of different elements, from different stages of evolution: like inhabiting different time-zones simultaneously. The human organism is neither wholly human, nor just an organism. It is an abstract machine, which captures, transforms and produces interconnections. The power of such an organism is certainly neither contained by nor confined to consciousness. 226
