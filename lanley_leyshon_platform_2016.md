@@ -1,0 +1,2 @@
+
+When placing the platform at the centre of critical understandings of digital economic circulation, moreover, we have suggested that the platform is not merely a manifestation of wider transformations in the relations and structures of contemporary capitalism. For us, analytical attention should be given to the contingent configuration and consequences of the platform as a discrete mode of socio-technical intermediary and capitalist business arrangement. 15
