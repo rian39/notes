@@ -94,7 +94,7 @@ it is still the human who conserves in himself the centre of the complex technic
 
 but people can remain as associated milieu for machine 79
 
-the two positions that people occupy in relation to ensemble: element or chef 81
+the two positions that people occupy in relation to ensemble: element or chef 82
 
 technicity is not a hierarchisable reality 81 -- exists from element to ensemble, but the effect of ensemble is more prominent due to the role attributed to the chef 81
 
