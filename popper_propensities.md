@@ -18,8 +18,7 @@ Propensities, like Newtonian attractive forces, are invisible and, like them, th
 
 The world is no longer a causal machine -- it can now be seen as a world of propensities, as an unfolding process of realizing possibilities and of unfolding new possibilities 19
 
-
-All non-zero possibilities, even those to which only a tiny non-zero propensity is attached, will realize themselves in time, provided they have time to do so; that is to say, provided the conditions  repeat themselves sufficiently often or remain constant over a sufficiently long period of time. 19-20
+All non-zero possibilities, even those to which only a tiny non-zero propensity is attached, will realize themselves in time, provided they have time to do so; that is to say, provided the conditions repeat themselves sufficiently often or remain constant over a sufficiently long period of time. 19-20
 
 What may happen in the future .. is, to some extent, open. There are many possibilities trying to realize themselves, but few of them have a very high propensity, given the initial conditions. 22
 

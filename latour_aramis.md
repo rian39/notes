@@ -22,8 +22,6 @@ Men [sic] and things exchange properties and replace one another; this is what g
 
 The frontier between “the bulk of the work” and “fine-tuning the details” remains in flux for a long time; its position is the object of intense negotiation. To simplify its task, every group tends to think that its own role is most important, and that the next group in the chain just needs to concern itself with the technical details,  or to apply the principles that the first group has defined. Moreover, this way of looking at things is integrated in project management: by going from what is less real to what is more real, you often divide up projects into so-called phases. ... Consensus about the length, importance, and order of phases is not the general case. It is a special case - that of projects that work well. (Latour, 1996, 67)
 
-
-
 A project is called innovative if the number of actors that have to be taken into account is not a given from the outset. If that number is known in advance, in contrast, the project can follow quite orderly, hierarchical phases. (Latour, 1996, 72)
 
 About technological projects,  one can only be subjective. Only those projects that turn into objects, institutions, allow for objectivity. (Latour, 1996, 75)
