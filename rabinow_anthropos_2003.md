@@ -35,8 +35,10 @@ For, in thinking through problems, ... the one who inquires "expects to transfor
 I advocate pursuing in our thought and writing something like the motion, through different scales and different subject positions. ... Such movement is easy to initiate and hard to master. Yet I firmly believe that in the actual conjuncture of things, it is a paramount challenge for philosophy and the human sciences to experiment with forms that will be, if not fully adequate to, at least cognizant of, the need for such movement through scale and subjectivity. 135-6.
 
 
-
 Events problematize classifications, practices, things. The problematization of classifications, practices, things is an event. A sensibility of constant change, and a certain pleasure and obligation to grasp it and participate in the transformations, constitute one mode of relating to things. This sensibility takes the mode of a keen awareness that the taken-for-granted can change, that new entities appear, that our practices of making are closely linked to those entities, that we name them, that we group them, that we experiment with them,  that we discover different contours when deploying questions and techniques. 67
+
 How to think about things human is a problem. Most attempts to solve this problem deploy one or another answer that claims to offer generality and stability. These attempts have produced incompatible answers. The fact that there is a problem in thinking about human things, and that part of that problem lies in the inability to produce a stable solution, is coexistent and cotemporal with the practice itself. 4
+
 A problematization, then, is both a kind of general historical and social situation-saturated with power relations, as are all situations, and imbued with the relational “play of truth and falsehood,” a diacritic marking a subclass of situations-as well as a nexus of responses to that situation. (19)
+
 Apparatuses are the forms composed of heterogeneous elements that have been stabilized and set to work in multiple domains. 55
