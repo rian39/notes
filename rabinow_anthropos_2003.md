@@ -3,9 +3,6 @@
 
 True discourses were equipment to the extent that they had been assimilated thoroughly, made to  function as rational principles of action. 10
 
-mat
-
-
 How to think about things human is a problem. Most attempts to solve this problem deploy one or another answer that claims to offer generality and stability. These attempts have produced incompatible answers. The fact that there is a problem in thinking about human things, and that part of that problem lies in the inability to produce a stable solution, is coexistent and cotemporal with the practice itself. 4
 
 A problematization, then, is both a kind of general historical and social situation-saturated with power relations, as are all situations, and imbued with the relational “play of truth and falsehood,” a diacritic marking a subclass of situations-as well as a nexus of responses to that situation. (19)
@@ -18,7 +15,6 @@ Events problematize classifications, practices, things. The problematization of 
 
 Approaching composition as motion is one mode of creation. 71
 
-Given that what I am seeking to understand, and establish a specific relationship to, are events, in a hypercomplex world, identified from a position that privileges problematizations, apparatuses, and assemblages, the question of narrative form requires its own specificity.  .... The narrative forms appropriate for such inquiry would (1) remain within and be oriented toward the actual; and (2) experiment with structures that lack closure 79
 
 The result is one instantiation of a form .. that brings inquiry and equipment into a common discursive space. 79
 

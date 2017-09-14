@@ -2,7 +2,7 @@
 The object of science is not concepts but rather functions that are presented as propositions in discursive systems. 117
 The elements of functions are called functives. 117
 When an object – a geometrical space, for example – is scientifically constructed by functions, its philosophical concept, which is by no means given in the function, must still be discovered. 117
-It is a a fantastic slowing down,  and it is by slowing down that matter, as well as the scientific thought able to penetrate it with propositions, is actualized. A function is a Slow-motion. 118
+It is a fantastic slowing down,  and it is by slowing down that matter, as well as the scientific thought able to penetrate it with propositions, is actualized. A function is a Slow-motion. 118
 The respective independence of variables appears in mathematics when one of them is at a higher power than the first. 122
 The etats des choses is a function: it is a complex variable that depends on a relation between at least two independent variables 122
 An etats des choses or “derivative” function depends on such a relation: an operation of depotentialization has been carried out that makes possible the comparison of distinct powers starting from which a thing or a body may well develop (integration). 122
