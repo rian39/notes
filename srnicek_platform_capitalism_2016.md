@@ -1,0 +1,3 @@
+What are platforms? At the most general level, platforms are digital infrastructures that enable two or more groups to interact. They therefore position themselves as intermediaries that bring together different users: customers, advertisers, service providers, producers, suppliers and even physical objects.25  
+
+Platform ownership, in turn, is essentially ownership of software (the 2 billion lines of code for Google, or the 20 million lines of code for Facebook) and hardware (servers, data centres, smartphones, etc.) built upon open-source material (e.g. Hadoop's data management system is used by Facebook). ... They are an extractive apparatus for data. 25-26
