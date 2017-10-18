@@ -1,0 +1,13 @@
+> In short, the rise of big data witnesses a transformation in what can be collected or sampled as data, and how it can be rendered analysable. In the vocabulary of the computer scientists and data analysts, data are no longer strictly collected, but rather are ingested, such that everything  becomes available to analysis, the sample being represented as infinite, or n=all 345
+
+>While in statistical forms of large-volume data the object of interest emerges from the testing of probabilistic assumptions or queries, with the output being a subset of a database, in knowledge discovery the matter of interest is iterative and emergent, with the output consisting of previously unknown patterns and relationships. 351
+
+> The critical demand for a contextual limit to the analysis of life data, or a deletion of the digital subject, gains little purchase in a world where attributes are extracted from their qualities and afforded numeric values. The analytics that partition big data make it possible to forget the person and the context, but to remember the position, the distance or proximity of association. 355
+
+> the features or patterns of life sought by major supermarket chains and national security agencies know no limitations, no indeterminacies, nothing that is not available to action.a 358
+
+> The twenty-first-century rise of big data marks a significant break with conventional statistical notions of what is of interest. The vast expansion of unstructured digital data, much of it considered to be open source, has been closely intertwined with the development of advanced analytical algorithms to make some sense of that data. And so, amid the cacophony of noise around the big in big data, we urge careful attentiveness to the work of the little analytics. Rather as the growth of statistical probabilistic methods made data on murder, health, employment or war perceptible and amenable to analysis, so contemporary analytics are instruments of perception without which the extensity of big data would not be perceptible at all. 359-360
+
+> As instruments of perception, the technologies of analytics not only focus human attentiveness on particular persons or things of interest, but they also annul and discard as redundant much of the material context from which these persons and things emerged. 360
+
+>The processes of ingestion, partitioning and machinic memory reduce heterogeneous forms of life and data to homogenous spaces of calculation. Algorithmic technologies, such as those we have described, tend to reduce differences in kind to differences in degree, as Bergson and Deleuze might say, or to distances data-point to data-point.a 361
