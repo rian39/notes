@@ -13,6 +13,8 @@ the  concept of edia is thus amphibious between organism and artifice
 
 ## fire and earth chapter
 
+Containers, like fire, have a special relation to the negative; holding presupposes vacancy. 140
+
 ## sky 1
 
 ## sky 2
