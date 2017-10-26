@@ -1,0 +1,3 @@
+ We will see that in their role as phronesis, the social sciences are strongest where the natural sciences are weakest: just as social science have not contributed much to explanatory or predictive theory, neither have the natural sciences contributed much to the reflexive analysis and discussion of values and interests, which is the prerequisite for enlightened social, political and cultural development in any society, and which is the core of _phronesis_. 3         
+
+ Phronesis is most important because it is that activity by which instrumental rationality is balanced by value-rationality, and because such balancing is crucial to the sustained happiness of the citizens in any society, according to Aristotle. 4
