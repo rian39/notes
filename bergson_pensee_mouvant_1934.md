@@ -1,11 +1,14 @@
 ﻿{Bergson, 1934 #862}
 (Bergson 1934)
 
-A toute affirmation vraie nous attribuons ainsi un effet rétroactif; ou plutôt nous lui imprimons une movement rétrograde. Comme si un jugement avait pu preéxister aux terms qui le composent. ...
-Les conséquences de cette illusion sont innombrables.14.
+A toute affirmation vraie nous attribuons ainsi un effet rétroactif; ou plutôt nous lui imprimons une movement rétrograde. Comme si un jugement avait pu preéxister aux terms qui le composent. ... Les conséquences de cette illusion sont innombrables.14.
+
 Mais si l'on commence par écarter les concepts déjà  faits, si l'on se donne une vision direct de réel, si l'on subdivise alors cette réalité en tenant compte de ses articulations, les concepts nouveaux qu'on devra bien former pour s'exprimer seront cette taillés à l'exacte mesure de l'objet. 23
+
 Sans doute, dans le presque totalité des cas, et probablement chez tous les animaux autre que l'homme, abstraction et généralisation sont vécues et non pas pensées.55
+
 Mais entre le  généralisation impossible et la  généralisation inutile il y a celle que provoquent, en la préfigurent, des tendances, des habitudes, des gestes et des attitudes, des complexes de mouvements automatiqement accomplis ou esquissés, qui sont 'a l'origine de la plupart de idées générales proprement humaine. 56
+
 56 on the impossible generalisatio and the useless generalisation 
 56 – generalisation as habit remounting the field of action to that of thought.
 We call here intuition the sympathy through which one transports oneself into the interior of an object in order to coincide with what is unique and consequence inexpressible in it. 181

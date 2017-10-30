@@ -9,7 +9,7 @@ Today's infrastructures invite an environmental view of media, and we are fortun
 our bodies reveal and enable our respective arts 57
 - really fascinating discussion of cetaceans
 - wow, a philosophy of technology must also be a philosophy of gender 101
-the  concept of edia is thus amphibious between organism and artifice
+the  concept of media is thus amphibious between organism and artifice
 
 ## fire and earth chapter
 
