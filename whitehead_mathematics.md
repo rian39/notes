@@ -1,0 +1,1 @@
+we can define a function in mathematics as a correlation between two variable numbers, called respectively the argument and the value of the function, such that whatever value be assigned to 'the argument of the function' the 'value of the function' is definitely (i.e. uniquely) determined. 86-87  
