@@ -21,7 +21,7 @@ a concept ... is a refrain, an opus with its number [chiffre] 21
 
 the concept is not discursive, and philosophy is not a discursive formation, because it does not link propositions together 22
 
-Concepts are centres of vibration , each in itself and every one in relation to all the others 23
+Concepts are centres of vibration, each in itself and every one in relation to all the others 23
 
 They do form a wall, but it is a dry-stone wall, and everything holds together only along diverging lines 23.  
 
