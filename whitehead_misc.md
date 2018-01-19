@@ -28,13 +28,13 @@ The actuality in becoming is a 'growing together' of the antecedent data into a 
 
 A 'form of definiteness' is therefore a fundamental, necessary ingredient of an actuality. Alternatively expressed, for there to be an individual actuality, its activity must take a definite form. (Leclerc, 92)
 
-The forms have 'ingression' in the novel actual entites, thereby determining their definiteness. (Leclerc, 94)
+The forms have 'ingression' in the novel actual entities, thereby determining their definiteness. (Leclerc, 94)
 
 [T]he actualities constituting the process of the world are conceived as exemplifying the ingression (or 'participation') of other things [entities] which constitute the potentialities of definiteness for any actual existence. The things which are temporal arise by their participation in the things which are eternal. (PR 54)
 
 The antecedent actual entities  are 'given' through the mediation of eternal objects, and the eternal objects are 'given' as implicated in the antecedent actual entities. (Leclerc, 101)
 
-An entity which is now 'actual' will subsequently, when its activity is complete, become 'potential' for a a new 'actuality'. (Leclerc, 101)
+An entity which is now 'actual' will subsequently, when its activity is complete, become 'potential' for  a new 'actuality'. (Leclerc, 101)
 
 'The objectification of other actual occasions form the given data from which an actual occasion arises' (PR 105)
 
