@@ -21,12 +21,12 @@ Containers, like fire, have a special relation to the negative; holding presuppo
 
 ## face and the book chapter
 
-mostly about inscription, which is a bit disappointing; some interesting discussion of time and space, but mostly about writing in its materiality; t
+mostly about inscription, which is a bit disappointing; some interesting discussion of time and space, but mostly about writing in its materiality; 
 - emphasizes body as medium
-'the body, a  mix of sea, fire, earth and sky, is our most fundamental infrastructre 266
+'the body, a  mix of sea, fire, earth and sky, is our most fundamental infrastructure 266
 -writing is labour 283
 writing was a tool of data processing long before it was a storage device for speech, let alone one for law and literature 289
 Writing's processing power is clear in the early appearance of the list. In list writing, serial order loses its hold 290
-- key discussion on time and space tradeoffs -- time-axis manipulation; the references/footnotes in the chapter are particularly good. 
+- key discussion on time and space trade-offs -- time-axis manipulation; the references/footnotes in the chapter are particularly good. 
 
 ## god and google
