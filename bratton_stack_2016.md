@@ -10,12 +10,24 @@ as hybrids they are not well suited to conventional research programs 41
 
 They are a different but possibly equally powerful and important form. 41
 
-A working technical definition of _plaform_, in general, may include references to a _standards-based technical-economic systems that simultaneously distributes interfaces through their remote coordination and centralizes their integrated control through that same coordination_. 42
+A working technical definition of _platform_, in general, may include references to a _standards-based technical-economic systems that simultaneously distributes interfaces through their remote coordination and centralizes their integrated control through that same coordination_. 42
 
 What I call platform logics  ... 
 
-The Stack is a platform, or, more accurately, a combination of platofmrs. 42. 
+The Stack is a platform, or, more accurately, a combination of platforms. 42. 
 
 Etymology of platform p43; 
 
 chapter 41-72 is about platforms
+
+'rigorous standardization of the scale, duration, and morphology of their essential components' (47). 
+
+The Stack may represent an epochal enclosure of the planet under an absolutist regime of algorithmic capital, or the fragility of its totality may force new breaks 72 
+
+Cloud Layer chapter around 127 --- has sections on major platforms such as amazon, google, Facebook, etc
+ 
+Next to states and markets, platforms are a third form, coordinating through fixed protocols while scattering free-range _Users_ watched over in loving if also disconcertingly omniscient grace. 328 
+
+Platforms are emergent systems that are informed by power. 357
+
+All stacks are platforms, but not all platforms are stacks. Ultimately platforms can be seen not only as a technical modle but also an institutional form along with states and markets. 374 
