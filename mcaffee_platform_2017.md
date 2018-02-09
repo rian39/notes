@@ -1,3 +1,22 @@
+
+Today, examples of valuable, high-quality, 100% automatic decisions are all around us. 47
+
+System 2 decisions are better than those that arise out of our brains' blend of System 1 and System 2 in the majority of cases where both options exist. 58
+
+Cloud computing has helped open up AI research to these smaller budgets. 75
+
+The statistical camp of AI researchers is ascendant now and is delivering on at least some of the promises made by the discipline more than half a century ago. 81
+
+[Discussion of how people and ai should come together] 80-90
+
+The technology, in other words, will learn as it goes and, over time, be able to take over more of the work from humans. 83
+
+Fukoku Mutual Insurance use of IBM Watson (83)
+
+After enough technical progress, enough experimentation, and enough iteration, we believe that automated and digitally mediated processes will become quite widespread and will take the place of many that are now mediated by people. 93
+
+As technology advances, high-level social skills could become even more valuable than advanced quantitative ones. And the ability to combine social with quantitative skills will often have the highest payoff of all 125-126
+
 Platforms are online environments that take advantage of the economics of free, perfect, and instant. To be more precise, a platform can be defined as a digital environment characterized by near zero marginal cost of access, reproduction and distribution. 137 
 
 winning platforms .. They're early to the space. 169
