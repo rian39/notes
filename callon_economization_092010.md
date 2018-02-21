@@ -8,12 +8,11 @@ part ii
 
 An inventory and analysis of the investments required to transform entities from entangled beings into passive things is a key issue for the study of marketization. 6
 
-The question of commodification has taken on a new salience due to the
-proliferation of ‘ living’  entities that have become candidates for marketization. Things such as genes, proteins, embryonic cells, GMOs and so on, currently being produced in laboratories through biomedical practices, raise difficult problems in terms of economic framing. 6
+The question of commodification has taken on a new salience due to the proliferation of ‘ living’  entities that have become candidates for marketization. Things such as genes, proteins, embryonic cells, GMOs and so on, currently being produced in laboratories through biomedical practices, raise difficult problems in terms of economic framing. 6
 
 The assembly of devices and procedures that are necessary to make appropriation possible constitutes another prime subject in the study of marketization. 7
 
-In comparison with other possible forms of economization, marketization’ s key characteristic is that a multiplicity and diversity of actors compete to participate in defining goods and valuing them. From an empirical point of view, the most visible and well-known forces that set markets in motion are firms, trades unions, state services, banks, hedge funds, pension funds, individual consumers and consumer unions and NGOs. To be more complete we could also mention the public- and private-sector research centres that prepare new products and processes, the international monetary or financial institutions, the regulatory or standardization agencies (whether they concern hard technologies or social technologies such as accounting rules and practices), as well as experts, lawyers, economists, think-tanks and other spin doctors. 8
+In comparison with other possible forms of economization, marketization’s key characteristic is that a multiplicity and diversity of actors compete to participate in defining goods and valuing them. From an empirical point of view, the most visible and well-known forces that set markets in motion are firms, trades unions, state services, banks, hedge funds, pension funds, individual consumers and consumer unions and NGOs. To be more complete we could also mention the public- and private-sector research centres that prepare new products and processes, the international monetary or financial institutions, the regulatory or standardization agencies (whether they concern hard technologies or social technologies such as accounting rules and practices), as well as experts, lawyers, economists, think-tanks and other spin doctors. 8
 
 IMPORTANT DISCUSSION OF AGENCEMENT AND ITS INCLUSION OF DIVERSITY OF ACTORS
 
