@@ -1,10 +1,11 @@
 
+First, in order to be calculated, the entities taken into account have to be detached. A finite number of entities are moved, arranged and ordered in a single space 1231
 
 >It is important to take the variety of such calculative spaces into consideration. 1231
 
 >An economy of calculation is precisely an economy of movements, 
 
->A new entity must be produced (a sum, an ordered list, an evaluation, a binary choice, etc.) that corresponds precisely to the manipula- tions effected in the calculative space and, consequently, links (summa-rizes) the entities taken into account. ... t has to be able to leave the calculative space and circulate elsewhere in an acceptable way (without taking with it the whole calculative apparatus). 1231 
+>A new entity must be produced (a sum, an ordered list, an evaluation, a binary choice, etc.) that corresponds precisely to the manipulations effected in the calculative space and, consequently, links (summarizes) the entities taken into account. ... it has to be able to leave the calculative space and circulate elsewhere in an acceptable way (without taking with it the whole calculative apparatus). 1231 
 
 >Isolating objects from their context, grouping them in the same frame, establishing original relations between them, classifying them and summing them up are all costly activities that raise the question of calculative power. 1232
 

@@ -15,7 +15,7 @@ They are an extractive apparatus for data 48
 
 five different types of platforms: advertising, cloud, industrial, product, lean 49 - the bulk of ch2 describes these types
 
-WIth network effects, a tendency towards monopolisation is built into the DNA of platforms: the more numerous the users who interact on  a platform, the more valuable the entire platform becomes for each one of them. 95
+With network effects, a tendency towards monopolisation is built into the DNA of platforms: the more numerous the users who interact on  a platform, the more valuable the entire platform becomes for each one of them. 95
 
 Yet expansion is also driven by factors other than user demand. On such factor is the drive for further data extraction. 98
 
