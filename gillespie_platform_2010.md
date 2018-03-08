@@ -4,20 +4,11 @@ As these providers become the curators of public discourse, we must examine the 
 
 - uses self-description by providers to do the analysis
 
-Intermediaries like YouTube and Google, those companies that provide storage, navi-
-gation and delivery of the digital content of others, are working to establish a long-term
-position in a fluctuating economic and cultural terrain. 348
+Intermediaries like YouTube and Google, those companies that provide storage, navigation and delivery of the digital content of others, are working to establish a long-term position in a fluctuating economic and cultural terrain. 348 
 
-The term ‘platform’ helps reveal how
-YouTube and others stage themselves for these constituencies, allowing them to make a
-broadly progressive sales pitch while also eliding the tensions inherent in their service:
-between user-generated and commercially-produced content, between cultivating com-
-munity and serving up advertising, between intervening in the delivery of content and
-remaining neutral. In the process, it is offering up a trope by which others will come to
-understand and judge them. 348
+The term ‘platform’ helps reveal how YouTube and others stage themselves for these constituencies, allowing them to make a broadly progressive sales pitch while also eliding the tensions inherent in their service: between user-generated and commercially-produced content, between cultivating com- munity and serving up advertising, between intervening in the delivery of content and remaining neutral. In the process, it is offering up a trope by which others will come to understand and judge them. 348
 
-I want to begin by highlighting four semantic territories that the word ‘platform’ has
-signified in the past 348
+I want to begin by highlighting four semantic territories that the word ‘platform’ has signified in the past 348
 
 - Computational, architectural, figurative, political 
 
