@@ -1,0 +1,1 @@
+the attempt to reify and commoditize information is itself an artifact of the modern privatization regime -- a process that can never succeed in its entirety, because complete codification and control of a reified information would paralyze scientific inquiry 672
