@@ -15,7 +15,6 @@ Events problematize classifications, practices, things. The problematization of 
 
 Approaching composition as motion is one mode of creation. 71
 
-
 The result is one instantiation of a form .. that brings inquiry and equipment into a common discursive space. 79
 
 The process that I am currently engaged in and seeking to name  ... concerns the emergence of form as a process, includes in an essential manner claims to say or see something true. The process that concerns me is the one in which such "knowledge-things" are being assembled 85
