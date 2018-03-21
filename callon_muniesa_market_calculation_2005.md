@@ -1,3 +1,5 @@
+Calculating does not necessarily mean performing mathematical or even numerical operations (Lave 1988). Calculation starts by establishing distinctions between things or states of the world, and by imagining and estimating courses of action associated with those things or with those states as well as their consequences. By starting with this type of definition (wide, but usual) of the notion of calculation, we try to avoid the distinction (also conventional, but too sharp) between judgement and calculation. 1231
+
 
 First, in order to be calculated, the entities taken into account have to be detached. A finite number of entities are moved, arranged and ordered in a single space 1231
 
