@@ -11,7 +11,7 @@ I call matter the aggregate of images  and perception of matter these same image
 
 important discussion: perception is not about knowledge, but about action 28
 
-what we mean to prove is that there must be, ranged around each one of these centers, images that are subordinated to its position and variable with it; that conscious perception is bound to occur, and that, moreover, it is possible to understand how it arises 31
+what we mean to prove is that there must be, ranged around each one of these centers, subordinated to its position and variable with it; that conscious perception is bound to occur, and that, moreover, it is possible to understand how it arises 31
 
 the more immediate the reaction is compelled to be, the most must perception resemble a mere contact 32
 
