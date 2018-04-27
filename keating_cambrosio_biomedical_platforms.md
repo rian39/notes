@@ -9,12 +9,21 @@ Once a handmaiden to pathology, biology now counts as the ultimate description a
 
 What happens, for instance, when scientists and engineers attempt to automate something like 'diagnosing cancer'? Common sense would tell us that someone invents a machine capable of carrying out such an activity. In reality, however, just as diagnosis requires some sort of mechanical mediation -- ... -- there is not machine judgement that substitute for human judgment. Rather researchers rearrange the process of producing that judgment.  59
 
+pathology has access to an independent body of observations that emerge in the clinic in the contact  between the doctor and patient.71
+
+pathology precedes physiology 72
+
+cf their arguments about the creation of biomedicine
+
+for equipment to function as a platform, one needs regulatory conventions that are incompletely embodied in the material components of the platform 91
+
+What matters is the flexible, yet clearly identifiable combination of elements 107
+
 differ from networks: 'insofar as they embody regulations and conventions of equivalence, exchange and circulation' [@Keating_2003, 324]
 
 Platforms embody a new form of objectivity, a regulatory one, grounded in the procedures of internal quality control, and, especially, external quality assessment. 332	
 
 biomedical platforms are material and discursive arrangements that act as the bench upon which conventions concerning the biological or normal are connected with conventions concerning the medical or the pathological. 332
-
 
 >the bench upon which conventions concerning the biological or normal are articulated with or connected to conventions concerning the medical or pathological. As such they define the standards according to which biomedical actions are evaluated [@Keating_2003, 327]. 
 
