@@ -29,6 +29,10 @@ the human being who is "genetically at risk." This person is born at the interse
 
 genetics takes its salience within a political and ethical field in which individuals are increasingly obligated to formulate life strategies, to seek to maximize their life chance, to tkae actions or refrains fromactions in order to increase the quality of their lives, and to act prudently in relation to themselves and others. 107.
 
+Patients at genetic risk and their families are thus not passive elements in the practice of cure. 111
+
+Even if biomedicine did frame genetic subjectivity in these terms, the genetic subjects that inhabit contemporary advanced liberal democracies are very different.  ... The genetic axis of personhood is assembled together with all those other axes that construct the subject as autonomous, prudent, responsible and self-actualizing. 129 
+
 Biological citizenship is both individualizing and collectivizing. It is individualized, to the extent that individuals shape their relations with themselves in terms of a knowledge of their somatic individuality.  134
 
 Biological citizenship also has a collectivizing moment.  134
