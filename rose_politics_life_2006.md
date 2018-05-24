@@ -25,6 +25,10 @@ Susceptibility indexes the problems raised by attempts to identify and treat per
 
 But like risk thinking, the idea of susceptibility brings potential futures into the present and tried to make the subject of calculation and object of remediation intervention. 19
 
+the human being who is "genetically at risk." This person is born at the intersection of at least three trajectories.  -- genetic basis in small variations increase likelihood, biological markers associated with condition, doctors diagnose prior to onset   106
+
+genetics takes its salience within a political and ethical field in which individuals are increasingly obligated to formulate life strategies, to seek to maximize their life chance, to tkae actions or refrains fromactions in order to increase the quality of their lives, and to act prudently in relation to themselves and others. 107.
+
 Biological citizenship is both individualizing and collectivizing. It is individualized, to the extent that individuals shape their relations with themselves in terms of a knowledge of their somatic individuality.  134
 
 Biological citizenship also has a collectivizing moment.  134
