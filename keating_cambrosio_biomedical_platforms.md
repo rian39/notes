@@ -37,6 +37,6 @@ Going beyond the innovation/routine dichotomy, platform sociology thus opens up 
 
 To understand biomedicine is to understand its regulation. 334
 
-start right in the middle of the game with regulation. Look, for instance, to quality-control procedures, the meetings and discussions surrounding their developement and enforcement, ... move up and down the regulatory continuum,  ...  Finally, look for alignments with other forms of work. 335
+start right in the middle of the game with regulation. Look, for instance, to quality-control procedures, the meetings and discussions surrounding their development and enforcement, ... move up and down the regulatory continuum,  ...  Finally, look for alignments with other forms of work. 335
 
 
