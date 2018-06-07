@@ -48,13 +48,9 @@ With supervised learning there is a clear measure of success or lack thereof, th
 
 This uncomfortable situation has led to heavy proliferation of proposed methods, since effectiveness is a matter of opinion and cannot be verified directly. 487
 
-We apply K-means clustering to the human tumor microarray data de-
-scribed in Chapter 1. This is an example of high-dimensional clustering. 512
+We apply K-means clustering to the human tumor microarray data de- scribed in Chapter 1. This is an example of high-dimensional clustering. 512
 
-The data are a 6830 × 64 matrix of real numbers, each representing an
-expression measurement for a gene (row) and sample (column). Here we
-cluster the samples, each of which is a vector of length 6830, correspond-
-ing to expression values for the 6830 genes.  513
+The data are a 6830 × 64 matrix of real numbers, each representing an expression measurement for a gene (row) and sample (column). Here we cluster the samples, each of which is a vector of length 6830, correspond- ing to expression values for the 6830 genes.  513
 
 
 Bagging or _bootstrap aggregation_ ... is  a technique for reducing the variance of an estimated prediction function. Bagging seems to work especially well for high-variance, low-bias procedures such as trees. 587
