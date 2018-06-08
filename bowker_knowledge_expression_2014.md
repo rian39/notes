@@ -1,0 +1,1 @@
+It is a "dispositif technique," as Foucault would call -- a bundle of technologies, techniques, administrative procedures and cultural forms. When our gaze is not trapped by the shiny machines, we can see the world we inhavit and the world we make as being lived in and porecuced through these bundles. 116
