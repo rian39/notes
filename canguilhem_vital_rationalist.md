@@ -1,4 +1,5 @@
 ﻿(Canguilhem 2000)
+
 A synthesis is not a mere addition; it is an operational unity. Physics and chemistry are not syntheses, but medicine is, insofar as its object, whose interrogative presence is suspended by methodological choice, nevertheless remains present. 156-7
 
 Most scientific techniques, it can be argued, are in fact nothing more than methods for moving things around and changing the relations among objects.  319
