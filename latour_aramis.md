@@ -57,7 +57,9 @@ People who study technological projects take too little interest in the official
 The more a technological project progresses, the more the role of technology decreases, in relative terms: such is the paradox of development. ... The only thing a technological project cannot do is contextualize itself without placing itself in a broader context. (Latour, 1996, 126-7)
 
 A technological project is not in a context; it gives itself a context, or sometimes does not give itself one.
+
 What it requires is not to “replace projects in their context,” as the foolish expression goes, but to study the way the project is contextualized or decontextualized. To do that, the rigid, stuffy word “context” has to be replaced  by the supple, friendly work “network.” (Latour, 1996, 133)
+
 The work of contextualizing makes the connection between  a context and a project completely unforeseeable. (Latour, 1996, 137) 
 
 Technological projects become reversible or irreversible in relation to the work of contextualization ... (Latour, 1996, 142)
