@@ -1,0 +1,1 @@
+The sociological theory [of ambivalence] deals with the processes through which social structures generate the circumstances in which ambivalence is embedded in particular statuses and status-sets together with their associated social roles. 7
