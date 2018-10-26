@@ -17,4 +17,4 @@ As techniques of true discourse, listening, knowing how to listen properly, read
 
 'useful knowledge, knowledge in which human life is at stake, is a relational mode of knowledge that asserts and prescribes at the same time and is capable of producing a change in the subject's mode of being. 238
 
-For practices  of the self are neither individual nor communal: they are relational and transversal. 545
+For practices of the self are neither individual nor communal: they are relational and transversal. 545
