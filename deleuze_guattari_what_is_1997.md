@@ -14,8 +14,7 @@ the concept also has an exoconsistency with other concepts, when their respectiv
 
 each concept will therefore be considered as the point of coincidence, condensation, or accumulation of its components 20
 
-
-a concept is a heteogenesis -- that is to say, an ordering of its components by zones of neighbourhood  20
+a concept is a heterogenesis -- that is to say, an ordering of its components by zones of neighbourhood  20
 
 a concept ... is a refrain, an opus with its number [chiffre] 21 
 
@@ -35,9 +34,6 @@ Not the concept of all concepts 35
 
 Make up the 'slow beings' we are 36
 
-
-
-
 The object of science is not concepts but rather functions that are presented as propositions in discursive systems. 117
 
 The elements of functions are called functives. 117
@@ -48,11 +44,11 @@ It is a fantastic slowing down,  and it is by slowing down that matter, as well 
 
 The respective independence of variables appears in mathematics when one of them is at a higher power than the first. 122
 
-The etats des choses is a function: it is a complex variable that depends on a relation between at least two independent variables 122
+The _etats des choses_ is a function: it is a complex variable that depends on a relation between at least two independent variables 122
 
 An etats des choses or “derivative” function depends on such a relation: an operation of depotentialization has been carried out that makes possible the comparison of distinct powers starting from which a thing or a body may well develop (integration). 122
 
-When we go from the state of affairs to the thing itself, we see that a thing is always related to several exes at once according to variables that are functions of each other, even if the internal unit remains undetermined.  122
+When we go from the state of affairs to the thing itself, we see that a thing is always related to several axes at once according to variables that are functions of each other, even if the internal unit remains undetermined.  122
 
 But when the things itself undergoes changes of coordinates, strictly speaking it becomes a body, and instead of the function taking the limit and the variable as reference, it takes an invariant and a group of transformations. 122
 
