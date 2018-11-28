@@ -17,18 +17,13 @@ If thought or intelligence is the means of intentional reconstruction of experie
 
 The first distinguishing characteristic of thinking then is facing the facts – inquiry, minute and extensive scrutinizing, observation. 140
 
-> Concrete things have _ways_ of acting, as many ways of acting as they points of interaction with other things. One thing is callous, unresponsive, inert in the presence of some other things; it is alert, eager and on the aggressive with respect to other things; in a third case, it is receptive, docile. 153 
+Concrete things have _ways_ of acting, as many ways of acting as they points of interaction with other things. One thing is callous, unresponsive, inert in the presence of some other things; it is alert, eager and on the aggressive with respect to other things; in a third case, it is receptive, docile. 153 
 
->Organization is no more merely nominal or mental in any art, including the art of inquiry, than it is in a department store or railway system. 154
+Organization is no more merely nominal or mental in any art, including the art of inquiry, than it is in a department store or railway system. 154
 
->[a classification] ... is rather a repertory of weapons for attack upon the future and the unknown. 154 
+[a classification] ... is rather a repertory of weapons for attack upon the future and the unknown. 154 
 
-rule, and in order to discover the meaning of the idea ask for its consequences.
-Then it surpris ingly turns out that the primary significance of the unique and
-morally ultimate character of the concrete situation is to transfer the weight and
-burden of morality to intelligence. It does not destroy responsi bility; it only
-locates it. A moral situation is one in which judgment and choice are required
-antecedently to overt action. 164
+rule, and in order to discover the meaning of the idea ask for its consequences. Then it surprisingly turns out that the primary significance of the unique and morally ultimate character of the concrete situation is to transfer the weight and burden of morality to intelligence. It does not destroy responsibility; it only locates it. A moral situation is one in which judgment and choice are required antecedently to overt action. 164
 
 As long as ends are not thought of as individualized according to specific needs and opportunities, the mind will be content with abstractions, and the adequate stimulus to the moral or social use of natural science and historical data will be lacking. But when attention is concentrated upon the diversified concretes, recourse to all intellectual materials needed to clear up the special cases will be imperative. At the same time that morals are made to focus in intelligence, things intellectual are moralized. The vexatious and wasteful conflict between naturalism and humanism is terminated 174
 

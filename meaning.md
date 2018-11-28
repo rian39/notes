@@ -1,4 +1,5 @@
 ﻿loss of meaning is directly linked to the dissolving, dissuasive action of information, the media, and the mass media. 79
+
 live in a world where there is snore and more information, and less and less meaning Consider three hypotheses. 79
 Either information produces meaning (a ne~entropic factor), but cannot make up for the brutal loss of signi~cation in every domain. 79
 Or information has nothing to do with signification. It 79
