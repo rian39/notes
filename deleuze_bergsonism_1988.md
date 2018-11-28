@@ -3,7 +3,7 @@ Deleuze, Gilles, Bergsonism, tr. Barbara Habberjam & Hugh Tomlinson, Zone Books,
 
 FIRST RULE: Apply the test of true and false to problems themselves. Condemn false problems and reconcile truth and creation at the level of problems 15
 
-[I]t is the solution that counts, but the problem always has the solution it deserves, in terms of the way in which it is stated (i.e., the conditions under which it is determined as a problem), and of the means and terms at our disposal for stating it. (16)
+[I]t is not the solution that counts, but the problem always has the solution it deserves, in terms of the way in which it is stated (i.e., the conditions under which it is determined as a problem), and of the means and terms at our disposal for stating it. (16)
 
 SECOND RULE: Struggle against illusion, rediscover the true differences in kind or articulations of real. 21
 
