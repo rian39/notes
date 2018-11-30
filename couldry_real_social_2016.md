@@ -14,3 +14,11 @@ they do not capture the interrelated _complexity_ that is characteristic of the 
 The _relation_ between this reduced set of daily options nd the infinity of options in principle available is what we mean weh we talk of our _relations_ with a _'media manifold_', holding onto the idea of 'manifold' as a many-dimensional object that can be capture adequately in a lesser number of dimensions. 56
 
 Such social actors, far from being operating unreflexively under the weight of algorithmic power, are now required to pursue reflexivity about their goals under ‘algorithmic’ conditions not of their own choosing, but over which they may seek to acquire some reflexive control. Tracking those processes of reflexive adjustment, in all their complexity, distinguishes social analytics’ concerns from the everyday use of analytics as such, which is now routine in countless organizations, enterprises and businesses. Indeed, from the study of such reflexive tensions emerges a new topic for sociology and for a phenomenology of the digital age, which goes unnoticed by general analyses of algorithmic power. 26
+
+the formation of figurations as patterns of communication in which something distinctive is at stake emerges through the interrelations between three dimensions: relevance-frames, constellations of actors, and communicative practices, that have, as their basis, a particular ensemble of objects and media technologies. 67
+
+the social world is a higher-dimensional manifold within which we can distinguish two distinct principles of scaling or complexification: scaling through relations between _figurations_ and scaling through the _meaningful arrangements_ of figurations 71
+
+see [the history of the internet] as the emergence over time of a many-dimensional 'figuration of figurations,' achieved through the ever-expanding meaning-based linkages, that is, hyperlinks 73
+
+media ensembles discussed in relation to figurations 77-78
