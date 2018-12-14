@@ -1,0 +1,1 @@
+The paradox of technology is that it is thought to be at one of the extremes, whereas it is the ability of the engineer to travel easily along the whole gradient and substitute one type of delegation for another that is inherent to the job. 245  
