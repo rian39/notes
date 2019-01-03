@@ -20,7 +20,7 @@ today we do not ask detailed, methodological questions like 'what exactly are we
 
 a new numerical infrastructure with the capacity to transform economic, cultural and political relations across society 156-7
 
-Digital platforms open up spaces of multi-valence: in these spaces, actions is measured, structured -- and valued -- according to multiple logics at once: everydya life, commerice, politics, knowledges, and so on. 157 
+Digital platforms open up spaces of multi-valence: in these spaces, action is measured, structured -- and valued -- according to multiple logics at once: everydya life, commerice, politics, knowledges, and so on. 157 
 
 # Does digital sociology have problems
 
