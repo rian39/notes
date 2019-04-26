@@ -10,7 +10,7 @@ the arrangement of identities and differences into ordered tables: these constit
 
 Hedged in by calculus and genesis, we have the area of the _table_. 73
 
-language no longer consists only of representations and of sounds that in turn represent the representations and are ordered amongh them as the links of thought required it consists also of formal elements, grouped into a system, which impose upon the sounds, syllables, and roots an organization that is not that of representation. Thus an element has been introduced into the analysis of language that is not reducible to it. 235
+language no longer consists only of representations and of sounds that in turn represent the representations and are ordered among them as the links of thought required it consists also of formal elements, grouped into a system, which impose upon the sounds, syllables, and roots an organization that is not that of representation. Thus an element has been introduced into the analysis of language that is not reducible to it. 235
 
 But from now on there is an interior 'mechanism' in languages which determines not only each one's individuality but also its resemblances to the others: it is this mechanism, the bearer of identity and difference, the sign of adjacency, the mark of kinship, that is now to become the basis for history 236
 

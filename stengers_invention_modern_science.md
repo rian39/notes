@@ -1,6 +1,6 @@
 Stengers, Isabelle, The Invention of Modern Science, tr Smith, Daniel, University of Minnesota Press, 2000
 
- 'my interpretation of the sciences ... would have to respond to the “Leibnizian constraint” according to which philosophy should not have as its ideal the “reversal of established sentiments”'(15)
+'my interpretation of the sciences ... would have to respond to the “Leibnizian constraint” according to which philosophy should not have as its ideal the “reversal of established sentiments”'(15)
 
 'refusing to reduce a situation to what the passing of time gives up power to say about it today' (42)
 
@@ -27,11 +27,13 @@ The idea of a contingent process excludes explanation, which would transform the
 But the "abstraction" is here the creation of a concrete being, an intersecting of references, capable of silencing the rivals of the person who conceives it. 85
 
 Abstraction is not the product of an “abstract way of seeing things”. It has nothing psychological or methodological about it. It is relative to the invention of an experimental practice that distinguishes it from one fiction among others while “creating” a fact that singularizes one class of phenomena among others. (86)
+
 This is the very meaning of the event that constitutes the experimental invention: the invention of the power to confer on things the power of conferring on the experimenter the power to speak in their name. (89)
 
 Interest derives from inter-esse: to be situated between' (Stengers, 95)
 
 The prophetic tone of the readers of technoscience, denouncing the reduction of nature to information processing, cannot conceive of the passion of a computer programmer, who, in order to invent the way a situation becomes “processable” by a computer, must submit to a becoming that transforms him into a mediator, site of coinvention of the situation and language. (112)
+
 There are many ways to recount the history of the sciences, and to ground the politics of the future on them. What I am proposing puts the emphasis on the event, the risk, the proliferation of practices. What rational medicine requires, for example, grounds on the past the promise of a reducibility of what, for the moment, poses an obstacle to it (like the placebo effect). (114)
 
 The effects of invention are always the creation of unsuspected distinctions, the possibility of putting into variation what appears as a “given”. (115)
