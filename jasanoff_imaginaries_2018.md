@@ -1,3 +1,5 @@
+we redefine sociotechnical imaginaries as collectively held, institutionally stabilized, and publicly performed visions of desirable futures, animated by shared understandings of forms of social life and social order attainable through, and supportive of, advances in science and technology (Jasanoff, 2015, 4).
+
 national sociotechnical imaginaries are “collectively imagined forms of social life and social order reflected in the design and fulfillment of nation- specific scientific and/or technological projects” (4)
 
 Imaginaries, moreover, encode not only visions of what is attainable through science and technology but also of how life ought, or ought not, to be lived; in this respect they express a society’s shared under- standings of good and evil. (4)
