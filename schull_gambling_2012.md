@@ -1,0 +1,38 @@
+
+
+>the gambling machine is not a conduit of risk that allows for socially meaningful deep play or heroic release from a “safe and momentless” life (to use Goffman’s phrase), but rather, a reliable mechanism for securing a zone of insulation from a “human world” she experiences as capricious, discontinuous, and insecure. 15 
+
+>Over the last two decades, social theorists have focused a great deal of attention on the leading role that technology has played in the production of broad-scale insecurities—from global warming and other catastrophic environmental disasters to financial crises and unstable job markets.  While some have acknowledged the subjective insecurities that percolate through so-called risk society as a result of these “manufactured uncertainties” (as the sociologist Ulrich Beck has termed them), fewer have examined how individuals use technology to manufacture “certainties” of the sort that Sharon discussed above. 15
+
+Although the activity explicitly entails risk—involving money, no less, a key measure of social and economic value—it contains that risk within a dependable framework, allowing gamblers to enact a mode of self-equilibration that has become typical of everyday technological interactions. 15
+
+The economic ramifications of this overrepresentation have been well established: from 30 percent to a staggering 60 percent of total gambling revenues have been found to derive from problem gamblers. 59 These numbers tell a very different story than do measures of the problem in the general population. 15
+
+An increasing number of researchers, politicians, clinicians, and gamblers themselves have begun to raise the same question of gambling machines that is often asked of consumer products like cigarettes, alcohol, firearms, automobiles, and fatty foods: Are the problems in the product, the user, or their interaction? 17 
+
+>When addiction is regarded as a relationship that develops through “repeated interaction” between a subject and an object, rather than a property that belongs solely to one or the other, it becomes clear that objects matter as much as subjects. 17
+
+Just as certain individuals are more vulnerable to addiction than others, it is also the case that some objects, by virtue of their unique pharmacologic or structural characteristics, are more likely than others to trigger or accelerate an addiction. Their distinctive potency lies in their capacity to engender the sort of compelling subjective shift on which some individuals come to depend. 17
+
+most researchers place different forms of gambling along a continuum of intensity that progresses from lottery, bingo, and mechanical slots to sports, dice, cards, and finally, to video slots and video poker. 17
+
+>Forms of gambling differ not only in the intensity of play they facilitate but also in the kinds of subjective shifts they enable. Each type of gambling involves players in distinctive procedural and phenomenological routines—betting sequence and temporality, frequency and amount of payouts, degree of skill involved, and mode of action (checking books, ticking boxes, scratching tickets, choosing cards, pressing buttons), producing a unique “cycle of energy and concentration” and a corresponding cycle of affective peaks and dips. The game of craps, for instance, can produce a state of high energy and corresponding cycle of affective peaks and dips. 18
+
+>As Mollie and Sharon told us earlier, it is not the chance of winning to which they become addicted; rather, what addicts them is the world-dissolving state of subjective suspension and affective calm they derive from machine play. 18
+
+it is impossible to understand contemporary machine gambling “without taking into account [the] transformation of technology and the adaptation of gamblers to the experiential possibilities the advances in technology have presented,” 18 
+
+Tracking back and forth between gamblers’ experience and the array of environments, objects, and software programs with which they interact, I undertake what the philosopher of technology Don Ihde has alternately called a “phenomenology of human-technology” and “materialist phenomenology.”  Such an approach avoids the tendency of strict materialism to treat technology as an autonomous, determining force, while also avoiding the tendency of human-centered approaches to regard technology as a passive, neutral tool. Instead, at every step the focus is on the ways in which objects and subjects act together, through their encounters with each other. Action, Latour has argued, is not a preformed essence that resides within subjects or objects, but something they “co-produce.” 18
+
+the account of addiction to gambling machines that I present here locates addiction not discretely within gamblers or gambling machines but, rather, in the dynamic interaction between the two. 18 
+
+Undermining their own public claims that slot machines are powerless, inert things, members of the gambling industry invest a great deal of resources and creative energy into the project of guiding player behavior through technology, endeavoring to create products that can extract maximum “revenue per available customer,” or REVPAC 19 
+
+Rather, in keeping with the relational understanding of addiction outlined above, I closely examine how addiction to gambling machines emerges out of the dynamic interaction between machine gamblers and the design intentions, values, and methods of commercial gambling environments and technologies. 19
+
+As my research went on, it became increasingly clear that to adequately understand the experience of these gamblers, I would need to better understand the machines they were playing. To that end I expanded the scope of my project for a third time and began to educate myself about the history and inner workings of gambling machines, as well as the design practices and marketing strategies of gambling technology suppliers. I spent long hours at the Gaming Research Center at the University of Nevada, Las Vegas, where I read through years of machine manufacturers’ trade magazines, press releases, and annual reports. I also began attending gambling industry technology expositions and conference panels and interviewing executives, game developers, and marketers. 20
+
+>This book attempts to give that chance to the gamblers I spoke with. Instead of casting them as aberrant or maladapted consumers, I include them in the following pages as experts on the very “zone” in which they are caught—a zone that resonates to some degree, I suggest, with the everyday experience of many in contemporary capitalist societies. 20
+
+>What dynamic circuit of architectural strategies, technological capacities, affective states, cultural values, life experiences, therapeutic techniques, and regulative discourses forms the context for this existential no-man’s-land, in which gamblers seek to lose themselves and the gambling industry seeks to turn a profit? I take the human-machine encounter at the center of Mollie’s map as my primary unit of analysis and move out from there, progressively widening the frame. I have drawn my own map in four parts, each of which charts the terrain of a different position along the circuit of machine gambling 21 
+
