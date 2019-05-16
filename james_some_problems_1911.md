@@ -1,5 +1,6 @@
 ﻿{James, 1911 #860}
 James, William, and Horace Meyer Kallen. Some Problems of Philosophy; a Beginning of an Introduction to Philosophy. New York [etc.]: Longmans, Green, and co., 1911.
+
 What connections may be perceived concretely or in point of fact, among the parts of the collection abstractly designated as our ‘world’?
 
 There are innumerable modes of union among its parts, some obtaining on a larger, some on a smaller scale. 126

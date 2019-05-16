@@ -1,5 +1,3 @@
-
-
 >the gambling machine is not a conduit of risk that allows for socially meaningful deep play or heroic release from a “safe and momentless” life (to use Goffman’s phrase), but rather, a reliable mechanism for securing a zone of insulation from a “human world” she experiences as capricious, discontinuous, and insecure. 15 
 
 >Over the last two decades, social theorists have focused a great deal of attention on the leading role that technology has played in the production of broad-scale insecurities—from global warming and other catastrophic environmental disasters to financial crises and unstable job markets.  While some have acknowledged the subjective insecurities that percolate through so-called risk society as a result of these “manufactured uncertainties” (as the sociologist Ulrich Beck has termed them), fewer have examined how individuals use technology to manufacture “certainties” of the sort that Sharon discussed above. 15
