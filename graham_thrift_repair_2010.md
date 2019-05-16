@@ -1,4 +1,4 @@
-considering all the processes of maintenance and repair that keep modern societies going. These processes can be likened to the social equivalent of the humble earthworm in their remorseless and necessary character 3 – and in the way in which they have been neglected by nearly all commentators as somehow beneath their notice. 1
+consider all the processes of maintenance and repair that keep modern societies going. These processes can be likened to the social equivalent of the humble earthworm in their remorseless and necessary character – and in the way in which they have been neglected by nearly all commentators as somehow beneath their notice. 1
 
 Things only come into visible focus as things when they become inoperable – they break or stutter and they then become the object of attention. The background is thereby foregrounded. 2 
 
