@@ -1,4 +1,5 @@
 Bourdieu, P. (2000). Pascalian meditations. Stanford, Calif., Stanford University Press.
+
 Thus the only possible foundation of law is to be sought in history, which, precsiely, abolishes any kind of foundation. 94
 
 Arbitrariness is also the basis of all fields, even the 'purest' ones, like the worlds of art of science. Each of them has its 'fundamental law', its nomos (a word that is normally tranlsated as 'law' and would be better rendered as 'constitutions', a term which better recalls the arbitrary act of institution, or as 'principle of vision and division', which is closer to the etymology). 96
@@ -18,7 +19,9 @@ If there is a truth, it is that truth is a stake in struggles. 118
 To practise reflexivity means questioning the privilege of a knowing 'subject' arbitrarily excluded from the effort of objectification. 119
 
 By endeavouring to intensify awareness of the limits that thought owes to its social conditions of production and to destroy the illusion of the absence of limits or of freedom from all determinations which leaves thought defenceless against these determinations, it aims to offer the possibility of a real freedom with respect to the determinations that it reveals. 121
+
 The universal is the object of an official recognition and the recognition  universally given to the sacrificing of selfish interests (especially economic ones) universally favours the strategies of universalization, through the undeniable symbolic profits it provides. 125
+
 'By space the universe comprehends and swallows mu up like an atom; by though I comprehend the world.' 130
 Illusio  is that of being in  the world, of being occupied by the world, which means that an agent can be affected by something very distant, even absent, if it participates in the game in which he is engaged. 135
 [I]f the agent has an immediate understanding of the familiar world, this is because the cognitive structures that he implements are the product of incorporation of the structures of the world in which he acts; the instruments of construction that he uses to know the world are constructed by the world 136.

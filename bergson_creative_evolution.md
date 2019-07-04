@@ -9,4 +9,12 @@ Repetition is only possible in the abstract: what is repeated is some aspect tha
 
 The feeling we have of our evolution and of the evolution of all things in pure duration is there, forming around the intellectual concept properly so-called an indistinct fringe that fades off into darkness. Mechanism and finalism agree in taking account only of the bright nucleus shining in the centre. 46
 
+> Intellectuality and materiality have been constituted, in detail, by reciprocal adaptation [@Bergson_1984, 187]
+
+>There are no things. There are only actions 249
+
+> Things are constituted by the instantaneous cut which the understanding practices, at a given moment, on a flux of this kind. 249
+
+>Of immobility alone does the intellect form a clear idea 163
+
 > But everywhere, except in man, consciousness has let itself be caught in the net whose meshes it tried to pass through: it has remained the captive of the mechamisms it has set up. Automatism, which it tries to draw in the direction of freedom, winds about it and drags it down. It has not the power to escape, because the energy it has provided for acts is almost all employed in maintaining the infinitely subtle and essentially unstable equilibrium into which it has brought matter.' [@Bergson_creative, 264]  
