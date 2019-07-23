@@ -1,4 +1,5 @@
 ﻿Bourdieu, P. (2000). Pascalian meditations. Stanford, Calif., Stanford University Press.
+
 Thus the only possible foundation of law is to be sought in history, which, precsiely, abolishes any kind of foundation. 94
 Arbitrariness is also the basis of all fields, even the 'purest' ones, like the worlds of art of science. Each of them has its 'fundamental law', its nomos (a word that is normally tranlsated as 'law' and would be better rendered as 'constitutions', a term which better recalls the arbitrary act of institution, or as 'principle of vision and division', which is closer to the etymology). 96
 The principle of vision and division and the mode of knowledge (religious, philosophical, juridical, scientific, artistic, etc.) which prevails in a field, in association with a specific form of expression, can only be known and understood in relation to the specific legality of that field as a social microcosm. 99
