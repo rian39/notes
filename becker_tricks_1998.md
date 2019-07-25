@@ -1,10 +1,14 @@
 
-> The appropriate ratio of de- scription to interpretation is a real problem every describer of the social world has to solve or come to terms with. 112
+> The appropriate ratio of description to interpretation is a real problem every describer of the social world has to solve or come to terms with. 112
+
 >In the world we live in, however, phenomena seldom have all the attributes required for them to be, unambiguously, members of a class defined by multiple criteria. [@Becker_2008a, 177]
+
 > Uncoupling them, and treating them as capable of varying independently, turns a tech- nical problem into an opportunity for theoretical growth and articulation [@Becker_2008a, 182]
->To summarize this set of tricks: Put terms into the full set of rela- tions they imply (as “tall” implies “short” and “gifted” implies “not gif- ted”. Then look at the way that set of relations is now organized and has been organized at other times and in other places (as in under- standing that not knowing arithmetic has a different meaning and dif- ferent consequences than it did 150 years ago). And, finally, see how things came to be organized the way they are here and now, and what connections to other social arrangements sustain that set of relations. 190 
+
+>To summarize this set of tricks: Put terms into the full set of relations they imply (as “tall” implies “short” and “gifted” implies “not gifted”. Then look at the way that set of relations is now organized and has been organized at other times and in other places (as in understanding that not knowing arithmetic has a different meaning and different consequences than it did 150 years ago). And, finally, see how things came to be organized the way they are here and now, and what connections to other social arrangements sustain that set of relations. 190 
 
 >An excellent, perhaps the best, way to enlarge the reach of a concept is to forget the name entirely and concentrate on the kind of collective activity that is taking place. 198
+
 > If we call the choice of things to describe a sampling problem—which, of all the things we can observe about a person or situation or event, will we include in our sample of observa- tions?—then we can see that the general solution of the problem is to confront ourselves with just those things that would jar us out of the121/318 conventional categories,the conventional statement of the problem, the conventional solution 120-121 
 
 >How do we go about finding cases that don’t fit? We can do it by paying attention to all the data we actually have, rather than ignoring what might be inconvenient or otherwise not come to our attention. 121
