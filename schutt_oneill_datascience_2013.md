@@ -1,20 +1,8 @@
 # Data Science - schutt and oneill
 
-Let’s define data science beyond a set of best practices used in tech
-companies. That’s the definition we started with at the start of the
-book. But after going through this exploration, now consider data
-science to be beyond tech companies to include all other domains:
-neuroscience, health analytics, eDiscovery, computational social
-sciences, digital hu‐ manities, genomics, policy...to encompass the
-space of all problems that could possibly be solved with data using a
-set of best practices discussed in this book, some of which were
-initially established in tech companies. 350
+{#datascience-definition} Let’s define data science beyond a set of best practices used in tech companies. That’s the definition we started with at the start of the book. But after going through this exploration, now consider data science to be beyond tech companies to include all other domains: neuroscience, health analytics, eDiscovery, computational social sciences, digital hu‐ manities, genomics, policy...to encompass the space of all problems that could possibly be solved with data using a set of best practices discussed in this book, some of which were initially established in tech companies. 350
 
-data science is a set of best practices used in tech companies,
-working within a broad space of problems that could be solved with
-data, possibly even at times deserving the name science. Even so, it’s
-sometimes nothing more than pure hype, which we need to guard against
-and avoid adding to. 350
+Data science is a set of best practices used in tech companies, working within a broad space of problems that could be solved with data, possibly even at times deserving the name science. Even so, it’s sometimes nothing more than pure hype, which we need to guard against and avoid adding to. 350
 
 ## Naive Bayes
 
