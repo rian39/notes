@@ -1,7 +1,10 @@
-
 > Users cannot continue to expect platforms to be hands-off and expect them to solve problems perfectly and expect them to get with the times and expect them to be impartial and automatic. 197 {#platform-experience}
 
 > Platforms should make a radical commitment to turning the data they already have back to me in a legible and actionable form, everything they could tell me contextually about why a post is there and how I should assess it. We have already paid for this transparency, with our data.199 {#platform-governance}
+
+
+> The accumulated history users have with a platform—established social networks, a legacy of interactions, an archive of photos, an accumulated matrix of preferences—does in fact discourage them from abandoning it, even when they are dissatisfied with how it governs their use, even when they are fed up, even when they must endure harassment to stay. 200 
+
 
 >The accumulated history users have with  platform—established social networks, a legacy of interactions, an archive of photos, an accumulated matrix of preferences—does in fact discourage them from abandoning it, even when they are dissatisfied with how it governs their use, even when they are fed up, even when they must endure harassment to stay. 200 {#ambivalence}
 
@@ -16,3 +19,6 @@ It is not just, as I hope I have shown, that all platforms moderate, or that all
 Content moderation is a key part of what social media platforms do that is different, that distinguishes them from the open web: they moderate (removal, filtering, suspension), they recommend (news feeds, trending lists, Gillespie, T. (2018). Custodians of the internet : Platforms, content moderation, and the hidden decisions that personalized suggestions), and they curate (featured content, front- page offerings). Platforms use these three levers together to, actively and dy- namically, tune the unexpected participation of users, produce the “right” feed for each user, the “right” social exchanges, the “right” kind of commu- nity. (“Right” here may mean ethical, legal, and healthy; but it also means whatever will promote engagement, increase ad revenue, and facilitate data collection. And given the immense pushback from users, legislators, and the press, these platforms appear to be deeply out of tune.i 207-208 {platform-definition}
 
 Rethinking content moderation might begin with this recognition, that content moderation is the essential offer platforms make, and part of how they tune the public discourse they purport to host. Platforms could be held responsible, at least partially, for how they tend to that public discourse, and to what ends. 209 {#platform-definition} {#platform-society}
+
+
+
