@@ -5,7 +5,7 @@ Number governs the quasi-totality of the 'human sciences ... Statistics invades 
 
 At the beginning of the twentieth century, sociology unveiled its proper dignity -- its audacity, even -- in the will to submit the communitarian bonds to number. It sought to extend to the social body and representation the Galilean processes of literalisation and mathematisation. But ultimately it succumbed to an anarchic development of this enterprise. 2
 
-It is in its very essence that the cultural fabric is woven by number alone. 3
+It is in its very essence that the cultural fabric is woven by number alone. 3 {#numbering}
 
 Number informs our souls. 3
 
@@ -17,7 +17,7 @@ Essentially, a Number is a fragment sectioned from a natural multiplicity; a mul
 
 Every attempt to reduce the matheme to the sole spatialised evidence of a syntax of signs runs aground on the obscure prodigality of being in the forms of the multiple. 51
 
-Number is neither that which counts, nor that which we count. This regime of numericality organises the forgetting of number. 51
+Number is neither that which counts, nor that which we count. This regime of numericality organises the forgetting of number. 51 {#numbering}
 
 Number is that which through being _organises_ thought. 92
 
