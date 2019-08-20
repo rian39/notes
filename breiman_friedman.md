@@ -12,7 +12,7 @@ High dimensionality
 A mixture of data types
 Nonstandard data structure
 
-and, perhaps most challenging, nonhomogeneity; that is, different relationships hold between variables in different parts of the measure space. 7
+and, perhaps most challenging, nonhomogeneity; that is, different relationships hold between variables in different parts of the measure space. 7 {#datasets}-7
 
 Along with complex data sets comes "the curse of dimensionality" (a phrase due to Bellman, 1961). The difficulty is that the higher the dimensionality, the sparser and more spread apart are the data points. Ten points on the unit interval are not distant neighbors. But 10 points on a 10-dimensional unit rectangle are like oases in the desert. 7
 

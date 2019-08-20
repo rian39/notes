@@ -1,6 +1,4 @@
-### comments: StarWriter
 
------------------
 Appadurai, Arjun, Modernity at large: cultural dimensions of globalization, University of Minnesota Press Minneapolis, 1996 
 
 
@@ -10,7 +8,7 @@ Thus, to put it summarily, electronic mediation and mass migration mark the worl
 
 In the chapters that follow, I show that the work of the imagination, viewed in this context, is neither purely emancipatory nor entirely disciplined but is a space of contestation in which individuals and groups seek to annex the global into their own practices of the modern. 4 
 
-What I wish to suggest is that there has been a shift in recent decades, building on technological changes over the past century or so, in which the imagination has become a collective, social fact. This development, in turn, is the basis of the plurality of imagined worlds. 5
+What I wish to suggest is that there has been a shift in recent decades, building on technological changes over the past century or so, in which the imagination has become a collective, social fact. This development, in turn, is the basis of the plurality of imagined worlds. 5 {#experience} {#differences} {#platform-history}
 
 In suggesting that the imagination in the postelectronic world plays a newly significant role, I rest my case on three distinctions. First, the imagination has broken out of the special expressive space of art, myth, and ritual and has now become a part of the quotidian mental work of ordinary people in many societies. It has entered the logic of ordinary life from which it had largely been successfully sequestered. 5 
 
@@ -22,7 +20,7 @@ Fantasy can dissipate (because its logic is so often autotelic), but the imagina
 
 It is important to stress here that I am speaking of the imagination now as a property of collectives, and not merely as a faculty of the gifted individual (its tacit sense since the flowering of European Romanticism). 8
 
-By technoscape, I mean the global configuration, also ever fluid, of technology and the fact that technology, both high and low, both mechanical and informational, now moves at high speeds across various kinds of previously impervious boundaries. (Appadurai, 1996, 34)
+By technoscape, I mean the global configuration, also ever fluid, of technology and the fact that technology, both high and low, both mechanical and informational, now moves at high speeds across various kinds of previously impervious boundaries. (Appadurai, 1996, 34) {#ensemble} {#edge}
 
 It is one of the grand clich?s of social theory (going back to Toennies, Weber, and Durkheim) that locality as a property or diacritic of social life comes under siege in modern societies. But locality is an inherently fragile social achievement. Even in the most intimate, spatially confined, geographicallY isolated situations, locality must be maintained carefully against various kinds of odds. 179 =
 

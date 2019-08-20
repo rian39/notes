@@ -2,11 +2,17 @@
 	
 {Barney, 2004 #728}
 The word 'network' describes a structural condition whereby distinct points (often called 'nodes') are related to one another by connections (often called 'ties') that are typically multiple, intersecting and often redundant. 2
+
 The network society thesis is closely connected to the constellation of theories and analyses which arose in the 1980s under the banner of 'post-Fordism.' 10
+
 Fordism, the accumulation regime which prevailed from the late nineteenth to the mid-twentieth century 10
+
 New communications technologies and industries (i.e. Broadcast radio and television) provided media through which a mass culture of consumption could be manufactured, and the quasi-scientific practices of opinion polling, market research and advertising provided means for management of the mass audience and market. 12
+
 The role of the state under the post-Fordist regime of accumulation is essentially to provide the conditions for flexibility, innovation and competitiveness. 15
-The phrase 'network society' applies to societies that exhibit two fundamental characteristics. The first is the presence in those societies of sophisticated – almost exclusively digital – technologies of networked communication and information management/distribution, technologies which form the basic infrastructure mediating an increasing array of social, political and economic practices.  ... the second, arguably more intriguing, characteristic of network societies is the reproduction and institutionalization throughout (and between) those societies of networks  as the basic form of human organization and relationship across a wide range of social, political and economic configurations and associations. 26
+
+The phrase 'network society' applies to societies that exhibit two fundamental characteristics. The first is the presence in those societies of sophisticated – almost exclusively digital – technologies of networked communication and information management/distribution, technologies which form the basic infrastructure mediating an increasing array of social, political and economic practices.  ... the second, arguably more intriguing, characteristic of network societies is the reproduction and institutionalization throughout (and between) those societies of networks  as the basic form of human organization and relationship across a wide range of social, political and economic configurations and associations. 26 {#network} {#platform-society}
+
 At the economic base of the network society is an 'informational' – as opposed to strictly industrial – capitalist economy. 28
 The principal source of conflict and resistance in the network society is the contradiction between the placeless character of networks and the rootedness of human meaning. 31
 Perhaps digital networks are to human communications what automated bread-making machines are to the baking of bread. 47

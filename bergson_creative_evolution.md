@@ -15,6 +15,6 @@ The feeling we have of our evolution and of the evolution of all things in pure 
 
 > Things are constituted by the instantaneous cut which the understanding practices, at a given moment, on a flux of this kind. 249
 
->Of immobility alone does the intellect form a clear idea 163
+>Of immobility alone does the intellect form a clear idea 163 {#platform-foundation}
 
-> But everywhere, except in man, consciousness has let itself be caught in the net whose meshes it tried to pass through: it has remained the captive of the mechamisms it has set up. Automatism, which it tries to draw in the direction of freedom, winds about it and drags it down. It has not the power to escape, because the energy it has provided for acts is almost all employed in maintaining the infinitely subtle and essentially unstable equilibrium into which it has brought matter.' [@Bergson_creative, 264]  
+> But everywhere, except in man, consciousness has let itself be caught in the net whose meshes it tried to pass through: it has remained the captive of the mechamisms it has set up. Automatism, which it tries to draw in the direction of freedom, winds about it and drags it down. It has not the power to escape, because the energy it has provided for acts is almost all employed in maintaining the infinitely subtle and essentially unstable equilibrium into which it has brought matter.' [@Bergson_creative, 264]  {#automate} {#power}

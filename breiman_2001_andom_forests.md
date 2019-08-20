@@ -6,15 +6,9 @@ For random forests, an upper bound can be derived for the generalization error i
 
 The forests studied here consist of using randomly selected inputs or combinations of inputs at each node to grow each tree.  10
 
-Although the bound is likely to be loose, it fulfills the same suggestive function for random
-forests as VC-type bounds do for other types of classifiers. It shows that the two ingredients
-involved in the generalization error for random forests are the strength of the individual
-classifiers in the forest, and the correlation between them in terms of the raw margin func-
-tions. 9
+Although the bound is likely to be loose, it fulfills the same suggestive function for random forests as VC-type bounds do for other types of classifiers. It shows that the two ingredients involved in the generalization error for random forests are the strength of the individual classifiers in the forest, and the correlation between them in terms of the raw margin functions. 9
 
-
-> It shows that the two ingredients involved in the generalization error for random forests are the strength of the individual
-classifiers in the forest, and the correlation between them in terms of the raw margin functions [@breiman_random_2001, 9]
+> It shows that the two ingredients involved in the generalization error for random forests are the strength of the individual classifiers in the forest, and the correlation between them in terms of the raw margin functions [@breiman_random_2001, 9]
 
 To improve accuracy, the randomness injected has to minimize the correlation $\overline\rho$ while maintaining strength. The forests studied here consist of using randomly selected inputs or combinations of inputs at each node to grow each tree. The resulting forests give accuracy 10
 

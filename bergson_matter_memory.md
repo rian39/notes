@@ -1,13 +1,13 @@
 ﻿{Bergson, 1988 #831}
 Bergson, H. 1988 Matter and memory, New York: Zone Books.
 
-everything seems to take place as if in this aggregate of images which I call the universe, nothing really new could happen except through the medium of certain particular images, the type of which is furnished me by my body 18
+everything seems to take place as if in this aggregate of images which I call the universe, nothing really new could happen except through the medium of certain particular images, the type of which is furnished me by my body 18 {#ensemble} {#images}
 
 my body,  an object destined to move other objects, is, then, a center of action; it cannot give birth to a representation.20
 
 The objects which surround my body reflect its possible action upon them
 
-I call matter the aggregate of images  and perception of matter these same images referred to the eventual action of one particular image, my body 22
+I call matter the aggregate of images  and perception of matter these same images referred to the eventual action of one particular image, my body 22 {#body} {#images}
 
 important discussion: perception is not about knowledge, but about action 28
 
@@ -15,7 +15,7 @@ what we mean to prove is that there must be, ranged around each one of these cen
 
 the more immediate the reaction is compelled to be, the most must perception resemble a mere contact 32
 
-it is true that an image may be without being perceived - it may be present without being represented 35
+it is true that an image may be without being perceived - it may be present without being represented 35 {#images}
 
 that which distinguishes it as a present image, as an objective reality, from a represented image is the necessity which obliges it to act through every one of its points upon all the points of all other images, to transmit the whole of what it perceives 36
 
@@ -23,7 +23,7 @@ our representation of things would thus arise from the fact that they are thrown
 
 **36-37** discussion of how representation is a virtualization, a limitation or blocking in relation to our action/interests: how a thing becomes a picture
 
-the objects merely abandon something of their real action in order to manifest their virtual influence of the living being upon them. Perception therefore resembles those phenomena of reflexion which result from an impeded refraction; it is like an effect of mirage 37
+the objects merely abandon something of their real action in order to manifest their virtual influence of the living being upon them. Perception therefore resembles those phenomena of reflexion which result from an impeded refraction; it is like an effect of mirage 37 {#experience} {#images}
 
 38 discussion of the total photograph; zones of indetermination play the role of screen;   
 

@@ -1,3 +1,3 @@
-suggestion need not be stimulated by an individual, but can be induced by objects instead. 301-2
+suggestion need not be stimulated by an individual, but can be induced by objects instead. 301-2 {#experience} {#belief}
 
-corwd theory offers more adequate images of politics
+Crowd theory offers more adequate images of politics {#crowds}

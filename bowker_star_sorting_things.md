@@ -13,9 +13,9 @@ We need to recognize that all information systems are necessarily suffused with 
 
 There are good organizational reasons for working around formal systems; these adaptations are necessarily local. What is global is the need for them. (Bowker & Star, 1999, 321)
 
-As sets of classification systems coalesce into working infrastructures they become integrated into information systems of all sorts. ... [I]nformation systems design should be informed by organizational and political analysis at this level. Rather we have-along with many researchers in the field of social informatics-demonstrated empirically that invisible organizational structures influence the design and use of systems. (Bowker & Star, 1999, 323)
+As sets of classification systems coalesce into working infrastructures they become integrated into information systems of all sorts. ... [I]nformation systems design should be informed by organizational and political analysis at this level. Rather we have-along with many researchers in the field of social informatics-demonstrated empirically that invisible organizational structures influence the design and use of systems. (Bowker & Star, 1999, 323) {#classify}
 
-Working infrastructures contain multiple classification systems that are both invisible, in the senses above, and ubiquitous. The invisibility of infrastructure makes visualization or description difficult. ... Our infrastructural metaphors show how baffled we often are by these systems. They are like undergarments or tunnel dwellers. (Bowker & Star, 1999, 232)
+Working infrastructures contain multiple classification systems that are both invisible, in the senses above, and ubiquitous. The invisibility of infrastructure makes visualization or description difficult. ... Our infrastructural metaphors show how baffled we often are by these systems. They are like undergarments or tunnel dwellers. (Bowker & Star, 1999, 232) {#infrastructure} {#diagram}
 
 It is politically and ethically crucial to recognize the vital role of infrastructure in the “built moral environment.” Seemingly purely technical issues like how to name things and how to store data in fact constitute much of what we have come to know as natural. (Bowker & Star, 1999, 326)
 

@@ -9,7 +9,7 @@ It is a challenge to conceptualize what it is such tools do in a relational way:
 
 A relational understanding is a prerequisite if we want to draw upon such tools to bring into being new competencies for personnel or to facilitate cooperation over time, space, boundaries and cultures 3 74
 
-Conceptualizing information technologies in work practices as reading and writing artifacts allows one to blur the boundaries between computer-based and paper-based technologies.374
+Conceptualizing information technologies in work practices as reading and writing artifacts allows one to blur the boundaries between computer-based and paper-based technologies.374 {#platform-history}
 
 In many CSCW texts, the word is avoided, but the figure of ‘supporting' human capabilities remains. Such imagery, first of all, overlooks the fundamental ways 'Man's capabilities' are transformed through their interlockings with IT 376
 

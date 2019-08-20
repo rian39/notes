@@ -1,1 +1,1 @@
-A fragment of a larger world is compressed into a piece of canvas, impressing its surface with color and light without taking the position of a viewer external to it into account. No scale or human measure is assumed 37
+A fragment of a larger world is compressed into a piece of canvas, impressing its surface with color and light without taking the position of a viewer external to it into account. No scale or human measure is assumed 37 {#images}

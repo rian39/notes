@@ -6,7 +6,7 @@ The integral calculus also rests on the notion of the limit. A basic problem of 
 The notion of a limit rests on that of a _function_. The curve of which we were finding the gradient was specified by the function $f(x)$. The sume $s_n$ of the first $n$ terms of the geometric progression  is expressed as a function of $n$ of the geometric progression is expressed as a function of $n$ by 
 $$s_n = 1-2^{-n}$$
 
-The idea of a function in its turn rests o that of _number_. The equation $y=f(x)$ of the curve expresses a connection between the number $x$ and the number $y$. 2
+The idea of a function in its turn rests on that of _number_. The equation $y=f(x)$ of the curve expresses a connection between the number $x$ and the number $y$. 2 {#function}-4 {#numbering} {#edge}-4
 
 In a general field there is no relation of order by which we can say that, of any two elements, one precedes the other. 12
 
@@ -19,7 +19,7 @@ or $\sum_{n=1}^{\infinity}$ converges (or _is convergent_), and that $s$ is its 
 B
 
 
-Commonly the step from the experimental data or the hypotheses to the conclusions that they can be made to yield lies in solving _differential equations._ Relations are given connecting an unknown function with its first or second (or higher) derivates, and the function has to be found. The analyst is led to keep a stock of such functions as occur repeatedly. 104
+Commonly the step from the experimental data or the hypotheses to the conclusions that they can be made to yield lies in solving _differential equations._ Relations are given connecting an unknown function with its first or second (or higher) derivates, and the function has to be found. The analyst is led to keep a stock of such functions as occur repeatedly. 104 {#function} {#knowing} {#datafication}
 
 The exponential function
 

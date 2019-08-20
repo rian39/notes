@@ -8,4 +8,4 @@ Let's draw a distinction: unlike tools and art, philosophical carpentry _is buil
 
 The phenomenologist who performs carpentry creates a machine that tries to replace the unit of operation of another's experience. 100
 
-> Nick Montfort and I have endorsed the coupling between material constraint, creativity, and culture under the ane "platform studies," a mode of analysis that explores how understanding a computer platform is vital to a critique of the particular works, genres or categories of creative work built on top of it. [@Bogost, 2012, 100] 
+Nick Montfort and I have endorsed the coupling between material constraint, creativity, and culture under the ane "platform studies," a mode of analysis that explores how understanding a computer platform is vital to a critique of the particular works, genres or categories of creative work built on top of it. [@Bogost, 2012, 100] {#platform-sociology}

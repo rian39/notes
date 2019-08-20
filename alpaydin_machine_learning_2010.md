@@ -11,7 +11,7 @@ It is as if we first pick a class $C$ at random by sampling from $P(C)$, and the
 ## neural net 
  It is as if the error propagates from the output _y_ back to the inputs and hence the name _backpropagation_ was coined 250
 
-Perhaps the most important contribution of research on neural networks is this synergy that bridged various disciplines, epsecially statistics and engineering. It is thanks to this that the field of machine learning is now well established. 274
+Perhaps the most important contribution of research on neural networks is this synergy that bridged various disciplines, especially statistics and engineering. It is thanks to this that the field of machine learning is now well established. 274
 
 \begin {equation}
 \label {eq:nonlinear_sigmoid}
