@@ -17,7 +17,7 @@ Essentially, a Number is a fragment sectioned from a natural multiplicity; a mul
 
 Every attempt to reduce the matheme to the sole spatialised evidence of a syntax of signs runs aground on the obscure prodigality of being in the forms of the multiple. 51 {#numbering} {#ensemble}
 
-Number is neither that which counts, nor that which we count. This regime of numericality organises the forgetting of number. 51
+Number is neither that which counts, nor that which we count. This regime of numericality organises the forgetting of number. 51 {#numbering}
 
 Number is that which through being _organises_ thought. 92
 

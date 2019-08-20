@@ -1,14 +1,14 @@
 in the twenty-first century advanced capitalism came to be centred upon extracting and using a particular kind of raw material: data 39
 
-What are platforms? At the most general level, platforms are digital infrastructures that enable two or more groups to interact. They therefore position themselves as intermediaries that bring together different users: customers, advertisers, service providers, producers, suppliers and even physical objects. 43
+What are platforms? At the most general level, platforms are digital infrastructures that enable two or more groups to interact. They therefore position themselves as intermediaries that bring together different users: customers, advertisers, service providers, producers, suppliers and even physical objects. 43 {#platform-definition}
 
 The second essential characteristic is that digital platforms produce and are reliant on 'network effects': the more numerous the users who use a platform, the more valuable that platform becomes for everybody else. 45
 
 Finally, platforms are designed in a way that makes them attractive to its varied users. 46
 
-Platforms, in sum, are a new type of firm; they are characterised by providing the infrastructure to intermediate between different user groups, by displaying monopoly tendencies driven by network effects, by employing cross-subsidisation to draw in different user groups, and by having a designed core architecture that governs the interaction possibilities. 48
+Platforms, in sum, are a new type of firm; they are characterised by providing the infrastructure to intermediate between different user groups, by displaying monopoly tendencies driven by network effects, by employing cross-subsidisation to draw in different user groups, and by having a designed core architecture that governs the interaction possibilities. 48 {#platform-market}
 
-Platform ownership, in turn, is essentially ownership of software (the 2 billion lines of code for Google, or the 20 million lines of code for Facebook) and hardware (servers, data centres, smartphones, etc.) built upon open-source material (e.g. Hadoop's data management system is used by Facebook). ... They are an extractive apparatus for data. 48
+Platform ownership, in turn, is essentially ownership of software (the 2 billion lines of code for Google, or the 20 million lines of code for Facebook) and hardware (servers, data centres, smartphones, etc.) built upon open-source material (e.g. Hadoop's data management system is used by Facebook). ... They are an extractive apparatus for data. 48 {#datafication}
 
 
 They are an extractive apparatus for data 48
