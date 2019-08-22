@@ -5,7 +5,7 @@ First, in order to be calculated, the entities taken into account have to be det
 
 >It is important to take the variety of such calculative spaces into consideration. 1231
 
->An economy of calculation is precisely an economy of movements, 
+>An economy of calculation is precisely an economy of movements, {#economisation} {#calculation} 
 
 >A new entity must be produced (a sum, an ordered list, an evaluation, a binary choice, etc.) that corresponds precisely to the manipulations effected in the calculative space and, consequently, links (summarizes) the entities taken into account. ... it has to be able to leave the calculative space and circulate elsewhere in an acceptable way (without taking with it the whole calculative apparatus). 1231 
 
@@ -13,4 +13,4 @@ First, in order to be calculated, the entities taken into account have to be det
 
 > This thing that ‘holds together’ is a good if and only if its properties represent a value for the buyer. 1233
 
-> A calculative agency will be all the more powerful when it is able to: a) establish a long, yet finite list of diverse entities; b) allow rich and varied relations between the entities thus selected, so that the space of possible classifications and reclassifications is largely open; c) formalize procedures and algorithms likely to multiply the possible hierarchies and classifications between these entities. As this calculative power depends on the equipments that agencies can rely upon, we can easily understand why it is unevenly distributed among them. 1238
+> A calculative agency will be all the more powerful when it is able to: a) establish a long, yet finite list of diverse entities; b) allow rich and varied relations between the entities thus selected, so that the space of possible classifications and reclassifications is largely open; c) formalize procedures and algorithms likely to multiply the possible hierarchies and classifications between these entities. As this calculative power depends on the equipments that agencies can rely upon, we can easily understand why it is unevenly distributed among them. 1238 {#economisation} {#power} {#platform-market}

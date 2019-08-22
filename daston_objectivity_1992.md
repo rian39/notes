@@ -2,7 +2,7 @@ In its positive sense, mechanical objectivity requires painstaking care and exac
 
 Atlases supply working objects to the sciences of the eye. For initiates and neophytes alike, the atlas trains the eye to pick out certain kinds of objects as exemplary (e.g., this "typical" liver rather than that one with hepatitis) and to regard them in a certain way (e.g., using the Flamsteed rather than the Ptolemaic celestial projection). To acquire this expert eye is to win one's spurs in most empirical sciences; the atlases drill the eye of the beginner and refresh the eye of the old hand. 85
 
-What we find is that the image, as standard bearer of objectivity, is inextricably tied to a relentless search to replace individual volition and discretion in depiction by the invariable routines of mechanical reproduction. This mechanizing impulse is at once a part of the discourse of natural philosophy and a constituent of moral vision; the two were inseparable. 98
+What we find is that the image, as standard bearer of objectivity, is inextricably tied to a relentless search to replace individual volition and discretion in depiction by the invariable routines of mechanical reproduction. This mechanizing impulse is at once a part of the discourse of natural philosophy and a constituent of moral vision; the two were inseparable. 98 {#images} {#automate}
 
 Francis Galton shared none of Sabotta's slightly uncomfortable acceptance of the need for amalgamation. Galton, in collaboration with Herbert Spencer, enthusiastically embraced the possibility of simultaneously eliminating judgment and of capturing, in one image, the vivid image of a group. Indeed, Galton was persuaded that all attempts to exploit physiognomy to grasp underlying group proclivities were doomed to failure without a mechanized abstracting procedure. His remedy was disarmingly simple. Each member of the group to be synthesized had his or her picture drawn on transparent paper. By exposing a photographic plate to each of these images, a composite image would arise. Such a process would free the synthesis from the vagaries of individual distortion; even the time of plate exposure given to each individual could be adjusted on scientific grounds, such as degree of relatedness in the case of family averages. 103
 
@@ -11,8 +11,8 @@ For the electroencephalographer, the acquisition of the "seeing eye" permitted t
 
 Graphical representation could cut across the artificial boundaries of natural languages to reveal nature to all people, and graphical representation could cut across disciplinary boundaries to capture phenomena as diverse as the pulse of a heart and the downturn of an economy. Pictures became more than merely helpful tools; they were the words of nature itself. 116
 
-The search for this rendition of objective representation was a moral, as much as a technical, quest. 117
+The search for this rendition of objective representation was a moral, as much as a technical, quest. 117 {#images} {#regulation}
 
 As we have seen, mechanical objectivity encompassed all of science in its injunctions, admonishing the theorist and experimenter trafficking in words as well as the atlas maker trafficking in images. However, the atlas image held a privileged position in the morality of mechanical objectivity, first as its enforcer and then as its purest realization. 120
 
-We can fully understand why photographs wear the halo of objectivity only when we recognize that the kind of objectivity that beatifies them is mechanical objectivity 123
+We can fully understand why photographs wear the halo of objectivity only when we recognize that the kind of objectivity that beatifies them is mechanical objectivity 123 

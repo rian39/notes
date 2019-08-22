@@ -5,10 +5,10 @@ Chun, Wendy Hui-Kyong. Control and Freedom : Power and Paranoia in the Age of Fi
 
 In order to emerge as a medium of freedom, the Internet became cyberspace in the mid-1990s. 37
 
-[i]n order to use, one is used, and that one's online interactions are fundamentally open 130
+[i]n order to use, one is used, and that one's online interactions are fundamentally open 130 {#ambivalence} {#network}
 
 Technology makes it possible to believe once more in liberal and consumer equality 143
 
 [A]ll electronic interactions undermine the control of users by constantly sending involuntary “representations.” 249
 
-[C]ontrol-freedom thrives on a paranoid knowledge that focuses on technological rather than political solutions and that relies on racial profiling. 290
+[C]ontrol-freedom thrives on a paranoid knowledge that focuses on technological rather than political solutions and that relies on racial profiling. 290 {#power} {#freedom}

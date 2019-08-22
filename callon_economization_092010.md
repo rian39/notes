@@ -1,7 +1,7 @@
 ﻿Callon (Çalışkan and Callon 2010, 2009)
 part 1
 
-The forces that explain the circulation transformation of things are the same forces that give things value. In short, things circulate because they are valued and it is because they are valued that they become goods (Dewey, 1915). Circulation consists of an essentially dual process involving continuous requalification and valuation. 389
+The forces that explain the circulation transformation of things are the same forces that give things value. In short, things circulate because they are valued and it is because they are valued that they become goods (Dewey, 1915). Circulation consists of an essentially dual process involving continuous requalification and valuation. 389 {#circulation}{#economisation}
 
 The issue is no longer to distinguish, demarcate and to contrast regimes such as reciprocity, redistribution or market transactions. Instead, the goal is to understand how complex and hybrid social configurations are perpetually being constructed through the conjoined contributions of circulating material entities, as well as competent agents engaged in valuation practices 390 {#economisation} 
 

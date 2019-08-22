@@ -5,7 +5,7 @@ Callon, M., Meadel, C., & Rabeharisoa, V. (2005). The Economy of Qualities. In A
 
 These highly reflexive markets are organized around two structuring mechanisms: the singularization of goods and the attachment of goods to (and detachment from ) those who consume them. 35
 
-This attachment to a singularized product cannot be disassociated from the configuration – through supply and demand – of an apparatus of distributed cognition in which information and reference are spread out between many elements. The consumer's preferences are tied into this apparatus. 38
+This attachment to a singularized product cannot be disassociated from the configuration – through supply and demand – of an apparatus of distributed cognition in which information and reference are spread out between many elements. The consumer's preferences are tied into this apparatus. 38 {#platform-market} {#economisation} {#knowing}
 
 It is through a reconfiguration of the socio-cognitive apparatus  .... that detachment and reattachment are effected. 39
 

@@ -16,13 +16,13 @@ each concept will therefore be considered as the point of coincidence, condensat
 
 a concept is a heterogenesis -- that is to say, an ordering of its components by zones of neighbourhood  20
 
-a concept ... is a refrain, an opus with its number [chiffre] 21 
+a concept ... is a refrain, an opus with its number [chiffre] 21  {#concept} {#numbering}
 
 the concept is not discursive, and philosophy is not a discursive formation, because it does not link propositions together 22
 
-Concepts are centres of vibration, each in itself and every one in relation to all the others 23
+Concepts are centres of vibration, each in itself and every one in relation to all the others 23 {#concept} {#ensemble}
 
-They do form a wall, but it is a dry-stone wall, and everything holds together only along diverging lines 23.  
+They do form a wall, but it is a dry-stone wall, and everything holds together only along diverging lines 23.   {#concept} {#ensemble} {#architecture}
 
 Discussion of the signed concept Cogito
 
@@ -38,7 +38,7 @@ The object of science is not concepts but rather functions that are presented as
 
 The elements of functions are called functives. 117
 
-When an object – a geometrical space, for example – is scientifically constructed by functions, its philosophical concept, which is by no means given in the function, must still be discovered. 117
+When an object – a geometrical space, for example – is scientifically constructed by functions, its philosophical concept, which is by no means given in the function, must still be discovered. 117 {#concept} {#platform-definition}
 
 It is a fantastic slowing down,  and it is by slowing down that matter, as well as the scientific thought able to penetrate it with propositions, is actualized. A function is a Slow-motion. 118
 
@@ -56,7 +56,7 @@ The difference between body and state of affairs (or thing) pertains to the indi
 
 Thus we find ourselves confronting a new string of functives, systems of coordinates, potentials, states of affairs (etats des choses), things and bodies. Etats des choses are ordered mixtures, of very different types, which may even only concern trajectories. But things are interactions, and bodies are communications. Etats des choses refer to geometrical coordinates of supposedly closed systems, things, refer to energetic coordinates of coupled systmes, and bodies refer to informational coordinates of separated, unconnected systems. 123
 
-Concepts and functions thus appear as two types of multiplicities or varieties whose natures are different. 127
+Concepts and functions thus appear as two types of multiplicities or varieties whose natures are different. 127 {#concept} {#function}
 
 science brings to light partial observers  in relation to functions within systems of reference.129
 

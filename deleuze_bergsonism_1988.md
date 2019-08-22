@@ -19,10 +19,10 @@ In short, there is a point of view, or a rather a state of things, in which diff
 
 The illusion, therefore, does not result only from our nature, but from the world in which we live, from the side of being that manifests itself to us in the first place. 34
 
-Thus intuition does form a method with its three (or five) rules. This is an essentially problematizing method (a critique of false problems and the invention of genuine ones), differentiating (carvings out and intersections), temporalizing (thinking in terms of duration). 35
+Thus intuition does form a method with its three (or five) rules. This is an essentially problematizing method (a critique of false problems and the invention of genuine ones), differentiating (carvings out and intersections), temporalizing (thinking in terms of duration). 35 {#method}
 
 Intuition is rather the movement by which we emerge from our own duration, by which we make use of our own duration to affirm and immediately to recognize the existence of other durations, above or below us (33).
 
-In fact, movement as physical experience is itself a composite ... beneath the local transfer there is always a conveyance of another nature. 47
+In fact, movement as physical experience is itself a composite ... beneath the local transfer there is always a conveyance of another nature. 47 {#experience} {#movement}
 
-It is this complex linear operation, consisting in a cutting up according to articulations and an intersecting according to convergences, which leads to the proper posing of a problem, in such a way that the solution itself depends on it. 115-116
+It is this complex linear operation, consisting in a cutting up according to articulations and an intersecting according to convergences, which leads to the proper posing of a problem, in such a way that the solution itself depends on it. 115-116 {#structure}

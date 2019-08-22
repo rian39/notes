@@ -38,7 +38,7 @@ Soft assembly out of multiple, largely independent components yields a character
 
 [W]e may often solve problems by “piggy-backing’ on reliable environmental properties. This exploitation of external structure is what I mean by the term scaffolding.  (Clark, 1997, 45)
 
-The idea here is that the brain should not be seen as primarily a locus of inner descriptions of external states of affair; rather, it should be seen as a locus of inner structures that act as operators upon the world via their role in determining actions.  (Clark, 1997, 47)
+The idea here is that the brain should not be seen as primarily a locus of inner descriptions of external states of affair; rather, it should be seen as a locus of inner structures that act as operators upon the world via their role in determining actions.  (Clark, 1997, 47) {#brain} {#experience} {#practice}
 
 It is this feature-the ability of the map itself to act as the controller-that is of greatest interest to us. ... The map is its own user, and its knowledge is both descriptive (of locations) and prescriptive (it represents the relationship between two locations as the sequence of movements that would carry the robot from one landmark to the other.  (Clark, 1997, 49)
 

@@ -6,7 +6,9 @@ Inflection becomes vortical, and at the same its variation opens onto fluctuatio
 The definition of Baroque mathematics is born with Leibniz. The object of the discipline is a 'new affection' of variable sizes, which variation itself. 17
 
 the presence of a curved element acts as a cause 17
+
 Just as the object becomes objectile, the subject becomes a superject 20
+
 The truth of a variation appears to a subject. This is the very idea of Baroque perspective. 20
 
 relation between continuum and contiguous – no contradiction 20
@@ -27,6 +29,6 @@ Leibniz's monad would be just such a grid – or better, a room or an apartment 
 
 For Leibniz, the monad is clearly the most “simple” number, that is, the inverse, reciprocal, harmonic number. It is the mirror of the world because it is the inverted image of God, the inverse number of infinity. 129
 
-The inverse number has special traits: it is infinite or infinitely small, but also, by opposition to the natural number, which is collective, it is individual and distributive. 129
+The inverse number has special traits: it is infinite or infinitely small, but also, by opposition to the natural number, which is collective, it is individual and distributive. 129 {#numbering} {#ensemble}
 
 Each monad includes the world as infinite series of infinitely small units, but establishes differential relations and integrations only upon a limited portion of the series, such that the monads themselves enter in an infinite series of inverse numbers. 130

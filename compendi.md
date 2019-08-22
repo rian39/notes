@@ -4,6 +4,7 @@ Knowledge Technologies 2001 ~ March 4-7, 2001, Austin TX ~ [wwn fwww.KnowledgeTe
 
 
 Meetings in Compendium's perspective:
+
 1. are untapped knowledge-intensive events: often they are unfocused, but they can be improved with facilitated tools that help participants express and visualize views in a shared, common display; 
 2. 2. can be more tightly woven into the fabric of works they are preceded and followed by much other communication and the generation of associated artifacts.
 We describe how these 'conversationaI maps' can be integrated with pre/postmeeting activities and documents. Compendium's maps are designed to support the granular representation of concepts (as hypertext database objects) so that they can be spatially organized, recombined and reused in multiple contexts.2

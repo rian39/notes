@@ -1,11 +1,11 @@
 Any sociology of knowledge today must address the background role of digital infrastructure (algorithms, analytics, architectures, platforms) in shaping what counts as ‘reality’. This requires – hence the term social analytics – detailed accounts of how social actors construct their own online presence and develop a reflexive relationship to the infrastructures of digital presence. Such detailed accounts constitute what we call ‘real social analytics’, and contribute to a phenomenology of the digital world. p1 {#social-analytics}
 
-Our starting-point is not so much a ‘web epistemology’ (Rogers 2010) as a renewed attention to everyday engagements with the epistemological questions raised by the digital infrastructures through which social actors are, increasingly, coming to know themselves. 6 {#knowledge}{#participation}
+Our starting-point is not so much a ‘web epistemology’ (Rogers 2010) as a renewed attention to everyday engagements with the epistemological questions raised by the digital infrastructures through which social actors are, increasingly, coming to know themselves. 6 {#knowing}{#participation}
 
 It means understanding how the social is constructed in an age of _deep_ mediatization when the very _elements and building-blocks_ from which a sense of the social is constructed becomes _themselves_ based in technologically based processes of mediation. 7 {#platform-sociology}
 
 
-if ‘presence’ for social actors now necessarily involves being categorised and measured by automated processes over which the social actor may have little control, or even awareness, how is this relationship experienced? 24 {#platform-sociology}
+if ‘presence’ for social actors now necessarily involves being categorised and measured by automated processes over which the social actor may have little control, or even awareness, how is this relationship experienced? 24 {#platform-sociology}{#classify} {#experience}
 
 Media _institutionalize_ our communicative practices on various levels. 32
 
