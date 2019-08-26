@@ -76,29 +76,3 @@ Objects and subjects are only crossing points, relays, etc in the flux 321
 Alienation thru buying and selling is less important, and replaced by access 323 – intercerebral cooperation
 Chapter 8 politics of multiplicity
 359 Another concept of biopower: life becomes a stake not because power makes it into an object, but because the powers of coproduction and cooperation which found life tend to enlarge.  Distinctions between work and leisure, between zoe and bios tend to erase under the action of cooperation between brains. 360
------------------------
-brain co-operation precedes and exceeds creation of value in capital through division of labour 38
-
-important passages on why publicity, media, conversation, press are not just about diffusion, but create new forms of invention 43-4. 
-Imitation is the canvas from which new inventions arise. 44 Hence, the social, affective, cognitive and communicational is included in the production of value
-Contrast b/w production and reproduction 47 - based on active and passive forces
-Contrast b/w Marx’s account of the production of value and Tardes 49-50:  invention is difference that propagates according to the desires and beliefs that constitute it. 50 
-In diffusion, it opposes itself and adapts itself  to other inventions: hence the differentiation of difference 50. 
-Can only explain the productivity of capitalism through the capture of the dynamics of brains, not div of lab 51
-Impossible to oppose individual and society 129 because individual is a society  -  a multiplicity of relations;
-So what is important is the passage and reversibility between two socieities 130 - the individual and the social are differential actualisations of the multiplicity of relations that constitute cooperation between brains. 131
-*key point because it allows a critique of the individualism of GTD and at the same time, to situate its sociality.
-Individual produces from below through infinitesimal belief and desires which imitate each other, combine and oppose - a multiplicity of imitative fluxes 132
-*again, a key point, because it helps explain the webby side of GTD 
-Therefore think action as neither free or constrained but as coming from a singular interaction of forces in combination and imitation. 134
-So not the sovereign individual, but a provisional achievenment constantly menaced by the play of forces that constitute it 137
-The monster as the model of subjectivation 141: complicated passage, but interesting because it includes a co-ordinating, centralising force, and a desire to 'invade the world', and *key ethical question here: what is the alternative? What would an ethics that takes this into account look like?
-Look for metamorphoses and variations in the action of subjectification rather than of value that need to examine in order to find out about capitalism. 142* economic psychologie against political economy – should the paper be framed that way? the problem is to think the line of invention without submitting it to need, utility, or instrumental, but to reconfigurations of the partage between freedom and necessity? This would be a much stronger way to do it?
-Labour as intermediate between routine and invention 255
-Split between manual and mental labour is not useful 255 in distinguishing reproduction and invention
-Intercerebral work produces beliefs, desires, made out of habits, opinions, etc 262; not limited to symbolic manipulation because it mobilises subrepresentative forces and time; rather it uses 'attention' and memory before it can work on ideas. 262-3To capture or free attention - a key stake today 265
-Important passage on distinction between living and dead labour, and how Tarde reconfigures it.  -  as living machine.  - there are automatisms in human and virtualities in the machine 265-6
-Definitions of invention 268:  - coadaptation of imitative fluxes, a cooperation, even in an individual brain, but always a multitude of agents social and infinitesimal, and their ordinary ideas 270., 271 on the individual genius.as a mass of little consciousnesses 272
-Invention as action as collaboration also suspends what is already individuated. 273 - puts inventor outside history, and into event.293 
-the multiple man that Plato feared emerges in imitation-fashion world - free subjectivation and assujettissement result 294.
-

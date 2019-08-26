@@ -4,17 +4,17 @@ Things only come into visible focus as things when they become inoperable – th
 
 in this space between breakdown and restoration of the practical equilibrium – between the visible (that is, ‘broken’) tool and the concealed tool – that repair and maintenance, makes its bid for significance. For without that capacity, the world cannot go on, cannot become ready-to-hand again. 3
 
-the many processes of mainten- ance and repair as an illustration of the power of things to form a common material substrate, which is always on and which forms the equivalent of a Heideggerian background 4 
+the many processes of maintenance and repair as an illustration of the power of things to form a common material substrate, which is always on and which forms the equivalent of a Heideggerian background 4 
 
-When breakdowns and malfunc- tions occur, it is not necessarily the case that they can be easily fixed. The reason for the breakdown may be opaque (especially as technological systems become more complex), the restoration may be too urgent for usual channels and procedures to be followed, the replacement parts may not be quite right but need to be made to fit. 4
+When breakdowns and malfunctions occur, it is not necessarily the case that they can be easily fixed. The reason for the breakdown may be opaque (especially as technological systems become more complex), the restoration may be too urgent for usual channels and procedures to be followed, the replacement parts may not be quite right but need to be made to fit. 4
 
 Improvisation allows the work of maintenance and repair to go on when things may seem bleak and it takes in a whole series of responses, from simple repetition (such as trying it again) through to attempts to improve communication so as to be clear exactly what the problem is, through disagreement over causes, through to complex theorizing, responses which are often the result of long and complex apprenticeships and other means of teaching (Henke, 2000; Suchman, 1987)  4
 
-To summarize the argument so far, perhaps we have been looking in the wrong place. Perhaps we should have been looking at breakdown and failure as no longer atypical and therefore only worth addressing if they result in catastrophe and, instead, at breakdown and failure as the means by which societies learn and learn to re-produce 5
+To summarize the argument so far, perhaps we have been looking in the wrong place. Perhaps we should have been looking at breakdown and failure as no longer atypical and therefore only worth addressing if they result in catastrophe and, instead, at breakdown and failure as the means by which societies learn and learn to re-produce 5 {#breakdown} {#work}
 
-And, if this is the case, then the multifarious activities of repair and maintenance become not just secondary and derivative but pivotal. They become one of our chief means of seeing and understanding the world. 5
+And, if this is the case, then the multifarious activities of repair and maintenance become not just secondary and derivative but pivotal. They become one of our chief means of seeing and understanding the world. 5 {#method} {#breakdown}
 
-To summarize once more, the problem with contemporary social theory is that it has predominantly theorized connection and assembly. But there are good reasons to think that, in the overall scheme of things, disconnec- tion and disassembly are just as important in that they resist entities’ means of enacting themselves: failure is key. 7
+To summarize once more, the problem with contemporary social theory is that it has predominantly theorized connection and assembly. But there are good reasons to think that, in the overall scheme of things, disconnection and disassembly are just as important in that they resist entities’ means of enacting themselves: failure is key. 7 {#breakdown} {#network} {#making} {#platform-positive}
 
 First, the very fact that certain technosocial complexes emerge that are deemed to be ‘infrastructure’ often works to undermine their cultural visi- bility. This veiling of the multitudinous technological circuits of the city as standardized, normalized and immanent ‘infrastructure’ thus tends to work to deflect attention from cities of repair. 8
 

@@ -1,4 +1,4 @@
-The discourse of the ‘platform’ works against us developing such precision, offering as it does a comforting sense of technical neutrality and progressive openness. 360
+The discourse of the ‘platform’ works against us developing such precision, offering as it does a comforting sense of technical neutrality and progressive openness. 360 {#platform-discourse}
 
 As these providers become the curators of public discourse, we must examine the roles they aim to play, and the terms by which they hope to be judged. 347
 
@@ -40,4 +40,4 @@ socially and financially valuable, between niche and wide appeal. And, as with b
 casting and publishing, their choices about what can appear, how it is organized, how it
 is monetized, what can be removed and why, and what the technical architecture allows
 and prohibits, are all real and substantive interventions into the contours of public dis-
-course. 359 {#platform-society}
+course. 359 {#platform-society} {#media}
