@@ -5,7 +5,7 @@ Geoffrey Bowker and Susan Leigh Star
 Information acumen The understanding and use of knowledge in modern business
 Edited by Lisa Bud-Frierman 1994 Routledge
 
-List-making has frequently been seen as one of the foundational activities of advanced human society. 188
+List-making has frequently been seen as one of the foundational activities of advanced human society. 188 {#list}
 
 In the face of incompatible information or data structures among users or among those specifying the system, attempts to create unitary knowledge categories are futile. Rather, parallel or multiple-representational forms are required. 207
 

@@ -1,4 +1,4 @@
-a new order of spatio- temporal continuity for forms of economic, political and cultural life today. This ordering of continuity emerges, sometimes without explicit coordination, in practices of sorting, naming, numbering, comparing, listing, and calculating. 4
+a new order of spatio- temporal continuity for forms of economic, political and cultural life today. This ordering of continuity emerges, sometimes without explicit coordination, in practices of sorting, naming, numbering, comparing, listing, and calculating. 4 {#list} {#numbering}
 
 
 In other words, the becoming topological of culture does not simply correspond to how culture imagines topology; instead, our proposal is that topology is now emergent in the practices of ordering, modelling, networking and mapping that co-consti- tute culture, technology and science. In short, a distributed, dynamic configuration of practices is organizing the forms of social life in ways that supplement and extend those of Euclidean geometry.5
