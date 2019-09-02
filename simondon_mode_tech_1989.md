@@ -3,19 +3,19 @@
 
 ## Introduction
 
-raise the degree of technicity: increase the margin which permits the machine to be sensible to exterior information 11
+raise the degree of technicity: increase the margin which permits the machine to be sensible to exterior information 11 {#platform-positive} {#device}
 
-machine of high technicity is open, and supposes human as permanent organiser and interpreter of machines in relation to each other. 11
+machine of high technicity is open, and supposes human as permanent organiser and interpreter of machines in relation to each other. 11 {#ensemble} {#device}
 
 He is _among_ the machine which operate with him 12
 
-Through intermediary of margin of indetermination and not through automatism that the machines can be grouped in coherent ensembles,  12
+Through intermediary of margin of indetermination and not through automatism that the machines can be grouped in coherent ensembles,  12 {#ensemble} {#automate}
 
 Habitual usage is not a good guide because it ... 13
 
-3 levels of technical object: technical element, technical individual, and technical ensemble 15
+3 levels of technical object: technical element, technical individual, and technical ensemble 15 {#ensemble} {#platform-definition}
 
-technicity tends to reside at the level of the ensemble today -- supplies unity and stability 16
+technicity tends to reside at the level of the ensemble today -- supplies unity and stability 16 {#ensemble} {#technicity}
 
 ## pt 1 
 
@@ -33,7 +33,7 @@ technical object as that of which there is genesis does not occur continuously b
 
 technical object has a posterity because it is not saturated  43
 
-concretisation means that technical object is between natural object and scientific representation 46
+concretisation means that technical object is between natural object and scientific representation 46 {#earth} {#objectivity} {#device}
 
 ### ch  2 -- evolution of technical reality: element, individual and ensemble
 
@@ -58,35 +58,35 @@ For that, they need to create a third milieu, a technogeographical milieu on whi
 
 the only things that are really invented as the once that need an associated milieu to be viable 57
 
-associated milieu: recurrence of causalite in a milieu that the technical being creates around itself and which conditions it as it is conditioned by it. 57
+associated milieu: recurrence of causalite in a milieu that the technical being creates around itself and which conditions it as it is conditioned by it. 57 {#ensemble} {#making}
 
 C'est parce que le vivant est un être individuel qui porte avec lui son milieu associé que le vivant peut inventer; cette capacité de se conditionner soi-même est au principe de la capacité de produire des objets qui se conditionnment eux-mêmes. 58
 
-the forms become active when they organise themselves in relation to the ground, bringing to anterior virtualities to actuality. 59
+the forms become active when they organise themselves in relation to the ground, bringing anterior virtualities to actuality. 59
 
-We can create technical beings because we have in us a play of relations and a matter-form relation which is closely analogous to what we institute in the  technical object 60
+We can create technical beings because we have in us a play of relations and a matter-form relation which is closely analogous to what we institute in the  technical object 60 {#making} {#device} {#body}
 
-The principle of the individualization of the technical object through recurrent causality in an associated milieu allows us to think with more clarity certain technical ensembles and to know if we must treat them as technical individuals or organised collections of individuals. 61
+The principle of the individualization of the technical object through recurrent causality in an associated milieu allows us to think with more clarity certain technical ensembles and to know if we must treat them as technical individuals or organised collections of individuals. 61 {#ensemble} {#thought} {#making}
 
-The principle of individuation of technical objects in an ensemble is that of sub-ensembles of recurrent causality in the associated milieu. all technical objects that have a recurrent causality in their associated milieu must be separated from each other and connected in ways that maintain the independence of associated milieus in relation to each other 63. 
+The principle of individuation of technical objects in an ensemble is that of sub-ensembles of recurrent causality in the associated milieu. All technical objects that have a recurrent causality in their associated milieu must be separated from each other and connected in ways that maintain the independence of associated milieus in relation to each other 63. {#ensemble} {#making} {#device}
 
-Where is the individuality of the ensemble? At the level of the sub-ensemble or that of the ensemble? 64 
+Where is the individuality of the ensemble? At the level of the sub-ensemble or that of the ensemble? 64 {#ensemble} {#platform-definition}
 
 definition of technical element: they don't have an  associated milieu 65
 
-technical time proper: oscillations of relaxation running between different levels of the ensemble from elements to individuals to ensembles. 66-67
+technical time proper: oscillations of relaxation running between different levels of the ensemble from elements to individuals to ensembles. 66-67 {#ensemble} {#change}
 
-technicity is the degree of concretisation of the object 72
+technicity is the degree of concretisation of the object 72 {#technicity}
 
-associated milieu is depositary of technicity at the level of the individual, as extension of it is inter-commutativity at the level of the ensemble 73
+associated milieu is depositary of technicity at the level of the individual, as extension of it is inter-commutativity at the level of the ensemble 73 {#ensemble} {#technicity}
 
-in the elements, technicity exists in the most pure form, whereas in the individuals and the ensembles it only exists in state of combinations 73
+in the elements, technicity exists in the most pure form, whereas in the individuals and the ensembles it only exists in state of combinations 73 {#ensemble} {#combination}
 
 capacity or puissance of elements increases as it concretises 74 and the wider the conditions of usages 75.
 
-stable technical individuals and technical ensembles only sometimes exist; often they are temporary 76
+stable technical individuals and technical ensembles only sometimes exist; often they are temporary 76 {#ensemble} {#change}
 
-often people become the associated milieu for an ensemble 77
+often people become the associated milieu for an ensemble 77 {#experience} {#ensemble}
 
 machine often replaces human as carrier of tools 78
 
@@ -94,9 +94,9 @@ it is still the human who conserves in himself the centre of the complex technic
 
 but people can remain as associated milieu for machine 79
 
-the two positions that people occupy in relation to ensemble: element or chef 82
+the two positions that people occupy in relation to ensemble: element or chef 82 {#experience} {#ensemble}
 
-technicity is not a hierarchisable reality 81 -- exists from element to ensemble, but the effect of ensemble is more prominent due to the role attributed to the chef 81
+technicity is not a hierarchisable reality 81 -- exists from element to ensemble, but the effect of ensemble is more prominent due to the role attributed to the chef 81 {#technicity} {#platform-elites}
 
 ## Part 2: human and technical object
 
@@ -110,7 +110,7 @@ plates and schemas and their importance to the technical object 93  - new mode o
 
 encyclopaedisme as a new social force 94
 
-visual symbolisme appropriate to technology  - forms and proportions (97), and the word gives way to the image.  
+visual symbolisme appropriate to technology  - forms and proportions (97), and the word gives way to the image.   {#images} {#technicity} {#diagram}
 
 105 -112: interesting discussion of difference between children and adult relation to technical object; and how culture makes of adult simultaneity the successive virtuality of adolescence. 112 for this conclusion. 
 
@@ -123,13 +123,14 @@ visual symbolisme appropriate to technology  - forms and proportions (97), and t
 capital and labour are both incomplete modes of being in relation to the  technicity of the technical object. 
 
 for both, the finality counts more than the scheme of action 119
+
 by contrast, in the technical individual, the externality of finality disappears in the face of growing internal coherence 119 the auto-regulation takes over 
 
 Intuition of schemes of functioning supports a relation to technical being for human 119
 
 Discussion of difference between inorganic and living memory 120-122
 
-Coupling of human and machine starts when a common coding has been discovered 124
+Coupling of human and machine starts when a common coding has been discovered 124 {#coding}
 
 quite long discussion of synchronisation and how it works -- need for critical points
 
@@ -144,19 +145,19 @@ the human who works prepares the mediation but does not accomplish it 243
 
 when the human no longer intervenes as carrier of tools, he cannot leave the centre of the operation in obscurity. It is in effect this centre that must be produced by the  technical object, which does not think, which does not feel and which does not contract habits. 244
 
-technical activity is neither part of a pure social domain or pure psychic domain. It is the model of the collective relation, which cannot be confounded with either of the trow preceding 245
+technical activity is neither part of a pure social domain or pure psychic domain. It is the model of the collective relation, which cannot be confounded with either of the trow preceding 245 {#work} {#ensemble}
 
 the technical world offers an indefinite availability of groupings and connections 246
 
-it is functioning and not work which characterises the technical object 246
+it is functioning and not work which characterises the technical object 246 {#function} {#work}
 
-the technical object supplies a much more vast category than that of work: operational functioning 247
+the technical object supplies a much more vast category than that of work: operational functioning 247 {#work}
 
 operational functioning supposes at base as condition of possibility an act of invention 247 
 
-L'object technique pris selon essence, c'est-à-dire l'objet technique en tant qu'il a été inventé, pensé et voulu, assumé par un sujet humaine, devient le support et le symbol de cette relation que nous voudrions nommer transindividuelle. 247
+L'object technique pris selon essence, c'est-à-dire l'objet technique en tant qu'il a été inventé, pensé et voulu, assumé par un sujet humaine, devient le support et le symbol de cette relation que nous voudrions nommer transindividuelle. 247 
 
-The technical object, taken according to its essence, this is to say, the technical object in as much it has been invented, thought and desired,  taken on by a human subject, becomes the support and the symbol of this relation that we would like to call transindividual. 
+The technical object, taken according to its essence, this is to say, the technical object in as much it has been invented, thought and desired,  taken on by a human subject, becomes the support and the symbol of this relation that we would like to call transindividual. {#ensemble} {#experience}
 
 through the intermediary of the technical object an interhuman relation creates itself, which is the model of transindividualité 248
 
@@ -164,13 +165,13 @@ one could say that there is human nature in technical being, in the sense where 
 
 work conceived as productive, in the measure where it stems from the individual localised here and now, cannot account for invented technical being; it is not the individual who invents, it is the subject, larger than the individual, more rich than it, and comprising, in addition to the individuality of the individuated being, a certain change of nature, of non-individuated being  248
 
-the activity of reglage (adjustment, tuning, control)  is the one which prolongs most naturally the function of invention and construction.: the reglage is a perpetuated invention, albeit limited 250
+the activity of reglage (adjustment, tuning, control)  is the one which prolongs most naturally the function of invention and construction.: the reglage is a perpetuated invention, albeit limited 250 {#regulation} {#making}
 
-it is necessary that the genesis of the  technical object effectively becomes part of its existence, and that the relation of human to technical object comprises this attention to the continue genesis of the technical object. 250
+it is necessary that the genesis of the  technical object effectively becomes part of its existence, and that the relation of human to technical object comprises this attention to the continued genesis of the technical object. 250 {#platform-positive} {#responsibility} {#change}
 
-so that information can be exchanged, it is necessary the humans possess in themselves a technical culture, that is to say, an ensemble of forms which, encountering forms supplied by the machine, could sustain a signification. The machine remains one of the obscure zones of our civilization at all social levels 252
+so that information can be exchanged, it is necessary the humans possess in themselves a technical culture, that is to say, an ensemble of forms which, encountering forms supplied by the machine, could sustain a signification. The machine remains one of the obscure zones of our civilization at all social levels 252 {#ensemble} {#thought}
 
-the foundation of norms and right in the industrial domain is neither work nor property but technicity 252
+the foundation of norms and right in the industrial domain is neither work nor property but technicity 252 {#inequality-gender} {#ensemble}
 
 ## older stuff
 

@@ -30,4 +30,4 @@ of data – have significant or contested social values embedded within them,
 such a stewardship body would need strong capacities for public engagement,
 deliberation and debate. We see this body as an essential step in stewarding the
 landscape during the period of particularly disruptive transition which society faces
-for the coming years. 49
+for the coming years. 49 {#government} {#regulation} {#datafication}

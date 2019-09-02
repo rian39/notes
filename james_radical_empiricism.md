@@ -10,11 +10,11 @@ The physical and mental operations form curiously incompatible groups. 14
 
 As 'subjective' we say that the experience represents; as 'objective' it is represented. What represents and what is represented is here numerically the same; but we must remember that no dualism of being represented and representing resides in the experience per se. 23
 
-The instant field of the present is at all times what I call 'pure' experience. It is only virtually or potentially either object of subject as yet. 23
+The instant field of the present is at all times what I call 'pure' experience. It is only virtually or potentially either object of subject as yet. 23 {#experience}
 
 To begin with, are thought and things as heterogenous as commonly said? 28
 
-I am as confident as I am of anything that, in myself, the stream of thinking (which I emphatically recognize as a phenomenon) is only a careless name for what, when scrutinized, reveals itself to consist chiefly of the stream of my breathing. 36-37 (used in  ch8 already)
+I am as confident as I am of anything that, in myself, the stream of thinking (which I emphatically recognize as a phenomenon) is only a careless name for what, when scrutinized, reveals itself to consist chiefly of the stream of my breathing. 36-37 
 
 But thoughts in the concrete are made of the same stuff as things are. 37
 
@@ -32,17 +32,17 @@ Continuity here is a definite sort of experience; just as definite as is the dis
 
 There is no other nature,  no other whatness than this absence of break and this sense of continuity in that most intimate of all conjunctive relations, the passing of one experience into another when they belong to the same self. 50
 
-In this continuing and corroborating, taken in no transcendental sense, but denoting definitely felt transitions, lies all that knowing of a percept by an idea can possibly contain or signify.  Wherever such transitions are felt, the first experience knows the last one. 56
+In this continuing and corroborating, taken in no transcendental sense, but denoting definitely felt transitions, lies all that knowing of a percept by an idea can possibly contain or signify.  Wherever such transitions are felt, the first experience knows the last one. 56 {#knowing}
 
 But unions by continuous transition are the only ones we know of, whether in this knowledge-about that terminates in an acquaintance, whether in personal identity, in logical predication through the copula ‘is,’ or elsewhere. 59
 
 It consists in intermediary experiences (possible if not actual) of continuously developing progress, and, finally, of fulfilment, when the sensible percept, which is the object, is reached. 60
 
-According to my view, experience as a whole is a process in time, whereby innumerable particular terms lapse and are superseded by others that follow upon them by transitions which, whether disjunctive or conjunctive in content, are themselves experiences, and must in general be accounted at least as real as the terms which they relate. 62.
+According to my view, experience as a whole is a process in time, whereby innumerable particular terms lapse and are superseded by others that follow upon them by transitions which, whether disjunctive or conjunctive in content, are themselves experiences, and must in general be accounted at least as real as the terms which they relate. 62. {#experience} {#change}
 
- In such a world transitions and arrivals (or terminations) are the only events that happen, though they happen by so many sorts of parts. The only function that one experience can perform is to lead into another experience; and the only fulfilment we can speak of is the reaching of a certain experienced end. When one experience leads to (or can lead to) the same end as another, they agree in function. 63 
+ In such a world, transitions and arrivals (or terminations) are the only events that happen, though they happen by so many sorts of parts. The only function that one experience can perform is to lead into another experience; and the only fulfilment we can speak of is the reaching of a certain experienced end. When one experience leads to (or can lead to) the same end as another, they agree in function. 63 
  
-As a matter of fact, and in a general way, the paths that run through conceptual experiences, that is, through 'thoughts' or 'ideas' that 'know' the things in which they terminate, are highly advantageous paths to follow. Not only do they yield inconceivably rapid transitions; but, owing to the 'universal' character which they frequently possess, and to their capacity for association with each other in great systems, they outstrip the tardy consecutions of the things in themselves, and sweep us on towards our ultimate termini in a far more labor-saving way than following of trains of sensible perception ever could. 64
+As a matter of fact, and in a general way, the paths that run through conceptual experiences, that is, through 'thoughts' or 'ideas' that 'know' the things in which they terminate, are highly advantageous paths to follow. Not only do they yield inconceivably rapid transitions; but, owing to the 'universal' character which they frequently possess, and to their capacity for association with each other in great systems, they outstrip the tardy consecutions of the things in themselves, and sweep us on towards our ultimate termini in a far more labor-saving way than following of trains of sensible perception ever could. 64 {#knowing} {#thought}
 
 There is vastly more discontinuity in the sum total of experiences that we commonly suppose. 65
 
@@ -58,13 +58,13 @@ The things that they envelope come as separate in some ways and as continuous in
 
 
 
-Radical empiricism takes conjunctive relations at their face value, holding them to be as real as the terms united by them. The world it represents as a collection, some parts of which are conjunctively and others disjunctively related. Two parts, themselves disjoined, may nevertheless hang together by intermediaries with which they are severally connected, and the whole world may hang together similarly, inasmuch as some path of conjunctive translation by which to pass from one of its parts to another may always be discernible. Such determinately various hanging-together may be called concatenated union (107)
+Radical empiricism takes conjunctive relations at their face value, holding them to be as real as the terms united by them. The world it represents as a collection, some parts of which are conjunctively and others disjunctively related. Two parts, themselves disjoined, may nevertheless hang together by intermediaries with which they are severally connected, and the whole world may hang together similarly, inasmuch as some path of conjunctive translation by which to pass from one of its parts to another may always be discernible. Such determinately various hanging-together may be called concatenated union (107) {#experience} {#ensemble}
 
 
 
-[O]ne and the same material object can figure in an indefinitely large number of different processes at once. 125
+[O]ne and the same material object can figure in an indefinitely large number of different processes at once. 125 {#ensemble}
 
-'[O]uter' and 'inner' are names for two groups into which we sort experiences according to the way in which they act upon their neighbours. 139
+'[O]uter' and 'inner' are names for two groups into which we sort experiences according to the way in which they act upon their neighbours. 139 {#experience}
 
 [A]s soon as the relations of things are sufficiently various it can be sorted variously. 152
 
@@ -72,7 +72,7 @@ With the affectional experiences ..., the relatively pure condition lasts. In pr
 
 There is no original spirituality or materiality of being, intuitively discerned, then; but only a translocation of experiences from one world to another; a grouping of them with one set or another of associates for definitely practical or intellectual ends. 148
 
-‘Change taking place’ is a unique content of experience, one of those ‘conjunctive’ objects which radical empiricism seeks so earnestly to rehabilitate and preserve. 161
+‘Change taking place’ is a unique content of experience, one of those ‘conjunctive’ objects which radical empiricism seeks so earnestly to rehabilitate and preserve. 161 {#change} {#experience}
 
 If resistance is met, its agent complicates the situation. 165
 
@@ -90,4 +90,4 @@ While we live in such conjunctions our state is one of transition  in the most 
 
 As a matter of fact, and in a general way, the paths that run through conceptual experiences, that is, through 'thoughts' or 'ideas' that 'know' the things in which they terminate, are highly advantageous paths to follow. Not only do they yield inconceivably rapid transitions; but, owing to the 'universal' character which they frequently possess, and to their capacity for association with each other in great systems, they outstrip the tardy consecutions of the things in themselves, and sweep us on towards our ultimate termini in a far more labor-saving way than following of trains of sensible perception ever could. 64
 
-Wonderful are the new cuts and the short-circuits which the thought-paths make. Most thought-paths, it is true, are substitutes for nothing actual; they end outside the real world altogether, in wayward fancies, utopias, fictions or mistakes. But where they do re-enter reality and terminate therein, we substitute them always; and with (65) these substitutes we pass the greater number of our hours.
+Wonderful are the new cuts and the short-circuits which the thought-paths make. Most thought-paths, it is true, are substitutes for nothing actual; they end outside the real world altogether, in wayward fancies, utopias, fictions or mistakes. But where they do re-enter reality and terminate therein, we substitute them always; and with (65) these substitutes we pass the greater number of our hours. {#experience} {#thought} {#sociotechnical-imaginary}
