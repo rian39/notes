@@ -2,7 +2,7 @@
 
 In the newly emerging paradigm, we substitute collective – defined as an exchange of human and nonhuman properties inside a corporate body – for the tainted word society (45)
 
-The new paradigm is not without its problems. To view people and nonhumans as interacting within collectives, to define objects as institutions, to fuse subject and object in a corporate body, we need to know what a collective, an institution, and a corporate body are. (49)
+The new paradigm is not without its problems. To view people and nonhumans as interacting within collectives, to define objects as institutions, to fuse subject and object in a corporate body, we need to know what a collective, an institution, and a corporate body are. (49) {#ensemble}
 
 We collectively elaborate an emerging and historical event which was not planned by any participant and which is not explainable by what happened before the event or what happens elsewhere. All depends on the local and practical interactions in which we are presently engaging. (50)
 

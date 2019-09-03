@@ -108,17 +108,16 @@ Although charged by humanists with the sin of being “simply” efficient, “p
 
 To propose the description of a technological mechanism is to extract from it precisely the script that the engineers had transcribed in the mechanisms and the automatisms of humans or nonhumans.  It is to retrace the path of incarnation in the other direction. It is to rewrite in words and arguments what has become, what might have become, thanks to the intermediary of mechanisms, a mute function. (Latour, 1996, 207)
 
-A technical project always gets more complicated because the engineers want to reinscribe in it what threatens to interrupts it course. (Latour, 1996, 209)
+A technical project always gets more complicated because the engineers want to reinscribe in it what threatens to interrupts it course. (Latour, 1996, 209) {#change} {#platform-design}
 
 Every technology may be a project, an object, or an exchanger. 
 [T]here are no objects, except when things go wrong and they die or rust. ...
 Thus, the object, the real thing, the thing that acts, exists only provided that it holds humans and nonhumans together, continuously. ...
 For the thing we are looking for is not a human thing, nor is it an inhuman thing. If offers, rather, a continuous passage, a commerce, an interchange, between what humans inscribe in it  and what it prescribes to humans. It translates the one into the other. This thing is the nonhuman version of people, it is the human version of things, twice displaced. What should it be called? Neither object nor subject. An instituted object, quasi-object, quasi-subject, a thing that possesses body and soul indissociably. (Latour, 1996, 212-3)
 
-It is in the detours that we recognize a technological act; that has been true since the dawn of time. 
 And it is in the number of detours that we recognize a project’s degree of complexity. (Latour, 1996, 215)
 
-The circumscribing, the coding, and the visualization of the division of tasks allows a piling up of Russian dolls that increases the complication of the whole, yet the technological object, in the eyes of a given observer, never increases in complication. Wherever the observer is located, she will never see anything more challenging than that flow chart ... The entire technological wizardry lies in the impenetrable partitions and in the pegs that make it possible to hook one’s task to a neighbour’s. The paradox of a technological object with millions of instructions is that it is, from the standpoint of the division of labour, a fractal object that is equally simple at every point, and whole looks nevertheless like a Leviathan that infinitely surpasses human measure. (Latour, 1996, 217)
+The circumscribing, the coding, and the visualization of the division of tasks allows a piling up of Russian dolls that increases the complication of the whole, yet the technological object, in the eyes of a given observer, never increases in complication. Wherever the observer is located, she will never see anything more challenging than that flow chart ... The entire technological wizardry lies in the impenetrable partitions and in the pegs that make it possible to hook one’s task to a neighbour’s. The paradox of a technological object with millions of instructions is that it is, from the standpoint of the division of labour, a fractal object that is equally simple at every point, and whole looks nevertheless like a Leviathan that infinitely surpasses human measure. (Latour, 1996, 217) {#ensemble} {#diagram}
 
 The work of folding in technological mechanisms can go from complication to complexity. (Latour, 1996, 219)
 

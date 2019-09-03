@@ -6,7 +6,8 @@ Latour, B. 1999. “Give me a laboratory and I will raise the world.” The scie
 
 271
 
-The specificity of science is not to be found in cognitive, social, or psychological qualities, but in the special construction of laboratories in a manner which reverses the scale of phenomena so as the make things readable, and then accelerates the frequency of trials allowing many mistakes to be made and registered. 271
+The specificity of science is not to be found in cognitive, social, or psychological qualities, but in the special construction of laboratories in a manner which reverses the scale of phenomena so as the make things readable, and then accelerates the frequency of trials allowing many mistakes to be made and registered. 271 {#scientific-instrument} {#method}
+
 272
 
 
