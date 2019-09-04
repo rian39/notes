@@ -20,7 +20,7 @@ What has occurred-an event or a non-event? Process is not in itself associated w
 
 I simply plan now to use the rich literature on the fabrication of time and space to free the fifth dimension of time from both its subjective and objective interpretations. How is she discussion changed when the work necessary to construct scientific facts and technical artefacts is again becoming visible? The first thing to do is to elevate spacing to the same philosophical dignity as timing. 180 
 
-We now encounter the importance of techniques that I will define as a very peculiar way of folding times and actants of different qualities and tempos." 18I
+We now encounter the importance of techniques that I will define as a very peculiar way of folding times and actants of different qualities and tempos." 18I {#change} {#edge} {#device}
 
 The question is thus to decide potentialities, or whether time emerges from the eliciting, the educing, of virtualities, of surprising differences. 190
 
@@ -35,7 +35,9 @@ Subjective and objective time is only part of the story. The distinction concern
 Third, the notion of event cannot be differentiated into spatial and temporal components. If place counts as a no-place, it also counts as a non-event. Place is not a feature easier to understand than time. When a place counts as a topos, it also counts as a kairos. Deeper than time and space there is another question about who or what counts. Which actants can interrupt, modify, interest, or interfere with which others, thus producing as many topoi-kairoi? 178 
 
 Fifth, and finally, the question of spacing, timing, and accing should always be combined with that of their intensity. What has occurred-an event or a non-event? Process is not in itself associated with time more than with space. Process is not the fourth dimension, but a fifth. 179
+
 The question is thus to decide whether time is the realization of potentialities, or whether time emerges from the eliciting, the educing of virtualities, of surprising differences. 190
+
 It is this quality of otherness and the "number" of orders that are, in this second philosophy, the crucial features; and its central problem is that of knowing if a transport, a displacement, a translation, a trajectory is "paid for" by a small or a large deformation, transformation, metamorphosis. 186
 
 For someone who observes scientists or engineers at work, there is nor merely one time and space. The phenomena observed are much more surprising. They rely on the subversion, disjunction, displacement, rescaling, crossing-over of relations between spatial, actorial, and temporal features. 184
