@@ -6,4 +6,4 @@ This code presents the greatest threat to liberal or libertarian ideals, as well
 
 Nature doesn't determine cyberspace. Code does. Code is not constant. It changes. It is changing now in a way that will make cyberspace more regulable. (109)
 
-We live life in real space, subject to the effects of code. we live ordinary lives, subject to the effects of code. We live social and political lives, subject to the effects of code. Code regulates all these aspects of our lives, more pervasively over time than other regulator in our life. (233)
+We live life in real space, subject to the effects of code. we live ordinary lives, subject to the effects of code. We live social and political lives, subject to the effects of code. Code regulates all these aspects of our lives, more pervasively over time than other regulator in our life. (233) {#regulation} {#coding}

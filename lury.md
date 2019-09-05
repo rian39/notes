@@ -4,7 +4,7 @@ One of the most important ways in which people relate to each other socially is 
 
 According to Appadurai, every society lays out culturally and legally approved 'paths' for the circulation of objects; conditions are set about what objects may be exchanged, for what, by whom, when and under what conditions. 26
 
-However, Lee also suggests that one of the most significant developments in the commodity-form over recent years is the transition in production from material to experiential commodities. 62
+However, Lee also suggests that one of the most significant developments in the commodity-form over recent years is the transition in production from material to experiential commodities. 62 {#experience} {#platform-market}
 
 Pleasure is no longer given by specific activities or associated with particular sensations; indeed, it is no longer localized or focused but instead is a potential aspect or dimension of all experiences. This potential is to be found in the imagination; an individual learns to substitute imaginary for real stimulus and by self-consciously creating and manipulating illusions or imaginary experiences or emotions in daydreams and fantasies constructs his or her own pleasurable environment. 73 {#experience} {#platform-market}
 

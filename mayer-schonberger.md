@@ -1,6 +1,6 @@
 Big data is not about trying to "teach" a computer to "think" like humans. Instead, it's about applying math to huge quantities of data in order to infer probabilities. 12
 
-Just as the Internet radically changed the world by adding communications to computers, so too will big data change fundamental aspects of life by giving it a quantitative dimension it never had before. 12
+Just as the Internet radically changed the world by adding communications to computers, so too will big data change fundamental aspects of life by giving it a quantitative dimension it never had before. 12 {#numbering}
 
 Looking at vastly more data also permits us to loosen up our desire for exactitude ... It's a tradeoff: with less error from sampling we can accept more from measurement error 13
 

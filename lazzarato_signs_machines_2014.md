@@ -6,7 +6,7 @@ Ontological mutations are always machinic. They are never the simple result of t
 
 The diagram is a semiotic system and a mode of writing that fulfill the conditions of power signs. (cf icons of relation in Peirce) ... Diagrammatic signs, by acting in place of things themselves, produce machinic rather than significant redundancy 86-7
 
-Diagrams (like equations, designs, graphs, apparatuses, machines, etc.) come to accelerate or slow down, destruct or stabilize, processes of deterritorialization which language has difficulty grasping. 87
+Diagrams (like equations, designs, graphs, apparatuses, machines, etc.) come to accelerate or slow down, destruct or stabilize, processes of deterritorialization which language has difficulty grasping. 87 {#diagram}
 
 Through asignifying semiotics machines "speak," "express themselves," and "communicate" with man, other machines, and "real" phenomena. Through "power signs" they interact with the expression and content of the atomic and chemical strata of matter, the biological strata of the living being, and the cosmic strata of the universe. 87-88
 
@@ -18,4 +18,4 @@ The thought and consciousness of the individuated subject come into play when th
 
 Without "machines," without asignifying semiotics, without diagrams, there is no capitalism. There are indeed relations of domination, power, and subjections 90
 
-We must free the human and non-human forces that the first industrial revolution imprisoned in _labor, language_ and _life_, and do so not order to find an "original" subjectivity, but to open and activate other processes of its production by seizing on the deterritorialization of work, language and life as an opportunity. 
+We must free the human and non-human forces that the first industrial revolution imprisoned in _labor, language_ and _life_, and do so not order to find an "original" subjectivity, but to open and activate other processes of its production by seizing on the deterritorialization of work, language and life as an opportunity. {#platform-positive}

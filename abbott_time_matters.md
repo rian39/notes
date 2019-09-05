@@ -18,5 +18,5 @@ If most things that could happen don’t happen, then we are far better  off try
 
 Thus the real alternatives to Goldthorpe’s variable approaches are not case-based approaches, but what I shall call, for want of a better term, “pattern-based approaches.”  Pattern-based approaches begin by establishing local patterns among variables before setting out to generalize.  …. This procedure will be most when much or most of the data clusters arund a few types and a consideerable portions of the data space is more or less empty. 241
 
-The world is Markovian. But the past is encoded into the present in patterns of connections that we call structure. The production of the next moment of social life happens from the basis provided by that structure. And the arrangements of structure always leave openings for actions, which if they fit the situation can change the longest-enduring structures quite quickly. 257 {#structure}
+The world is Markovian. But the past is encoded into the present in patterns of connections that we call structure. The production of the next moment of social life happens from the basis provided by that structure. And the arrangements of structure always leave openings for actions, which if they fit the situation can change the longest-enduring structures quite quickly. 257 {#change}
 

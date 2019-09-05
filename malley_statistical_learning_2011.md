@@ -13,9 +13,9 @@ logistic regression is the default "simple" model for predicting a subject's gro
 
 ## naive bayes
 
-A Bayes classifier is a probabilistic learnign scheme that begins with a choice of priors. Priors are probabilities for group membership before data is collected, and often, more grandly, also probabilities for different models or states of Nature. Then an argument from classical probability generates the conditional probability of observing a particular outcome _given_ the predictors and priors. 45
+A Bayes classifier is a probabilistic learning scheme that begins with a choice of priors. Priors are probabilities for group membership before data is collected, and often, more grandly, also probabilities for different models or states of Nature. Then an argument from classical probability generates the conditional probability of observing a particular outcome _given_ the predictors and priors. 45
 
-We still often see that a Bayes classifier requires larger amounts of data that other methods to achieve the same level of model accuracy. 45
+We still often see that a Bayes classifier requires larger amounts of data than other methods to achieve the same level of model accuracy. 45
 
 naive Bayes .. assumes statistical independence of all the features: at a very minimum this means the features are assumed to be all uncorrelated with each other. ... This is often a wildly implausible assumption but the method has been shown to work surprisingly well 46
 

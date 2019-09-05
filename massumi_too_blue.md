@@ -5,6 +5,7 @@ The event lies at the intersection of at least two (and in reality many more) pr
 
 
 As it transpires, the excess of blue is owned by the experimentee only retrospectively. It makes ingress in excess of its expressibility as a personal feeling. The ‘excess’, then, is less the quantity of feeling than the surprising manner in which the feeling preceded itself into the context: it is the contextual precession of ownable feeling. That is why the ‘excess’ is not simply a quantity of feeling, however great. It is a qualitative surplus over any quantity of per sonal feeling. It may well not have come about without an antecedent accumulation of familiarity and fondness. But it is not reducible to that personal ‘investment’. (185) 
+
 Call the openness of an interaction to being affected by something new in a
 way that qualitatively changes its dynamic nature relationality. Relationality is a global excess of belonging-together enabled by but not reducible to the bare fact of having objectively come-together. Relationality cannot be accounted for by the objective proper ties of the actual ingredients in play considered as discrete elements. It cannot even be reduced to the interactions that might logically be predicted according to those proper ties. (191) 
 
