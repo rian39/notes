@@ -1,6 +1,6 @@
 # strathern_imagined_collectivities_2005
 
-_techniques of distribution do not just disseminate what has been created elsewhere, but have themselves a creative or productive potential_ 16
+_techniques of distribution do not just disseminate what has been created elsewhere, but have themselves a creative or productive potential_ 16 {#circulation}
 
 Without a division between the time of flow and the time of stoppage, between revelation and concealment, there would no alterity to structure the moment of validation. .. the producers of creations need witnesses to confirm their value 23
 
