@@ -1,5 +1,5 @@
 
-- 'I look for disturbance-based ecologies in which many species sometimes live together without either harmony or conquest' [@Tsing_2015, 5] 
+'I look for disturbance-based ecologies in which many species sometimes live together without either harmony or conquest' [@Tsing_2015, 5] 
 
 What is precarity, indeterminacy, and what we imagine as trivial are the centre of the systematicity we week? 20
 
