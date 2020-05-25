@@ -56,7 +56,7 @@ evolution of technical object can only progress to the extent they are free from
 
 For that, they need to create a third milieu, a technogeographical milieu on which each modification is auto-conditioned. 56
 
-the only things that are really invented as the once that need an associated milieu to be viable 57
+the only things that are really invented as the ones that need an associated milieu to be viable 57
 
 associated milieu: recurrence of causalite in a milieu that the technical being creates around itself and which conditions it as it is conditioned by it. 57 {#ensemble} {#making}
 

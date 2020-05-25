@@ -4,7 +4,7 @@ Over the last two decades, social theorists have focused a great deal of attenti
 
 Although the activity explicitly entails risk—involving money, no less, a key measure of social and economic value—it contains that risk within a dependable framework, allowing gamblers to enact a mode of self-equilibration that has become typical of everyday technological interactions. 15
 
-The economic ramifications of this overrepresentation have been well established: from 30 percent to a staggering 60 percent of total gambling revenues have been found to derive from problem gamblers. 59 These numbers tell a very different story than do measures of the problem in the general population. 15
+The economic ramifications of this overrepresentation have been well established: from 30 percent to a staggering 60 percent of total gambling revenues have been found to derive from problem gamblers. These numbers tell a very different story than do measures of the problem in the general population. 15
 
 An increasing number of researchers, politicians, clinicians, and gamblers themselves have begun to raise the same question of gambling machines that is often asked of consumer products like cigarettes, alcohol, firearms, automobiles, and fatty foods: Are the problems in the product, the user, or their interaction? 17 
 
