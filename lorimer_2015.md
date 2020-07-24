@@ -4,7 +4,7 @@
 
 >These include knowledge practices for identifying, classifying, counting, surveying, mapping, and calculating. Databases and models are key here. These knowledge practices inform practical management actions like culling, fencing, translocating, vaccinating, breeding, and planting. [@Lorimer_2015, 58]
 
-I present biodiversity as a form of environmental gover- nance actively shaping human and nonhuman subjects and the wider ecologies they inhabit. 59
+I present biodiversity as a form of environmental governance actively shaping human and nonhuman subjects and the wider ecologies they inhabit. 59
 
 I trace how biodiversity conservationists “cut up” 10 the flux of the wildlife to create the units, theories, models, and territories that come to inform practical action. I examine the derivation and performance of a framing of wildlife that departs from the panoptic aspirations of the official definition of biodiversity to focus on a charismatic set of species. 58
 
@@ -14,9 +14,9 @@ Figure 4 important and may need to be reproduced:
 
 > Paradoxically, as biodiversity flourishes as a governance regime so the nonhuman difference it seeks to conserve continues to ebb. Agriculture, fishing, forestry, and other productive forms of environmental management continue to take their toll. 66
 
->Here, I focus on four significant knowledge practices and performative interventions within the wider operations of UK biodiversity conservation. These help illustrate the utility of conceiv- ing of biodiversity as biopolitics and help account for the operations and scope of the UKBAP oligopticon. I start with the use of species as the primary ontological unit for biodiversity before describing spe- cies description, surveillance, and action plan implementation. 66
+>Here, I focus on four significant knowledge practices and performative interventions within the wider operations of UK biodiversity conservation. These help illustrate the utility of conceiving of biodiversity as biopolitics and help account for the operations and scope of the UKBAP oligopticon. I start with the use of species as the primary ontological unit for biodiversity before describing spe- cies description, surveillance, and action plan implementation. 66
 
-Species are employed as the basic units for quantifying biodiversity and constitute the principal targets for conservation action. Although the UKBAP also identifies forty-­five priority habitats for conservation, a subset of species is used as indicators for measuring their health and the efficacy of conservation actions. 67 
+Species are employed as the basic units for quantifying biodiversity and constitute the principal targets for conservation action. Although the UKBAP also identifies forty-five priority habitats for conservation, a subset of species is used as indicators for measuring their health and the efficacy of conservation actions. 67 
 
 we can understand how species are much easier to tune in to than dynamic, invisible, and abstract entities such as ecosystems and genes. Discrete species—­ especially those that can be identified by morphological/audible differences—­provide accessible units for listing, counting, mapping, and auditing the success of conservation interventions. Species pro- vide a handy index of current ecological composition for monitoring change. 69
 
