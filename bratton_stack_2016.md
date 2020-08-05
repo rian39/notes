@@ -22,7 +22,7 @@ chapter 41-72 is about platforms {#platform-literature}
 
 'rigorous standardization of the scale, duration, and morphology of their essential components' (47). 
 
-The Stack may represent an epochal enclosure of the planet under an absolutist regime of algorithmic capital, or the fragility of its totality may force new breaks 72 
+The Stack may represent an epochal enclosure of the planet under an absolutist regime of algorithmic capital, or the fragility of its totality may force new breaks 72 {#earth}
 
 Cloud Layer chapter around 127 --- has sections on major platforms such as amazon, google, Facebook, etc {#platform-list}
  
