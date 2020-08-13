@@ -68,7 +68,7 @@ Radical empiricism takes conjunctive relations at their face value, holding them
 
 [A]s soon as the relations of things are sufficiently various it can be sorted variously. 152
 
-With the affectional experiences ..., the relatively pure condition lasts. In practical no urgent need has yet arise for deciding whether to treat them as rigorously mental or as rigorously physical facts. So they remain equivocal; and, as the world goes, their equivocality is one of their great conveniences. 146
+With the affectional experiences ..., the relatively pure condition lasts. In practical no urgent need has yet arise for deciding whether to treat them as rigorously mental or as rigorously physical facts. So they remain equivocal; and, as the world goes, their equivocality is one of their great conveniences. 146 {#affect}
 
 There is no original spirituality or materiality of being, intuitively discerned, then; but only a translocation of experiences from one world to another; a grouping of them with one set or another of associates for definitely practical or intellectual ends. 148
 
