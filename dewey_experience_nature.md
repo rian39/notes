@@ -6,4 +6,6 @@ Only by identification with remaking the objects that  now obtain are we saved f
 
 >A differential has to [be] found in distinctive _ways_ of experiencing natural objects;  236 {#experience}
 
+the point of maximum apparency is also the point of greatest strees and undetermined potentiality' (349) {#indeterminacy}
 
+- Dewey has an account of experience for the Greeks deriving from practical arts, but being too closely connected to nature, to much participating in nature and its cosmos, to count as primaryh {#experience} Experience, especially of meanings, perceptions, etc., derive from the interaction between heavily habituated slow-moving systems of action with 'swift-moving, un stable, unsubstantial events' [@Dewey_1958, 351]
