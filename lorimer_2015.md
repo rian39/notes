@@ -6,7 +6,7 @@
 
 I present biodiversity as a form of environmental governance actively shaping human and nonhuman subjects and the wider ecologies they inhabit. 59
 
-I trace how biodiversity conservationists “cut up” 10 the flux of the wildlife to create the units, theories, models, and territories that come to inform practical action. I examine the derivation and performance of a framing of wildlife that departs from the panoptic aspirations of the official definition of biodiversity to focus on a charismatic set of species. 58
+I trace how biodiversity conservationists “cut up” the flux of the wildlife to create the units, theories, models, and territories that come to inform practical action. I examine the derivation and performance of a framing of wildlife that departs from the panoptic aspirations of the official definition of biodiversity to focus on a charismatic set of species. 58
 
 Figure 4 important and may need to be reproduced: 
 
