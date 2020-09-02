@@ -15,6 +15,6 @@ That an individual, possessed of some mode and degree be of organized unity, par
 Yet till we understand operations of the self as the tool of tools, the means in all use of means, specifying its differential activities in their distinctive consequences in varying qualities of what is experienced, science is incomplete and the use made of it is at the mercy of an unknown factor, so that the ultimate and important consequence is in so far a matter of accident.247 {#self} {#technique}
 
 
-the point of maximum apparency is also the point of greatest strees and undetermined potentiality' (349) {#indeterminacy}
+the point of maximum apparency is also the point of greatest stress and undetermined potentiality' (349) {#indeterminacy}
 
 - Dewey has an account of experience for the Greeks deriving from practical arts, but being too closely connected to nature, to much participating in nature and its cosmos, to count as primaryh {#experience} Experience, especially of meanings, perceptions, etc., derive from the interaction between heavily habituated slow-moving systems of action with 'swift-moving, un stable, unsubstantial events' [@Dewey_1958, 351]
