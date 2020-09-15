@@ -1,12 +1,22 @@
+~/archive/dewey_experienceandnature.pdf
+
 But when the secondary objects, the refined objects, are employed as a method or road for coming at them, it may be etc. these qualities cease to be isolated details; meaning contained in a they get the whole system of related objects; they are rendered continuous with the rest of nature and now The phenomena observed in take on the import of the things they are seen to be continuous with. [@Dewey_1958, 5] 
 
 "Experience" denotes the planted field, the sowed seeds, the reaped harvests, the changes of night spring and autumn, wet and dry, heat and observed, feared, longed for; it and day, cold, that are also denotes the one who who works and rejoices, hopes, fears, invokes plans, magic or chemistry to aid him, who is down- cast or triumphant. It is "double-barrelled" in that it plants and reaps, recognizes in its primary integrity no division between act and material, subject and object, but contains them both in an unanalyzed totality. "Thing" and "thought," as in the same connection, are single-barrelled; 8
 
-What is really "in" experience extends much further than that which at any time is known. From the standpoint of rence of illusions is knowledge, objects must be distinct; their traits must be Hence explicit; the vague and unrevealed is a limitation. Whenever the habit of identifying reality with the object of knowledge as such prevails, the obscure and vague are explained away. 20
+What is really "in" experience extends much further than that which at any time is *known.* From the standpoint of  knowledge, objects must be distinct; their traits must be explicit; the vague and unrevealed is a limitation. Hence whenever the habit of identifying reality with the object of knowledge as such prevails, the obscure and vague are explained away. 20
 
 Honest empirical method why will state when and where and the act of selection took place, and thus enable others Selective choice, denoted as it and test its worth. 30
 
 First, that refined methods and products be traced back primary experience, in all its hetero- so that the needs and problems out of to their origin in geneity and fullness ; which they arise and which they have to satisfy be acknowledged. Secondly, that the secondary methods and conclusions be brought back to the things of ordinary experience, in all their coarseness and crudity, for verification. 36
+
+We confine ourselves to one outstanding fact: the evidence that the world of empirical things includes the uncertain, unpredictable, uncontrollable, and hazardous. 42
+
+We live in a world which is an impressive and irresistible mixture of sufficiencies, tight completenesses, order, recurrences which make possible prediction and control, and singularities, ambiguities, uncertain possibilities, processes going on to consequences as yet indeterminate. They are mixed not mechanically but vitally like the wheat and tares of the parable. We may recognize them separately but we cannot divide them, for unlike wheat and tares they grow from the same root. 47
+
+Although imagination is often fantastic it is an organ of nature; for it is the appropriate phase of indeterminate events moving toward eventualities that are now but possibilities. A purely stable world permits of no illusions, but neither is it clothed with ideals. It just exists. 62
+
+While the precarious nature of existence is indeed the source of all its trouble, it is also an indispensable condition of ideality, becoming a sufficient condition when conjoined with the regular and assured. We long, amid a troubled world, for perfect being. 63
 
 Only by identification with remaking the objects that  now obtain are we saved from complacent objectivism. 246 {#making} {#objectivity}{#participation}
 
