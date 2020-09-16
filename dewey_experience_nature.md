@@ -16,7 +16,25 @@ We live in a world which is an impressive and irresistible mixture of sufficienc
 
 Although imagination is often fantastic it is an organ of nature; for it is the appropriate phase of indeterminate events moving toward eventualities that are now but possibilities. A purely stable world permits of no illusions, but neither is it clothed with ideals. It just exists. 62
 
+
 While the precarious nature of existence is indeed the source of all its trouble, it is also an indispensable condition of ideality, becoming a sufficient condition when conjoined with the regular and assured. We long, amid a troubled world, for perfect being. 63
+
+
+It thus notes that thinking is no different in kind from the use of natural materials and energies, say fire and tools, to refine, re-order, and shape other natural materials, say ore. 67
+
+The ultimate evidence of genuine hazard, contingency, irregularity and indeterminateness in nature is thus found in the occurrence of thinking. 69
+
+Human experience in the large, in its coarse and conspicuous features, has for one of its most striking features preoccupation with direct enjoyment, feasting and festivities; ornamentation, dance, song, dramatic pantomime, telling yarns and enacting stories.79 
+
+The other most self-evident thing in experience is useful labor and its coercive necessity. As direct appreciative enjoyment exhibits things in their consummatory phase, labor manifests things in their connections of things with one another, in efficiency, productivity, furthering, hindering, generating, destroying. 84 
+
+But in every event there is something obdurate, self-sufficient, wholly immediate, neither a relation nor an element in a relational whole, but terminal and exclusive. 85
+
+A world that consisted entirely of stable objects directly presented and possessed would have no esthetic qualities ; it would just be, and would lack power to satisfy and to inspire. Objects are actually esthetic when they turn hazard and defeat to an issue which is above and beyond trouble and vicissitude. Festal celebration and consummatory delights belong only in a world that knows risk and hardship. 90
+
+ a thing like a toothache is often possessed of greater intensity of finality. 106
+
+If we recognize that all qualities directly had in con- scious experience apart from use made of them, testify to nature's characterization by immediacy and finality, there is ground for unsophisticated recognition of use and enjoy- ment of things as natural, as belonging to the things as well as to us. Things are beautiful and ugly, lovely and hateful, dull and illuminated, attractive and repulsive. 108
 
 Only by identification with remaking the objects that  now obtain are we saved from complacent objectivism. 246 {#making} {#objectivity}{#participation}
 
