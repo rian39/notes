@@ -32,11 +32,21 @@ But in every event there is something obdurate, self-sufficient, wholly immediat
 
 A world that consisted entirely of stable objects directly presented and possessed would have no esthetic qualities ; it would just be, and would lack power to satisfy and to inspire. Objects are actually esthetic when they turn hazard and defeat to an issue which is above and beyond trouble and vicissitude. Festal celebration and consummatory delights belong only in a world that knows risk and hardship. 90
 
- a thing like a toothache is often possessed of greater intensity of finality. 106
+Objects may be more or less absorptive and arresting and thus possess degrees of intensity with respect to finality. But this difference of intensity is not, save as subject to reflective choice, a distinction in rank or class of finality.
+It applies to different toothaches as well as to different objects of thought; but it does not apply, inherently, to the difference between a tooth-ache and an ideal object save that a thing like a toothache is often possessed of greater intensity of finality.
+If we follow the clew of the latter fact, we shall probably conclude that search for pure and unalloyed finality carries us to inarticulate sensation and overwhelming passion. For such affairs are the best instances of things that are complete in themselves with no outleadings. 106
 
-If we recognize that all qualities directly had in con- scious experience apart from use made of them, testify to nature's characterization by immediacy and finality, there is ground for unsophisticated recognition of use and enjoy- ment of things as natural, as belonging to the things as well as to us. Things are beautiful and ugly, lovely and hateful, dull and illuminated, attractive and repulsive. 108
 
-Only by identification with remaking the objects that  now obtain are we saved from complacent objectivism. 246 {#making} {#objectivity}{#participation}
+If we recognize that all qualities directly had in conscious experience apart from use made of them, testify to nature's characterization by immediacy and finality, there is ground for unsophisticated recognition of use and enjoyment of things as natural, as belonging to the things as well as to us. Things are beautiful and ugly, lovely and hateful, dull and illuminated, attractive and repulsive. 108
+
+The richer and fuller are the terminal qualities of an object the more precarious is the latter, because of its dependence upon a greater diversity of events 117
+
+A tool denotes a perception and acknowledgment of sequential bonds in nature. 123
+
+The very conception of cogni- tive meaning, intellectual significance, is that things in their immediacy are subordinated to what they portend and give evidence of. An intellectual sign denotes that a thing is not taken immediately but is referred to some- thing that may come in consequence of it.128
+
+Empirically, individualized objects, unique affair*, exist. But they are evanescent, unstable. They tremble on the verge of disappearance as soon as they appear. Useful arts prove that, within limits, neglect of their uniqueness and attention to what is common, recurrent, irrelevant to time, procures and perpetuates the happen- ing of some of these unique things. 148
+
 
 > Events change; one individual gives place to another. But individually qualified things have some qualities which are pervasive, common, stable. They are out of time in the sense that a particular temporal quality is irrelevant to them. ... These non-temporal, mathematical or logical qualities are capable of abstraction, and of conversion into relations, into temporal, numerical and spatial _order_. As such, they are dialectical, non-existential. But also as such they are tools, instrumentalities applicable [to] historic events to help regulate their course' [@Dewey_1958, 148-149]
 
@@ -50,8 +60,15 @@ For a perceived mode of becoming is always ready to be translated into a method 
 
 That an individual, possessed of some mode and degree be of organized unity, participates in the genesis of every experienced situation, whether it be an object or an activity, is evident. That the way in which it is engaged affects the quality of the situation experienced is evident. That the way in which it is engaged has consequences that modify not merely the environment but which react to modify the active agent; that every form of life in the higher organisms constantly conserves some consequences of its prior experiences, is also evident. The constancy and pervasiveness of the operative presence of the self as a determining factor in all situations is the chief reason why we give so little heed to it; it is more intimate and omnipresent in experience than the air we breathe. 246 {#experience}
 
+Only by identification with remaking the objects that  now obtain are we saved from complacent objectivism. 246 {#making} {#objectivity}{#participation}
+
 Yet till we understand operations of the self as the tool of tools, the means in all use of means, specifying its differential activities in their distinctive consequences in varying qualities of what is experienced, science is incomplete and the use made of it is at the mercy of an unknown factor, so that the ultimate and important consequence is in so far a matter of accident.247 {#self} {#technique}
 
+But in an organic creature sensitive to light, these differences of potentiality may be realized as differences in immediate sentiency. To say that they are *felt*  is to say that they come to independent and intrinsic existence on their own account. The proposition does not mean that feeling has been extraneously super- added to something else, or that a mode of extrinsic cognitive access to a purely physical thing has entered intrusively into a world of physical things. "Feeling" is in general a name for the newly actualized quality acquired by events previously occurring upon a physical level, when these events come into more extensive and delicate relationships of interaction. 267
+
+Thus an environment both extensive and enduring is immediately implicated in present behavior. Operatively speaking, the remote and the past are "in" behavior making it what it is. The action called "organic" is not just that of internal structures. It is  an integration of organic-environmental  connections. 279
+
+By a seeming paradox, increased power of forming habits means increased sus- ceptibility, sensitiveness, responsiveness. Thus even if we think of habits as so many grooves, the power to acquire many and varied grooves denotes high sensitivity, explosiveness. 281
 
 the point of maximum apparency is also the point of greatest stress and undetermined potentiality' (349) {#indeterminacy}
 
