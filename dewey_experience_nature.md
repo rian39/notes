@@ -43,7 +43,7 @@ The richer and fuller are the terminal qualities of an object the more precariou
 
 A tool denotes a perception and acknowledgment of sequential bonds in nature. 123
 
-The very conception of cogni- tive meaning, intellectual significance, is that things in their immediacy are subordinated to what they portend and give evidence of. An intellectual sign denotes that a thing is not taken immediately but is referred to some- thing that may come in consequence of it.128
+The very conception of cognitive meaning, intellectual significance, is that things in their immediacy are subordinated to what they portend and give evidence of. An intellectual sign denotes that a thing is not taken immediately but is referred to some- thing that may come in consequence of it.128
 
 Empirically, individualized objects, unique affair*, exist. But they are evanescent, unstable. They tremble on the verge of disappearance as soon as they appear. Useful arts prove that, within limits, neglect of their uniqueness and attention to what is common, recurrent, irrelevant to time, procures and perpetuates the happen- ing of some of these unique things. 148
 
