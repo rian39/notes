@@ -1,5 +1,8 @@
 ~/archive/dewey_experienceandnature.pdf
 
+>The *intrinsic* nature of events is revealed in experience as the immediately felt qualities of things. [@Dewey_1958, xii]
+The intimate co- ordination and even fusion of these qualities with the regularities that form the objects of knowledge, in the proper sense of the word "knowledge," characterizes intel- ligently directed experience, as distinct from mere casual and uncritical experience.
+
 But when the secondary objects, the refined objects, are employed as a method or road for coming at them, it may be etc. these qualities cease to be isolated details; meaning contained in a they get the whole system of related objects; they are rendered continuous with the rest of nature and now The phenomena observed in take on the import of the things they are seen to be continuous with. [@Dewey_1958, 5] 
 
 "Experience" denotes the planted field, the sowed seeds, the reaped harvests, the changes of night spring and autumn, wet and dry, heat and observed, feared, longed for; it and day, cold, that are also denotes the one who who works and rejoices, hopes, fears, invokes plans, magic or chemistry to aid him, who is down- cast or triumphant. It is "double-barrelled" in that it plants and reaps, recognizes in its primary integrity no division between act and material, subject and object, but contains them both in an unanalyzed totality. "Thing" and "thought," as in the same connection, are single-barrelled; 8
