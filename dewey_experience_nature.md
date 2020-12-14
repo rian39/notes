@@ -48,16 +48,15 @@ A tool denotes a perception and acknowledgment of sequential bonds in nature. 12
 
 The very conception of cognitive meaning, intellectual significance, is that things in their immediacy are subordinated to what they portend and give evidence of. An intellectual sign denotes that a thing is not taken immediately but is referred to some- thing that may come in consequence of it.128
 
-Empirically, individualized objects, unique affair*, exist. But they are evanescent, unstable. They tremble on the verge of disappearance as soon as they appear. Useful arts prove that, within limits, neglect of their uniqueness and attention to what is common, recurrent, irrelevant to time, procures and perpetuates the happen- ing of some of these unique things. 148
+Empirically, individualized objects, unique affair*, exist. But they are evanescent, unstable. They tremble on the verge of disappearance as soon as they appear. Useful arts prove that, within limits, neglect of their uniqueness and attention to what is common, recurrent, irrelevant to time, procures and perpetuates the happening of some of these unique things. 148
 
+Events change; one individual gives place to another. But individually qualified things have some qualities which are pervasive, common, stable. They are out of time in the sense that a particular temporal quality is irrelevant to them. ... These non-temporal, mathematical or logical qualities are capable of abstraction, and of conversion into relations, into temporal, numerical and spatial _order_. As such, they are dialectical, non-existential. But also as such they are tools, instrumentalities applicable [to] historic events to help regulate their course' [@Dewey_1958, 148-149]
 
-> Events change; one individual gives place to another. But individually qualified things have some qualities which are pervasive, common, stable. They are out of time in the sense that a particular temporal quality is irrelevant to them. ... These non-temporal, mathematical or logical qualities are capable of abstraction, and of conversion into relations, into temporal, numerical and spatial _order_. As such, they are dialectical, non-existential. But also as such they are tools, instrumentalities applicable [to] historic events to help regulate their course' [@Dewey_1958, 148-149]
-
-> Experience when it happens has the same dependence upon objective natural events, physical and social, as has the occurrence of a house [@Dewey_1958, 232]  {#experience}
+Experience when it happens has the same dependence upon objective natural events, physical and social, as has the occurrence of a house [@Dewey_1958, 232]  {#experience}
 
 It has its own objective and definitive traits; these can be described precisely as a house is of brick, has eight rooms, etc., irrespective of whom it belongs to, 232
 
->A differential has to [be] found in distinctive _ways_ of experiencing natural objects;  236 {#experience}
+A differential has to [be] found in distinctive _ways_ of experiencing natural objects;  236 {#experience}
 
 For a perceived mode of becoming is always ready to be translated into a method of production and direction. 237
 
