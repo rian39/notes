@@ -147,7 +147,7 @@ when the human no longer intervenes as carrier of tools, he cannot leave the cen
 
 technical activity is neither part of a pure social domain or pure psychic domain. It is the model of the collective relation, which cannot be confounded with either of the trow preceding 245 {#work} {#ensemble}
 
-the technical world offers an indefinite availability of groupings and connections 246
+the technical world offers an indefinite availability of groupings and connections 246 {#participation}
 
 it is functioning and not work which characterises the technical object 246 {#function} {#work}
 

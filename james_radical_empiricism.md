@@ -56,10 +56,7 @@ Far back as we go, the flux, both as a whole and in its parts, is that of things
 
 The things that they envelope come as separate in some ways and as continuous in others. Some sensations coalesce with some ideas, and others are irreconcilable. Qualities compenetrate one space, or exclude each other from it. 94-5
 
-
-
 Radical empiricism takes conjunctive relations at their face value, holding them to be as real as the terms united by them. The world it represents as a collection, some parts of which are conjunctively and others disjunctively related. Two parts, themselves disjoined, may nevertheless hang together by intermediaries with which they are severally connected, and the whole world may hang together similarly, inasmuch as some path of conjunctive translation by which to pass from one of its parts to another may always be discernible. Such determinately various hanging-together may be called concatenated union (107) {#experience} {#ensemble}
-
 
 
 [O]ne and the same material object can figure in an indefinitely large number of different processes at once. 125 {#ensemble}

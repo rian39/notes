@@ -1,4 +1,4 @@
-Between individual and collective Lapoujade situates distribution, the distributive field.
+Between individual and collective Lapoujade situates distribution,lamarre_2018.mlamarre_2018.md
 What is unearthed is an aggregate of roots and dirt. 137 {#ensemble}
 
 What is the agency of a threshold? What does acting as a threshold bring into the world? {#edge}

@@ -4,8 +4,7 @@ But the surrender to the return to the scene where the object hovers in its pote
 Cruel optimism is the condition of maintaining an attachment to a problematic object in advance of its loss. 21
 One makes affective bargains about the costliness of one’s attachments, usually unconscious ones, most of which keep one in proximity to the scene of desire/attrition. 21
 
-These suspensions open up the “impasse” as a name for the transitional moment between a habituated life and all of its others. What happens in this space of time helps to explain why exuberant attachments keep ticking, not like the time bomb they might be but like a white noise machine that provides assurance that what seems like threat or static really is, after all, a rhythm 
-people can enter into while they’re dithering, tottering, bargaining, testing, or otherwise being worn out by the promises that they have attached to in this world. 23
+These suspensions open up the “impasse” as a name for the transitional moment between a habituated life and all of its others. What happens in this space of time helps to explain why exuberant attachments keep ticking, not like the time bomb they might be but like a white noise machine that provides assurance that what seems like threat or static really is, after all, a rhythm people can enter into while they’re dithering, tottering, bargaining, testing, or otherwise being worn out by the promises that they have attached to in this world. 23
 
 the emotional flooding in proximity to a new object can also produce a similar grasping toward stabilizing form, a reanchoring in the symptom’s predictability. 31
 
