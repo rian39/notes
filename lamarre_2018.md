@@ -1,4 +1,5 @@
-Between individual and collective Lapoujade situates distribution,lamarre_2018.mlamarre_2018.md
+Between individual and collective Lapoujade situates distribution,
+
 What is unearthed is an aggregate of roots and dirt. 137 {#ensemble}
 
 What is the agency of a threshold? What does acting as a threshold bring into the world? {#edge}
@@ -9,7 +10,7 @@ When social science fails to construct an autonomous transcendental field for so
 
 The individual under the microscope reveals a complex aggregate of functions related to material flows. The second step, considering the thing in its environment, takes these materials flows into account, puts them in relation. Such flows signal a connectivity with the environment which cannot be reduced to paradigms of grounding, encompassing, or permeating, that is, environmental determinism. 141 {#platform-foundation}
 
-Optimization is not even capable to considering satisfaction; it does not take our psychic or existential well-being into account. But how are we to get from optimization to satisfaction? 152 
+Optimization is not even capable of considering satisfaction; it does not take our psychic or existential well-being into account. But how are we to get from optimization to satisfaction? 152 
 
 
 
