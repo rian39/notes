@@ -1,7 +1,7 @@
 ~/archive/dewey_experienceandnature.pdf
 
 >The *intrinsic* nature of events is revealed in experience as the immediately felt qualities of things. [@Dewey_1958, xii]
-The intimate co- ordination and even fusion of these qualities with the regularities that form the objects of knowledge, in the proper sense of the word "knowledge," characterizes intel- ligently directed experience, as distinct from mere casual and uncritical experience.
+The intimate co-ordination and even fusion of these qualities with the regularities that form the objects of knowledge, in the proper sense of the word "knowledge," characterizes intelligently directed experience, as distinct from mere casual and uncritical experience.
 
 But when the secondary objects, the refined objects, are employed as a method or road for coming at them, it may be etc. these qualities cease to be isolated details; meaning contained in a they get the whole system of related objects; they are rendered continuous with the rest of nature and now The phenomena observed in take on the import of the things they are seen to be continuous with. [@Dewey_1958, 5] 
 
@@ -19,9 +19,7 @@ We live in a world which is an impressive and irresistible mixture of sufficienc
 
 Although imagination is often fantastic it is an organ of nature; for it is the appropriate phase of indeterminate events moving toward eventualities that are now but possibilities. A purely stable world permits of no illusions, but neither is it clothed with ideals. It just exists. 62
 
-
 While the precarious nature of existence is indeed the source of all its trouble, it is also an indispensable condition of ideality, becoming a sufficient condition when conjoined with the regular and assured. We long, amid a troubled world, for perfect being. 63
-
 
 It thus notes that thinking is no different in kind from the use of natural materials and energies, say fire and tools, to refine, re-order, and shape other natural materials, say ore. 67
 
