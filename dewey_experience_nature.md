@@ -1,7 +1,7 @@
 ~/archive/dewey_experienceandnature.pdf
 
 >The *intrinsic* nature of events is revealed in experience as the immediately felt qualities of things. [@Dewey_1958, xii]
-The intimate co- ordination and even fusion of these qualities with the regularities that form the objects of knowledge, in the proper sense of the word "knowledge," characterizes intel- ligently directed experience, as distinct from mere casual and uncritical experience.
+The intimate co- ordination and even fusion of these qualities with the regularities that form the objects of knowledge, in the proper sense of the word "knowledge," characterizes intelligently directed experience, as distinct from mere casual and uncritical experience.
 
 But when the secondary objects, the refined objects, are employed as a method or road for coming at them, it may be etc. these qualities cease to be isolated details; meaning contained in a they get the whole system of related objects; they are rendered continuous with the rest of nature and now The phenomena observed in take on the import of the things they are seen to be continuous with. [@Dewey_1958, 5] 
 
@@ -11,7 +11,7 @@ What is really "in" experience extends much further than that which at any time 
 
 Honest empirical method why will state when and where and the act of selection took place, and thus enable others Selective choice, denoted as it and test its worth. 30
 
-First, that refined methods and products be traced back primary experience, in all its hetero- so that the needs and problems out of to their origin in geneity and fullness ; which they arise and which they have to satisfy be acknowledged. Secondly, that the secondary methods and conclusions be brought back to the things of ordinary experience, in all their coarseness and crudity, for verification. 36
+First, that refined methods and products be traced back primary experience, in all its heterogeneity  to their origin in and fullness; so that the needs and problems out of  which they arise and which they have to satisfy be acknowledged. Secondly, that the secondary methods and conclusions be brought back to the things of ordinary experience, in all their coarseness and crudity, for verification. 36
 
 We confine ourselves to one outstanding fact: the evidence that the world of empirical things includes the uncertain, unpredictable, uncontrollable, and hazardous. 42
 
@@ -46,7 +46,7 @@ The richer and fuller are the terminal qualities of an object the more precariou
 
 A tool denotes a perception and acknowledgment of sequential bonds in nature. 123
 
-The very conception of cognitive meaning, intellectual significance, is that things in their immediacy are subordinated to what they portend and give evidence of. An intellectual sign denotes that a thing is not taken immediately but is referred to some- thing that may come in consequence of it.128
+The very conception of cognitive meaning, intellectual significance, is that things in their immediacy are subordinated to what they portend and give evidence of. An intellectual sign denotes that a thing is not taken immediately but is referred to something that may come in consequence of it.128
 
 Empirically, individualized objects, unique affair*, exist. But they are evanescent, unstable. They tremble on the verge of disappearance as soon as they appear. Useful arts prove that, within limits, neglect of their uniqueness and attention to what is common, recurrent, irrelevant to time, procures and perpetuates the happening of some of these unique things. 148
 
@@ -66,11 +66,11 @@ Only by identification with remaking the objects that  now obtain are we saved f
 
 Yet till we understand operations of the self as the tool of tools, the means in all use of means, specifying its differential activities in their distinctive consequences in varying qualities of what is experienced, science is incomplete and the use made of it is at the mercy of an unknown factor, so that the ultimate and important consequence is in so far a matter of accident.247 {#self} {#technique}
 
-But in an organic creature sensitive to light, these differences of potentiality may be realized as differences in immediate sentiency. To say that they are *felt*  is to say that they come to independent and intrinsic existence on their own account. The proposition does not mean that feeling has been extraneously super- added to something else, or that a mode of extrinsic cognitive access to a purely physical thing has entered intrusively into a world of physical things. "Feeling" is in general a name for the newly actualized quality acquired by events previously occurring upon a physical level, when these events come into more extensive and delicate relationships of interaction. 267
+But in an organic creature sensitive to light, these differences of potentiality may be realized as differences in immediate sentiency. To say that they are *felt*  is to say that they come to independent and intrinsic existence on their own account. The proposition does not mean that feeling has been extraneously super-added to something else, or that a mode of extrinsic cognitive access to a purely physical thing has entered intrusively into a world of physical things. "Feeling" is in general a name for the newly actualized quality acquired by events previously occurring upon a physical level, when these events come into more extensive and delicate relationships of interaction. 267 {#feeling}
 
-Thus an environment both extensive and enduring is immediately implicated in present behavior. Operatively speaking, the remote and the past are "in" behavior making it what it is. The action called "organic" is not just that of internal structures. It is  an integration of organic-environmental  connections. 279
+Thus an environment both extensive and enduring is immediately implicated in present behavior. Operatively speaking, the remote and the past are "in" behavior making it what it is. The action called "organic" is not just that of internal structures. It is  an integration of organic-environmental  connections. 279 {#action}
 
-By a seeming paradox, increased power of forming habits means increased sus- ceptibility, sensitiveness, responsiveness. Thus even if we think of habits as so many grooves, the power to acquire many and varied grooves denotes high sensitivity, explosiveness. 281
+By a seeming paradox, increased power of forming habits means increased susceptibility, sensitiveness, responsiveness. Thus even if we think of habits as so many grooves, the power to acquire many and varied grooves denotes high sensitivity, explosiveness. 281 {#habit}
 
 the point of maximum apparency is also the point of greatest stress and undetermined potentiality' (349) {#indeterminacy}
 

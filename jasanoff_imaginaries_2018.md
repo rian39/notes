@@ -22,7 +22,7 @@ Sociotechnical imaginaries occupy the theoretically undeveloped space between th
 
 Discourse shares with imaginaries the properties of being collective and systemic (e.g., Hajer 1995), but it usually focuses on language and is less directly associated with action and performance or with materialization through technology. 20
 
-A better balance needs to be struck between the theoretical poles of abstract idealism and deterministic materi- alism. By turning to sociotechnical imaginaries, we can engage directly with the ways in which people’s hopes and desires for the future— their sense of self and their passion for how things ought to be— get bound up with the hard stuff of past achievements, whether the material infrastructures of roads, power plants, and the security state or the normative infrastructures of constitutional principles, juridical practices, and public reason (22) 
+A better balance needs to be struck between the theoretical poles of abstract idealism and deterministic materialism. By turning to sociotechnical imaginaries, we can engage directly with the ways in which people’s hopes and desires for the future— their sense of self and their passion for how things ought to be— get bound up with the hard stuff of past achievements, whether the material infrastructures of roads, power plants, and the security state or the normative infrastructures of constitutional principles, juridical practices, and public reason (22) 
 
 The methods best suited to studying sociotechnical imaginaries therefore are the methods of interpretive research and analysis that probe the nature of structure- agency relationships through inquiries into meaning making. 24
 
