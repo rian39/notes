@@ -10,3 +10,11 @@ points of life; modes of attachment to ground, which mean that body and ground g
 ## Model 3 living landscapes
 
 follow beings in their movements; delineate their reach; i.e. habitual territories; common landscape follows from their crossings. Human ans non-human;a includes platform landscape; they then arrange all these on the same plane and move them into a circle, the portolan, including classifying them by families of trajectory; the idea is to get from grid to territories  
+
+# model 4 borders
+
+they want to make them thicker; they use spirals to arrange them, and oscillograms to diagram tensions/power forms around them; not sure whether I get this, or maybe it is just no so useful. Do borders just come on top of living landscapes?
+
+# model 5 space-time
+
+A whole set of time-space elements, composed in/on a score, and arranged in overlapping dials. Quite useful.
