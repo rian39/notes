@@ -18,3 +18,11 @@ they want to make them thicker; they use spirals to arrange them, and oscillogra
 # model 5 space-time
 
 A whole set of time-space elements, composed in/on a score, and arranged in overlapping dials. Quite useful.
+
+## model 6 resources
+
+has the idea of suction cups that deplete a territory, neutral zones or inter-biomes as potentially interesting; set of operations for combining the modes of action around resources; 
+
+## model 7 recollections
+
+
