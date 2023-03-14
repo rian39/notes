@@ -6,6 +6,7 @@ soil; turn the earth inside out; adjust circumference of layers to reflect local
 # Model 2 points of life
 
 points of life; modes of attachment to ground, which mean that body and ground go together, literally in the same events. Diagrams have different modes of attachment - welding, and then a series of attachments relating to climate change; Model 2 has an inversion from self-world to world-self; and envelopes are like layers skin including the world; climate affects many of these envelopes, but differently. If skin and ground are continuous, then skin is the real outside, and everythign else comes within, like world or nation.   
+The model again has the skin as the outside, then shrinks towards the continent-nation, etc. Love this inversion.
 
 ## Model 3 living landscapes
 
@@ -21,8 +22,9 @@ A whole set of time-space elements, composed in/on a score, and arranged in over
 
 ## model 6 resources
 
-has the idea of suction cups that deplete a territory, neutral zones or inter-biomes as potentially interesting; set of operations for combining the modes of action around resources; 
+has the idea of suction cups that deplete a territory, neutral zones or inter-biomes as potentially interesting; set of operations for combining the modes of action around resources; key idea idea: there is no world, there are world-making bodies, weaving a fabric in various ways; they get explicit about the kinds of weaving stitching.  
 
 ## model 7 recollections
 
+has an interesting idea of putting time, past and futures around a site. The site is at the centre, and various fossils arranged in relation to practices of repair. They do a time switch in which fossils are flipped towards futures.  
 
