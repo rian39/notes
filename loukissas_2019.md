@@ -1,6 +1,6 @@
-But this
-is not the case. I contend that we must rethink our terms and habits around public data
-by learning to analyze data settings rather than data sets. 2
+https://direct-mit-edu.virtual.anu.edu.au/books/oa-monograph/4323/All-Data-Are-LocalThinking-Critically-in-a-Data
+
+But this is not the case. I contend that we must rethink our terms and habits around public data by learning to analyze data settings rather than data sets. 2
 
 The accessions data of the Arnold Arboretum can help us understand, first and foremost, that data have complex attachments to place, which invisibly structure their form and interpretation.  • The DPLA can help us see that data are collected from heterogeneous sources, each with their own local attachments. • NewsScape offers an opportunity to learn how data and algorithms are entangled, with far-reaching implications for what it may mean to be informed in the future. • Finally, the case of Zillow shows how interfaces recontextualize data, with striking consequences for the value that we place on our homes and those of others.i 3
 
@@ -42,3 +42,24 @@ specific tools; they have the power to shape place. In common parlance, the term
 can be used to mean secondary, digital representations of objects that hold scientific
 and cultural import. But data can also create an ontological “looping effect” whereby
 they help to shape the practices and institutions that create them. 52
+
+## ch3 collecting infrastructures
+
+has stuff on visualizing the local
+
+I propose that working effectively and ethically with data infrastructures means seeing them through a comparative lens—by acknowledging the whole as well as its local, heterogeneous parts. Local readings of data infrastructures, informed by inter- views with those who make and use data, can reveal the variety of local ties that they harbor in classifications, schemata, constraints, errors, absences, and rituals. Seeing data infrastructures as assembled from local conditions opens up new opportunities and obligations for scholarship as well as pedagogy and practice. 92
+
+ch4
+
+
+ch5
+
+## ch7
+
+One way of doing so, and the departing recommendation of this book, is to estab-
+lish a new genre of open data guides, which can introduce potential users to data set-
+tings and not just data sets. What might local guides for open data consist of, who will
+make them, and how will they affect data use? This is a pressing research question for
+all of us.
+- good set of instructions on how to do a data guide in this chapter; 
+- 
