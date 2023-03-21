@@ -52,7 +52,14 @@ I propose that working effectively and ethically with data infrastructures means
 ch4
 
 
-ch5
+# ch5
+
+good description of how interfaces placelessise the data; even as they contextualise, interfaces can be de-contextualsing; the example is the zillow data
+
+But there are many other domains from which important examples might be drawn: health, crime, and climate change, to name a few. In all of these areas, practitioners who design inter- faces to data do not act autonomously. Rather, they must connect with cultures of use to support data-driven action. For data are made actionable in culturally rooted knowl- edge systems: consumerist, civic, or otherwise.
+
+Through visual, discursive, and algorithmic devices, Zillow has constructed an attention-grabbing interface that supports the use of data to buy, rent, or sell housing. The operational context that Zillow has assembled, how- ever, also reifies dominant and deeply problematic relationships inherent to our market- based culture of real estate.
+
 
 ## ch7
 
