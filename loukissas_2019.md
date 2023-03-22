@@ -49,7 +49,17 @@ has stuff on visualizing the local
 
 I propose that working effectively and ethically with data infrastructures means seeing them through a comparative lens—by acknowledging the whole as well as its local, heterogeneous parts. Local readings of data infrastructures, informed by inter- views with those who make and use data, can reveal the variety of local ties that they harbor in classifications, schemata, constraints, errors, absences, and rituals. Seeing data infrastructures as assembled from local conditions opens up new opportunities and obligations for scholarship as well as pedagogy and practice. 92
 
-ch4
+## ch4 news
+
+Datafication is one of the primary
+mechanisms in the assembly of big data, and it has been used to digitally capture infor-
+mation about many of our social behaviors: our everyday movements are monitored
+by the handheld devices that we carry with us; our spending patterns are registered at
+the checkout line; and our reading habits are tracked online. In considering the results
+of datafication, as in other examples explored throughout this book, we must come
+to terms with their locality.
+
+- has good discussion of NLP and how it can dataify; could use this for socy2038
 
 
 # ch5
