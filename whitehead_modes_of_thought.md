@@ -1,5 +1,6 @@
 ﻿{Whitehead, 1958 #757}
 Alfred North Whitehead,  Modes of Thought Cambridge University Press,  1956
+
 Thus one characterization of importance is that it is that aspect of feeling whereby a perspective is imposed upon the universe of things felt. 15
 
 Matter-of-fact is an abstraction, arrived at by confining thought to purely formal relations which then masquerade as the final reality. 25
