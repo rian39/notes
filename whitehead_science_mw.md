@@ -28,10 +28,10 @@ It is necessary to understand that space-time is nothing else than a system of p
 
 If we are to include the secondary qualities in the common world, a very drastic reorganisation of our fundamental concept is necessary. It is an evident fact of experience that our apprehensions of the external world depend absolutely on the occurrences within the human body. By playing appropriate tricks on the body a man can be got to perceive, or not to perceive, almost anything. 113
 
-Amazing discussion here of Wordsworth vs Shelley; WOrdsworth does enduring, Shelley does change; W rejects science, S builds poems around it. 
+Amazing discussion here of Wordsworth vs Shelley; Wordsworth does enduring, Shelley does change; W rejects science, S builds poems around it. 
 
 ## nineteenth 2
 
 whitehead detours into tech; what does he say about it?
 
-> The reiteration of a particular shape (or formation) of value within an event occurs when the event as a whole repeats some shape which is also ex¬ hibited by each one of a succession of its parts. Thus how¬ ever you analyse the event according to the flux of its parts through time, there is the same thing-for-its-own-sake standing before you [@Whitehead_1925, 131].
+> The reiteration of a particular shape (or formation) of value within an event occurs when the event as a whole repeats some shape which is also exhibited by each one of a succession of its parts. Thus how¬ ever you analyse the event according to the flux of its parts through time, there is the same thing-for-its-own-sake standing before you [@Whitehead_1925, 131].
