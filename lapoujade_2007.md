@@ -1,10 +1,12 @@
- james distinguishes belief and faith. Belief relies on determinacies of habit; faith depends on indeterminacy. There is no belief without faith, but their faith without belief. 106
+> The conceived-of possible is only a “living hypothesis” that refers back to felt virtualities [p.55]
 
- to believe is to expect and wait. To have faith is to anticipate and hope 107
+james distinguishes belief and faith. Belief relies on determinacies of habit; faith depends on indeterminacy. There is no belief without faith, but their faith without belief. 106
 
- it is indeterminacy that means one needs faith, but it is equally so that because one has faith, one risks oneself in indeterminacy
+to believe is to expect and wait. To have faith is to anticipate and hope 107
 
- we need indeterminacy in order to have faith just as much as indeterminacy creates our need for faith. 108
+it is indeterminacy that means one needs faith, but it is equally so that because one has faith, one risks oneself in indeterminacy
+
+we need indeterminacy in order to have faith just as much as indeterminacy creates our need for faith. 108
 
 symptoms of crisis of faith - loss of world; not loss of perceptions, but of subtle links that signifying having a world. 109
 impossibility of signifying, of producing connections, of acting 110
