@@ -9,6 +9,8 @@ The two repetitions are not independent. One is the singular subject, the interi
 
 It is in this sense that the differential relations and distinctive points already indicate centres of envelopment within the continuum, centres of possible implication or involution which are brought about by individual essences. 47
 
+Oppositions are roughly cut from a delicate milieu of overlap- ping perspectives, of communicating distances, divergences and disparities, of heterogeneous potentials and intensities. Nor is it primarily a question of dissolving tensions in the identical, but rather of distributing the disparities in a multiplicity.50
+
 The simulacrum is the instance which includes a difference within itself, such as (at least) two divergent series on which it plays, all resemblance abolished so that one can no longer point to the existence of an original and a copy.  ... It is here that we find the lived reality of a sub-representative domain. 69
 
 It is memory that grounds time. 79
@@ -20,6 +22,7 @@ Active synthesis, therefore, has two correlative – albeit non-symmetrical – 
 The passive synthesis of habit constituted time as a contraction of instants with respect to a present, but the active synthesis of memory constitutes it as the embedding of presents themselves. 81
 
 Material repetition comes undone even as it occurs, and can be represented only by the active synthesis which projects its elements into a space of conservation and calculation. 84
+
 An animal forms an eye for itself by causing scattered and luminous excitations to be reproduced on a privileged surfaces of its body. The eye binds light, it is itself a bound light. 96
 
 The first characteristic seems to us to be organisation in series. A system must be constituted on the basis of two or more series, each series being defined by the differences between the terms which compose it. 117
@@ -64,3 +67,4 @@ Intensity creates the extensities and the qualities in which it is explicated; t
 
 Finally, to the extent that every phenomenon finds its reason in a difference of intensity which frames it, as though this constituted the boundaries between which it flashes, we claim that complex systems increasingly tend to interiorise their constitutive differences: the centres of envelopment carry out this interiorisation of the individuating factors. 256
 
+That is why, in order to represent repetition, contemplative souls must be installed here and there; passive selves, sub-representative syntheses and habituses capable of contracting the cases or the elements into one another, in order that they can subsequently be reconstituted within a space or time of conservation which belongs to representation itself. The consequences of this are very important: since this contraction is a difference or a modification of the contemplative soul - indeed, the modification of this soul, the only modification which truly belongs to it and after which it dies - it appears that the most material repetition occurs only by means of and within a difference which is drawn off by contraction, by means of and within a soul which draws a difference from repetition. Repetition is therefore represented, but on the condition of a soul of a quite different nature: contemplative and contracting, but non-representing and non-represented. Matter is, in effect, populated or covered by such souls, which provide it with a depth without which it would present no bare repetition on the surface. Nor should we believe that the contraction is external to what it contracts, or that this difference is external to the repetition: it is an integral part..of it, the constituent part, the depth without which nothing would repeat on the surface. 286 {#repetition} {#habit}
