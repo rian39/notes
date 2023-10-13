@@ -38,7 +38,7 @@
 --
 
 21- form just as an axiomatic saturates, each element fulfills not only a function in the
-21- whole [ensem ble] but a function of the whole. There is something like a redundancy
+21- whole [ensemble] but a function of the whole. There is something like a redundancy
 21- of information in the technical object having become concrete.
 21-    This notion of information allows the general evolution of technical objects
 21:to be interpreted via the succession of elements, of individuals and of ensembles,
