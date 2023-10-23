@@ -47,4 +47,105 @@ The deeply held hopes for modernity to quash the past in the call of  98
 ally Merry (2016) has examined how the construction of composite indexes has become such a rife industry in the aftermath of Millennium Development Goals, and points to the politi­cal and intellectual compromises entailed by such well-­intentioned work. Her study of the construction of composite indexes on gender violence, sex trafficking, and ­human rights reveals the tensions between statisticians drawn to commensurable mea­sures versus advocates and campaigners attuned to the specific contexts of gender vio­lence 117 
 
 
+ch 6
+big discussion of how categories were used to create groups
 
+
+Race, interspersed with ethnic and religious affiliations, was the axial classic categorical divide for modernizing imperial cap­it­al­ist socie­ties. This is clearly evident in the American case, as illustrated in Figure 6.1. One crude but telling indication of this is the frequency of deliberate genocidal killings of groups based on racial / ethnic / religious lines that has systematically occurred throughout modernity—­most tragically, of course, in the Nazi holocaust, but this is only one instance among many. 178
+
+Gender formed the second classic divide in nineteenth-­century imperial mo-
+dernity. Numerous feminists have taken issue with the standard so­cio­log­
+i­cal view that w
+­ omen w
+­ ere subordinated in “traditional socie­ties” and that
+the forces of modernity broke down such traditional gender divisions
+through a greater attention to individual rights (for example, Federici 2004,
+2012; Mies 1998). Silvia Federici emphasizes that ­women’s subordination was
+not a traditional feudal throwback but was itself generated in new and in-
+tense forms by the transition to modern capitalism. 180
+
+society, with a distinct set of stakes in a shared community.
+Class therefore became a more significant divide in periods when impe-
+rial expansion was u
+­ nder strain, when nation-­building proj­ects came to the
+fore, and where racial and ethnic divisions ­were not internally strong enough
+to become the prime focus of elite boundary drawing.i 183
+
+
+Iverson and Soskice 2019). As productivity became central to capital accu-
+mulation, so classic categorical distinctions w
+­ ere overlain by probabilistic
+ones in which the differential capacities of vari­ous groups to be fully engaged
+in productive ­labor became central. In addition, the broader sphere of so-
+cial reproduction in education, health, welfare, politics, and culture, which
+could facilitate ­these efforts, became more central. This was the moment
+when field dynamics ­were consolidated. And in this organ­ization of relation-
+ships within bounded national spaces, the delineation of the relative chances
+of dif­fer­ent groups took on a more pressing role. 185
+
+During the twentieth c­entury, the classic differentiation between the
+“civilized” and the “­others”—­those within and without—­which predomi-
+nated in imperial capitalism became overlain by differentiations specifying
+the “unequal chances” of vari­ous social groups in an increasingly codified
+and or­ga­nized national space. In this pro­cess, the burgeoning expertise of
+social science played a key role. The Belgian statistician Adolphe Quetelet186
+elaborated how the normal distribution allowed an elaboration of central
+tendency from which variation and thereby deviance could be mea­sured.
+Through this means, normality could be established statistically and could
+also be associated with being “ordinary” and “typical” in a bounded national
+population (see generally Goldthorpe 2000). 186
+
+As nation-­states became institutionalized, they came to rely more heavi­ly
+on social scientific expertise, which proliferated around the delineation,
+mapping, and codifying of vari­ous population groups (for example, see Dirks
+2001; Mitchell 2002; Igo 2007; and Savage 2010). In his pioneering account
+Mitchell (2002) argued that social science expertise, notably that applied
+by the British in the Egyptian imperial context, elaborated concepts of the
+economy as some kind of autonomous sphere. 186
+
+
+This social science could endeavor to reveal how such categories as class,
+gender, race, and ethnicity actually affected lifechances across numerous
+domains. This took the rendering of categorical divides away from looser
+cultural and moral inflections and placed them on a more measurable—­and
+hence putatively more scientific—­basis. Martin and Yeung (2003) relate how
+the variable of “race” became ubiquitous in American sociology by the endI nsiders and O utsiders
+187
+of the twentieth ­century, but also how this normally merely meant treating
+it as a control variable with ­little or no attention to race as a specific prop-
+erty. This mode of “variable-­based” analy­sis became so mainstream in the
+­later twentieth ­century and early twenty-­first ­century quantitative social
+science that we need to remind ourselves that it is ­really a very odd way of
+construing the social world. This objection has been made most forcefully
+by Chicago sociologist Andrew Abbott (1992), who argues that the delinea-
+tion of variables like this cannot help but slip into imparting agency—­causal
+properties—to rarefied categories as if they have some kind of in­de­pen­dent
+existence outside the specific mea­sure­ment tools and context in which they
+are elaborated. Whereas classic categories ordered agency to dif­fer­ent groups
+by distinguishing a forward-­looking insider group against outsider groups
+mired somehow in the past, ­these new variable-­centered and probabilistic
+categories denied agency to anyone. ­These categories ­were now defined as
+abstract variables able to produce effects—as could be revealed by skilled
+multivariate analy­si 188s
+
+This relativization of categorical inequalities was part and parcel of the
+growing “methodological nationalism,” in which the relative differences be-
+tween categories could be delineated by being arrayed in autonomous na-
+tional space with clear and definite geo­g raph­i­cal bound­aries inside which
+life chances could be mea­sured. 194
+
+The shift ­toward lower in­equality
+regimes during the twentieth ­century is to be understood as tied up with
+the rise of nation spaces and the probabilistic rendering of the stuff of in­equality.
+This reflects a world mired by the relativization of categorical groups seen
+as comprising differing national opportunity structures. Public ser­vices
+around the globe seek to identify and modulate (though not always with
+­wholehearted commitment) t­hese probabilistic inequalities. Corporations
+and employers of all kinds evaluate their members’ categorical characteris-
+tics so as to manage equal opportunities—­not always very successfully. This
+current has ushered in a way of thinking about in­equality between groups
+not in terms of their intrinsic properties, but in terms of the relative advan-
+tages or disadvantages that they experience.
+This idea that in­equality is to be understood probabilistically is now utterly
+ubiquitous, almost to the extent that it is a truism. However, we should not
+see this framing as inevitable or necessary: 195
