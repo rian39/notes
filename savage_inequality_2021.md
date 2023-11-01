@@ -104,48 +104,55 @@ by the British in the Egyptian imperial context, elaborated concepts of the
 economy as some kind of autonomous sphere. 186
 
 
-This social science could endeavor to reveal how such categories as class,
-gender, race, and ethnicity actually affected lifechances across numerous
-domains. This took the rendering of categorical divides away from looser
-cultural and moral inflections and placed them on a more measurable—­and
-hence putatively more scientific—­basis. Martin and Yeung (2003) relate how
-the variable of “race” became ubiquitous in American sociology by the endI nsiders and O utsiders
+This social science could endeavor to reveal how such categories as class, gender, race, and ethnicity actually affected lifechances across numerous domains. This took the rendering of categorical divides away from looser cultural and moral inflections and placed them on a more measurable—­and hence putatively more scientific—­basis. Martin and Yeung (2003) relate how the variable of “race” became ubiquitous in American sociology by the end
 187
-of the twentieth ­century, but also how this normally merely meant treating
-it as a control variable with ­little or no attention to race as a specific prop-
-erty. This mode of “variable-­based” analy­sis became so mainstream in the
-­later twentieth ­century and early twenty-­first ­century quantitative social
-science that we need to remind ourselves that it is ­really a very odd way of
-construing the social world. This objection has been made most forcefully
-by Chicago sociologist Andrew Abbott (1992), who argues that the delinea-
-tion of variables like this cannot help but slip into imparting agency—­causal
-properties—to rarefied categories as if they have some kind of in­de­pen­dent
-existence outside the specific mea­sure­ment tools and context in which they
-are elaborated. Whereas classic categories ordered agency to dif­fer­ent groups
-by distinguishing a forward-­looking insider group against outsider groups
-mired somehow in the past, ­these new variable-­centered and probabilistic
-categories denied agency to anyone. ­These categories ­were now defined as
-abstract variables able to produce effects—as could be revealed by skilled
-multivariate analy­si 188s
+of the twentieth ­century, but also how this normally merely meant treating it as a control variable with ­little or no attention to race as a specific prop- erty. This mode of “variable-­based” analy­sis became so mainstream in the ­later twentieth ­century and early twenty-­first ­century quantitative social science that we need to remind ourselves that it is ­really a very odd way of construing the social world. This objection has been made most forcefully by Chicago sociologist Andrew Abbott (1992), who argues that the delinea- tion of variables like this cannot help but slip into imparting agency—­causal properties—to rarefied categories as if they have some kind of in­de­pen­dent existence outside the specific mea­sure­ment tools and context in which they are elaborated. Whereas classic categories ordered agency to dif­fer­ent groups by distinguishing a forward-­looking insider group against outsider groups mired somehow in the past, ­these new variable-­centered and probabilistic categories denied agency to anyone. ­These categories ­were now defined as abstract variables able to produce effects—as could be revealed by skilled multivariate analy­si 188s
 
 This relativization of categorical inequalities was part and parcel of the
-growing “methodological nationalism,” in which the relative differences be-
-tween categories could be delineated by being arrayed in autonomous na-
-tional space with clear and definite geo­g raph­i­cal bound­aries inside which
-life chances could be mea­sured. 194
+growing “methodological nationalism,” in which the relative differences be- tween categories could be delineated by being arrayed in autonomous na- tional space with clear and definite geo­g raph­i­cal bound­aries inside which life chances could be mea­sured. 194 The shift ­toward lower in­equality regimes during the twentieth ­century is to be understood as tied up with the rise of nation spaces and the probabilistic rendering of the stuff of in­equality. This reflects a world mired by the relativization of categorical groups seen as comprising differing national opportunity structures. Public ser­vices around the globe seek to identify and modulate (though not always with ­wholehearted commitment) t­hese probabilistic inequalities. Corporations and employers of all kinds evaluate their members’ categorical characteris- tics so as to manage equal opportunities—­not always very successfully. This current has ushered in a way of thinking about in­equality between groups not in terms of their intrinsic properties, but in terms of the relative advan- tages or disadvantages that they experience. This idea that in­equality is to be understood probabilistically is now utterly ubiquitous, almost to the extent that it is a truism. However, we should not see this framing as inevitable or necessary: 195
 
-The shift ­toward lower in­equality
-regimes during the twentieth ­century is to be understood as tied up with
-the rise of nation spaces and the probabilistic rendering of the stuff of in­equality.
-This reflects a world mired by the relativization of categorical groups seen
-as comprising differing national opportunity structures. Public ser­vices
-around the globe seek to identify and modulate (though not always with
-­wholehearted commitment) t­hese probabilistic inequalities. Corporations
-and employers of all kinds evaluate their members’ categorical characteris-
-tics so as to manage equal opportunities—­not always very successfully. This
-current has ushered in a way of thinking about in­equality between groups
-not in terms of their intrinsic properties, but in terms of the relative advan-
-tages or disadvantages that they experience.
-This idea that in­equality is to be understood probabilistically is now utterly
-ubiquitous, almost to the extent that it is a truism. However, we should not
-see this framing as inevitable or necessary: 195
+## Visceral inequality
+
+Race was the primary classic categorical divide at the onset of imperial mo- dernity. This was most evidently marked by the inhuman institution of ra- cialized slavery and the brutal treatment of indigenous populations. It con- tinues to be the most obdurate categorical division. Racial inequalities have in some spheres become more prominent. This is therefore dif­fer­ent from class and gender, where economic inequalities have become more attenu- ated. Whereas the relative gender pay gap has substantially reduced, the ra- cial pay gap has changed l­ittle, if at all. 215
+
+Racial inequalities therefore proliferate as old imperial divides are com- pounded by the racialization of immigration. In this light, we can better un- derstand the power of Black Lives M ­ atter and resurgent antiracist cam- paigns. T ­ hese movements change the terms of debate about racism away from a set of abstract probabilities by insisting on the lived, bodily experi- ence, including the historical and migration roots that cannot be effaced. The reassertion of the power of slavery as a defining feature of the ongoing Black experience plays a crucial role in the American and African context. 218
+
+By portraying prominent elite
+figures, marked by their wealth, power, and privilege, ­people’s relative lack
+can more readily be turned into anger and resentment. This is why the vis-
+ceral inequalities experienced by ­women, racial minorities, and ­those from
+disadvantaged classes are not best understood as performative or identity
+based. They come to the fore when relative inequalities decline, so encour-
+aging the sense that mobility should be pos­si­ble—­but also when the ­actual
+concentration of top-­level inequalities leads in the other direction. The im-
+possibility of ever winning the game, however hard you play—­and even if
+you obtain a certain mea­sure of success—­becomes ever more apparent as
+the biggest victors forge further ahead. The overarching hold of ­those at the
+top who stand above you, judging you, and ultimately finding you wanting,
+becomes more grating. In this context, we can understand the anger ex-
+pressed ­toward statues of Cecil Rhodes or General Lee not as purely sym-
+bolic strug­gles, or just as trying to set the historical rec­ord straight, but tes-
+tify to the resurgent anger t­oward elites—in the form of power­ful white
+men—­who increasingly characterize the “stuff of in­equality.”
+Visceral inequalities are linked to the changing dynamics of 219
+
+The bodies of ­those who have been brought into view by the economists’
+income share analy­sis are very much t­hose of white men. At the very top
+levels of the income distribution, among the top few ­percent who are the
+major beneficiaries of enhanced income and wealth, w
+­ omen have not moved
+proportionately into the highest pay brackets. This domain of the superrich
+remains very much a male, patriarchal world. W
+­ omen remain highly under-
+represented among top income earners in many advanced economies (At-
+kinson et al. 2018), being less than 20 ­percent of ­those in the top 1 ­percent of
+earners in most nations. They are even more underrepresented among the top
+0.1 ­percent.i 220
+
+Therefore, in recent de­cades, the stuff of in­equality is increasingly ren-
+dered as visceral, physical, and embodied, rather than abstracted into rela-
+tive categories. This is a far-­reaching pro­cess that generates tensions and
+conflicts that are increasingly virulent—­and which can be expected to be-
+come more so. Visceral in­equality recognizes the historically dif­fer­ent
+mechanisms by which the stuff of in­equality is rendered, or more exactly, cat-
+egorical distinctions are produced. 227
