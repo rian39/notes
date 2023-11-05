@@ -82,6 +82,9 @@ associated milieu is depositary of technicity at the level of the individual, as
 
 in the elements, technicity exists in the most pure form, whereas in the individuals and the ensembles it only exists in state of combinations 73 {#ensemble} {#combination}
 
+> It is as if, in its totality, the tool was made of a plurality of functionally different zones, welded together. The tool is made not only of form and matter; it is made of elaborate technical elements according to a certain schema of functioning and assembled into a stable structure through the operation of fabrication. The tool unites within itself the results of the functioning of a technical ensemble. In order to make a good adze a technical ensemble of a foundry, forge, and quench hardening is required. The technicity of the object is thus more than a quality of its use; it is that which, within it, adds itself to a first determination given by the relation between form and matter; it acts as an intermediary between form and matter, here for instance as the progressive heterogeneity of the quench hardening in different points. Technicity is the degree of the objects concretization. 72
+
+>These types of steel express the result of the functioning of a technical ensemble comprising in equal measure the qualities of coal used, as well as the temperature and chemical composition of the soft water of the Furan river, or the species of green wood used to stir and refine the molten metal prior to casting. In certain cases, technicity becomes predominant with respect to the abstract aspects of the relation between matter and form.
 capacity or puissance of elements increases as it concretises 74 and the wider the conditions of usages 75.
 
 stable technical individuals and technical ensembles only sometimes exist; often they are temporary 76 {#ensemble} {#change}
