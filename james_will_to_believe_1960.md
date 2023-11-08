@@ -1,6 +1,8 @@
 ﻿{James, 1960 #817}
 James, William. The Will to Believe, and Other Essays in Popular Philosophy, and Human Immortality. [New York]: Dover Publications, 1960.
 
+Hypotheses and options, 1. Pascal's wager, 5. Clifford's veto, 8. Psychological causes of belief, 9. Thesis of the Essay, 11. Empiricism and absolutism, 12. Objective certitude and its unattainability, 13. Two different sorts of risks in believing, 17. Some risk unavoidable, 19. Faith may bring forth its own verification, 22. Logical conditions of religious 1belief, 25.
+
 There are, then, cases where a fact cannot come at all unless a preliminary faith exists in its coming 25 {#knowing} {#belief}
 
 I, therefore, for one, cannot see my way to accepting the agnostic rules for truth-seeking, or wilfully agree to keeping my willing nature out of the game. 28 {#belief} {#thought}
