@@ -15,11 +15,16 @@ matter is only localization 16
     
 32 events are passages
 
-theories are events 34
+Scientific theories are events, marked by the same characteristics of occurrence, of persistence, of historic routes, of mobile connec- tions. Thus the meaning of the event, as set out in this third state- ment, is that the “solar spectrum” event is connected to another event, “dark lines,” by the intermediary of a third type of event, that of correlation. A completely different space of events is established, one that is linked to other events, and whose existence is founded in the articulation of these other events. 34  theories are events 34
 
 correlations exist beside occurrence and persistence as events 34
 
+To reiterate: the method that Whitehead implicitly follows consists in exploring experience in terms of the immediate fact of the passage of nature as contained in awareness. In this respect, it is the intertwining of these com- ponents that forms the primary array of the plane of nature: the accident, the obelisk, and the dark lines correlated with the solar spectrum and the immediate fact. 35
+
 36 nature is the event of all events 
+
+
+This was the condition of the success of the theory of events: renounce any metaphysical position. 38
 
 ch 2 -- feeling is central;
 
@@ -30,3 +35,6 @@ interesting discussion of why the concept_of_nature solution -- methodological m
 Against all odds, this passage from Descartes has enabled a thinking of feeling as a constant activity that touches all aspects of the experience of a subject. This is a crucial moment in the setting out of a metaphysics of feelings, as it allows for a determining of the space of existence as well as a widening of the boundaries within which Descartes’s example was confined. Yet, even if the form of feeling has been clarified, this is not the case with regard to what comprises it. 46
 
 When he talks of a plant, a dog, or a human being, he locates a common activity under the various modes of experience that he calls a “sense of conformation.” It is this that constitutes the primordial form of feeling. 46
+
+
+Feeling is a present activity of integrating the past. 48
