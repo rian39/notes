@@ -4,6 +4,7 @@ Callon, M., Barry, A., & Slater, D. (2005). Technology, politics and the market:
 It is impossible to think of markets and their dynamics without taking into account the materiality of markets and the role of technological devices. The anthropology of technology might be very helpful if we want to understand better how markets are stabilised and organised. 101 {#platform-market} {#economisation}
 
 You can't separate technology and science from economic markets. 103
+
 [I]n order to make disentanglement possible, economic agents heavily invest in the production of entanglements. To disentangle you have first to entangle better. 108
 
 The more you produce attachment, the more you are able to produce and stabilise entanglement 108

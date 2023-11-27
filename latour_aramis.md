@@ -95,7 +95,7 @@ In order to keep their grasp on the branches, the actors install little valorime
 By multiplying the valorimeters that allow them to measure the tests in store and prove certain states of power relations, the actors manage to achieve some notion of what they want. By doing their own economics, their own sociology, their own statistics, they do the observer’s work and construct the fluctuating object that the observer will have to investigate. (Latour, 1996, 180-1)
 
 Economics is not the reality principle of technology; ...
-Every technical project has to define a type of economic calculus that makes it more profitable. Economics is not a framework in which engineers subsequently insert themselves, one that would server as an overall constraint; it’s a simulation that mobilizes human-beings-on-paper by means of calculations. (Latour, 1996, 183)
+Every technical project has to define a type of economic calculus that makes it more profitable. Economics is not a framework in which engineers subsequently insert themselves, one that would serve as an overall constraint; it’s a simulation that mobilizes human-beings-on-paper by means of calculations. (Latour, 1996, 183)
 
 The interpretations offered by the relativist actors are performatives.
 They prove themselves by transforming the world in conformity with their perspective on the world. By stabilizing their interpretation, the actors end up creating a world-for-others that strongly resembles an absolute world with fixed reference points. (Latour, 1996, 195)
