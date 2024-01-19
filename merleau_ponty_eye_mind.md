@@ -16,7 +16,7 @@ Knowledge and communication sublimate rather than suppress our incarnation, and 
 
 This insertion of our factual situation as a particular case within the system of other possible situation begins as soon as we designate  a point in space with our finger. For this pointing gesture, which animals do not understand, supposes that we are already installed in virtual space – at the end of the line prolonging our finger in a centrifugal and cultural space.  {Merleau-Ponty, 1964 #734, 7}
 
-I have only to see something to know who to reach it and deal with it, even if I do not know how this happens in the nervous machine.  162
+I have only to see something to know how to reach it and deal with it, even if I do not know how this happens in the nervous machine.  162
 
 The visible world and the world of my motor project are each total parts of the same Being. 162
 

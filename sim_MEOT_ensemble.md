@@ -79,7 +79,7 @@
 
 23- most primitive and the most elaborate of all thoughts, philosophical thought, that
 23- a truly n eu tral and balan ced because complete, mediation between opposing phases
-23- can intervene. It is thus p h ilosoph ical thought alone that can assume the knowl­
+23- can intervene. It is thus philosophical thought alone that can assume the knowl­
 23- edge, valorization and completion of the phase of technicity within the entirety
 23:[ensemble] of man’s modes of being in the world, by way of a meditation regarding
 23- the rapport between science and technics, theology and mysticism.
