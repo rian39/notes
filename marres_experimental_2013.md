@@ -7,4 +7,4 @@ It is not the case that empirical practice does the work of theory; rather, in t
 
 Experimental political ontology offers a different approach. It proposes that the investment of non-humans with political capacities and their insertion into democracy are projects of experimental settings. Experimental ontology rejects the idea that the problem of non-humans for democracy is merely a problem of theory. It is also a problem of practice, and we should not assume any simple distinction between the two. In this way, experimental ontology simply elaborates a point long advocated by empirical ontologists, which is that attempts to conclusively separate the empirical from the theoretical, and to bracket the one while dealing with the other, do not do justice to what happens in practice. 437
 
-
+empirical devices allow for the display of material efficacy inside the frame of the empirical setting, and arguably these devices assist in the specification of material engagement as a distinctive mode of public involve- ment. It is a bit of a headache, but politics, ontology, the empirical and the public have to be taken in at once. Marres
