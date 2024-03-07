@@ -1,0 +1,7 @@
+Everything from shoes and bikes, mobile phones and motor vehicles, passports and satellites, software code and embedded sensors, laws and zoning codes, are part of the sociotechnical assemblages or human/material hybrids that perform mobility systems
+
+With an emphasis on the relations between mobilities and immobilities, scapes and moorings, movement and stillness ([Hannam et al., 2006](https://journals-sagepub-com.virtual.anu.edu.au/doi/10.1177/0011392114533211#bibr73-0011392114533211): 3), the co-constitutive frictions of differential mobilities and relative velocities are at the heart of recent mobilities research ([Cresswell, 2014](https://journals-sagepub-com.virtual.anu.edu.au/doi/10.1177/0011392114533211#bibr37-0011392114533211); [Vannini, 2014](https://journals-sagepub-com.virtual.anu.edu.au/doi/10.1177/0011392114533211#bibr158-0011392114533211)).
+
+‘involves the intimate recombination of urban places, the corporeal presence of people’s bodies, physical mobilities, and complex, multi-scaled mediations by all sorts of ICT and mobility systems’ (Graham, 2004: 113).
+
+a newly conceived practice of sociological research – a reflexive mobilization of the sociological imagination. Mobilities research ultimately can help to reshape academic practice in and for the anthropocene, marshaling new kinds of disciplinary hybrids, institutional bridges, political commitments, and methodological cross-fertilizations to generate transformative approaches to the social-spatial-cultural matrix in which we move, dwell, and build a (hopefully) survivable future.
