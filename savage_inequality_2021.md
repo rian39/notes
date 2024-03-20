@@ -1,33 +1,8 @@
-Therefore, it is vital to realize that field dynamics also require a culmina-
-tion, and hence that they contain the seeds of their own dissolution. Thinking
-through the long-­term dynamics of fields thereby leads us to the inescap-
-able conclusion that the creation of a successful, autonomous field requires
-the production of a temporal ontology distinguishing past, pre­sent, and
-­future, but also that this undercuts itself as the players on the field seek to
-conclude their striving through producing a result. 89
+Therefore, it is vital to realize that field dynamics also require a culmina- tion, and hence that they contain the seeds of their own dissolution. Thinking through the long-­term dynamics of fields thereby leads us to the inescap- able conclusion that the creation of a successful, autonomous field requires the production of a temporal ontology distinguishing past, pre­sent, and ­future, but also that this undercuts itself as the players on the field seek to conclude their striving through producing a result. 89 The rising significance of inherited capital is therefore both symptom and driver of the breakdown of modern temporal ontology. Fields of all kinds
 
-The rising significance of inherited capital is therefore both symptom and
-driver of the breakdown of modern temporal ontology. Fields of all kinds
-become dominated by inheritors rather than ­those who win their spurs
-through their own field-­specific qualities. This pro­cess should not simply be
-equated with the incursion of economic capital into cultural, social, and po­
-liti­cal domains. Instead, this is a pro­cess of entropy, in which t­hose who
-succeed in any specific field tend to convert their advantages to an “objecti-
-fied” form that can be stored, transmitted, sold, and passed on. This usually
-takes the form of conversion to some kind of economic asset, which is the
-quintessential and hegemonic way of objectifying value, and hence contrib-
-utes to the growing power of economic capital.93
+become dominated by inheritors rather than ­those who win their spurs through their own field-­specific qualities. This pro­cess should not simply be equated with the incursion of economic capital into cultural, social, and po­ liti­cal domains. Instead, this is a pro­cess of entropy, in which t­hose who succeed in any specific field tend to convert their advantages to an “objecti- fied” form that can be stored, transmitted, sold, and passed on. This usually takes the form of conversion to some kind of economic asset, which is the quintessential and hegemonic way of objectifying value, and hence contrib- utes to the growing power of economic capital.93
 
-Notwith- standing all our excitement about new gadgets, robots, and devices, we are
-actually increasingly in the thrall of the past. Con­temporary society is
-trammeled by previous rounds of accumulation that are fundamental to
-our now-­time. In the early twenty-­first c­ entury, history exercises a hold over
-the pre­sent that has not been seen for centuries. The bold revolutionary
-hopes—­endemic to modernity—of breaking from the past and ushering in
-a brave new world have been dashed. The debris of the past—­accumulated
-in capital, urban infrastructures, military power, venerable institutions of
-learning, privileged families, and blue chip companies—­now dominatesR enewing M arx
-99
+Notwith- standing all our excitement about new gadgets, robots, and devices, we are actually increasingly in the thrall of the past. Con­temporary society is trammeled by previous rounds of accumulation that are fundamental to our now-­time. In the early twenty-­first c­ entury, history exercises a hold over the pre­sent that has not been seen for centuries. The bold revolutionary hopes—­endemic to modernity—of breaking from the past and ushering in a brave new world have been dashed. The debris of the past—­accumulated in capital, urban infrastructures, military power, venerable institutions of learning, privileged families, and blue chip companies—­now dominatesR enewing M arx 99
 the social landscape. The deeply held hopes for modernity to quash the
 past in the call of  98
 
@@ -53,63 +28,22 @@ big discussion of how categories were used to create groups
 
 Race, interspersed with ethnic and religious affiliations, was the axial classic categorical divide for modernizing imperial cap­it­al­ist socie­ties. This is clearly evident in the American case, as illustrated in Figure 6.1. One crude but telling indication of this is the frequency of deliberate genocidal killings of groups based on racial / ethnic / religious lines that has systematically occurred throughout modernity—­most tragically, of course, in the Nazi holocaust, but this is only one instance among many. 178
 
-Gender formed the second classic divide in nineteenth-­century imperial mo-
-dernity. Numerous feminists have taken issue with the standard so­cio­log­
-i­cal view that w
-­ omen w
-­ ere subordinated in “traditional socie­ties” and that
-the forces of modernity broke down such traditional gender divisions
-through a greater attention to individual rights (for example, Federici 2004,
-2012; Mies 1998). Silvia Federici emphasizes that ­women’s subordination was
-not a traditional feudal throwback but was itself generated in new and in-
-tense forms by the transition to modern capitalism. 180
+Gender formed the second classic divide in nineteenth-­century imperial mo- dernity. Numerous feminists have taken issue with the standard so­cio­log­ i­cal view that w ­ omen w ­ ere subordinated in “traditional socie­ties” and that the forces of modernity broke down such traditional gender divisions through a greater attention to individual rights (for example, Federici 2004, 2012; Mies 1998). Silvia Federici emphasizes that ­women’s subordination was not a traditional feudal throwback but was itself generated in new and in- tense forms by the transition to modern capitalism. 180
 
 society, with a distinct set of stakes in a shared community.
-Class therefore became a more significant divide in periods when impe-
-rial expansion was u
-­ nder strain, when nation-­building proj­ects came to the
-fore, and where racial and ethnic divisions ­were not internally strong enough
-to become the prime focus of elite boundary drawing.i 183
+Class therefore became a more significant divide in periods when impe- rial expansion was u ­ nder strain, when nation-­building proj­ects came to the fore, and where racial and ethnic divisions ­were not internally strong enough to become the prime focus of elite boundary drawing.i 183
 
+Iverson and Soskice 2019). As productivity became central to capital accu- mulation, so classic categorical distinctions w ­ ere overlain by probabilistic ones in which the differential capacities of vari­ous groups to be fully engaged in productive ­labor became central. In addition, the broader sphere of so- cial reproduction in education, health, welfare, politics, and culture, which could facilitate ­these efforts, became more central. This was the moment when field dynamics ­were consolidated. And in this organ­ization of relation- ships within bounded national spaces, the delineation of the relative chances of dif­fer­ent groups took on a more pressing role. 185
 
-Iverson and Soskice 2019). As productivity became central to capital accu-
-mulation, so classic categorical distinctions w
-­ ere overlain by probabilistic
-ones in which the differential capacities of vari­ous groups to be fully engaged
-in productive ­labor became central. In addition, the broader sphere of so-
-cial reproduction in education, health, welfare, politics, and culture, which
-could facilitate ­these efforts, became more central. This was the moment
-when field dynamics ­were consolidated. And in this organ­ization of relation-
-ships within bounded national spaces, the delineation of the relative chances
-of dif­fer­ent groups took on a more pressing role. 185
+During the twentieth c­entury, the classic differentiation between the “civilized” and the “­others”—­those within and without—­which predomi- nated in imperial capitalism became overlain by differentiations specifying the “unequal chances” of vari­ous social groups in an increasingly codified and or­ga­nized national space. In this pro­cess, the burgeoning expertise of social science played a key role. The Belgian statistician Adolphe Quetelet186 elaborated how the normal distribution allowed an elaboration of central tendency from which variation and thereby deviance could be mea­sured. Through this means, normality could be established statistically and could also be associated with being “ordinary” and “typical” in a bounded national population (see generally Goldthorpe 2000). 186
 
-During the twentieth c­entury, the classic differentiation between the
-“civilized” and the “­others”—­those within and without—­which predomi-
-nated in imperial capitalism became overlain by differentiations specifying
-the “unequal chances” of vari­ous social groups in an increasingly codified
-and or­ga­nized national space. In this pro­cess, the burgeoning expertise of
-social science played a key role. The Belgian statistician Adolphe Quetelet186
-elaborated how the normal distribution allowed an elaboration of central
-tendency from which variation and thereby deviance could be mea­sured.
-Through this means, normality could be established statistically and could
-also be associated with being “ordinary” and “typical” in a bounded national
-population (see generally Goldthorpe 2000). 186
+As nation-­states became institutionalized, they came to rely more heavi­ly on social scientific expertise, which proliferated around the delineation, mapping, and codifying of vari­ous population groups (for example, see Dirks 2001; Mitchell 2002; Igo 2007; and Savage 2010). In his pioneering account Mitchell (2002) argued that social science expertise, notably that applied by the British in the Egyptian imperial context, elaborated concepts of the economy as some kind of autonomous sphere. 186
 
-As nation-­states became institutionalized, they came to rely more heavi­ly
-on social scientific expertise, which proliferated around the delineation,
-mapping, and codifying of vari­ous population groups (for example, see Dirks
-2001; Mitchell 2002; Igo 2007; and Savage 2010). In his pioneering account
-Mitchell (2002) argued that social science expertise, notably that applied
-by the British in the Egyptian imperial context, elaborated concepts of the
-economy as some kind of autonomous sphere. 186
+This social science could endeavor to reveal how such categories as class, gender, race, and ethnicity actually affected lifechances across numerous domains. This took the rendering of categorical divides away from looser cultural and moral inflections and placed them on a more measurable—­and hence putatively more scientific—­basis. Martin and Yeung (2003) relate how the variable of “race” became ubiquitous in American sociology by the end 187
 
-
-This social science could endeavor to reveal how such categories as class, gender, race, and ethnicity actually affected lifechances across numerous domains. This took the rendering of categorical divides away from looser cultural and moral inflections and placed them on a more measurable—­and hence putatively more scientific—­basis. Martin and Yeung (2003) relate how the variable of “race” became ubiquitous in American sociology by the end
-187
 of the twentieth ­century, but also how this normally merely meant treating it as a control variable with ­little or no attention to race as a specific prop- erty. This mode of “variable-­based” analy­sis became so mainstream in the ­later twentieth ­century and early twenty-­first ­century quantitative social science that we need to remind ourselves that it is ­really a very odd way of construing the social world. This objection has been made most forcefully by Chicago sociologist Andrew Abbott (1992), who argues that the delinea- tion of variables like this cannot help but slip into imparting agency—­causal properties—to rarefied categories as if they have some kind of in­de­pen­dent existence outside the specific mea­sure­ment tools and context in which they are elaborated. Whereas classic categories ordered agency to dif­fer­ent groups by distinguishing a forward-­looking insider group against outsider groups mired somehow in the past, ­these new variable-­centered and probabilistic categories denied agency to anyone. ­These categories ­were now defined as abstract variables able to produce effects—as could be revealed by skilled multivariate analy­si 188s
 
-This relativization of categorical inequalities was part and parcel of the
-growing “methodological nationalism,” in which the relative differences be- tween categories could be delineated by being arrayed in autonomous na- tional space with clear and definite geo­g raph­i­cal bound­aries inside which life chances could be mea­sured. 194 The shift ­toward lower in­equality regimes during the twentieth ­century is to be understood as tied up with the rise of nation spaces and the probabilistic rendering of the stuff of in­equality. This reflects a world mired by the relativization of categorical groups seen as comprising differing national opportunity structures. Public ser­vices around the globe seek to identify and modulate (though not always with ­wholehearted commitment) t­hese probabilistic inequalities. Corporations and employers of all kinds evaluate their members’ categorical characteris- tics so as to manage equal opportunities—­not always very successfully. This current has ushered in a way of thinking about in­equality between groups not in terms of their intrinsic properties, but in terms of the relative advan- tages or disadvantages that they experience. This idea that in­equality is to be understood probabilistically is now utterly ubiquitous, almost to the extent that it is a truism. However, we should not see this framing as inevitable or necessary: 195
+This relativization of categorical inequalities was part and parcel of the growing “methodological nationalism,” in which the relative differences be- tween categories could be delineated by being arrayed in autonomous na- tional space with clear and definite geo­g raph­i­cal bound­aries inside which life chances could be mea­sured. 194 The shift ­toward lower in­equality regimes during the twentieth ­century is to be understood as tied up with the rise of nation spaces and the probabilistic rendering of the stuff of in­equality. This reflects a world mired by the relativization of categorical groups seen as comprising differing national opportunity structures. Public ser­vices around the globe seek to identify and modulate (though not always with ­wholehearted commitment) t­hese probabilistic inequalities. Corporations and employers of all kinds evaluate their members’ categorical characteris- tics so as to manage equal opportunities—­not always very successfully. This current has ushered in a way of thinking about in­equality between groups not in terms of their intrinsic properties, but in terms of the relative advan- tages or disadvantages that they experience. This idea that in­equality is to be understood probabilistically is now utterly ubiquitous, almost to the extent that it is a truism. However, we should not see this framing as inevitable or necessary: 195
 
 ## Visceral inequality
 
@@ -117,42 +51,10 @@ Race was the primary classic categorical divide at the onset of imperial mo- der
 
 Racial inequalities therefore proliferate as old imperial divides are com- pounded by the racialization of immigration. In this light, we can better un- derstand the power of Black Lives M ­ atter and resurgent antiracist cam- paigns. T ­ hese movements change the terms of debate about racism away from a set of abstract probabilities by insisting on the lived, bodily experi- ence, including the historical and migration roots that cannot be effaced. The reassertion of the power of slavery as a defining feature of the ongoing Black experience plays a crucial role in the American and African context. 218
 
-By portraying prominent elite
-figures, marked by their wealth, power, and privilege, ­people’s relative lack
-can more readily be turned into anger and resentment. This is why the vis-
-ceral inequalities experienced by ­women, racial minorities, and ­those from
-disadvantaged classes are not best understood as performative or identity
-based. They come to the fore when relative inequalities decline, so encour-
-aging the sense that mobility should be pos­si­ble—­but also when the ­actual
-concentration of top-­level inequalities leads in the other direction. The im-
-possibility of ever winning the game, however hard you play—­and even if
-you obtain a certain mea­sure of success—­becomes ever more apparent as
-the biggest victors forge further ahead. The overarching hold of ­those at the
-top who stand above you, judging you, and ultimately finding you wanting,
-becomes more grating. In this context, we can understand the anger ex-
-pressed ­toward statues of Cecil Rhodes or General Lee not as purely sym-
-bolic strug­gles, or just as trying to set the historical rec­ord straight, but tes-
-tify to the resurgent anger t­oward elites—in the form of power­ful white
-men—­who increasingly characterize the “stuff of in­equality.”
+By portraying prominent elite figures, marked by their wealth, power, and privilege, ­people’s relative lack can more readily be turned into anger and resentment. This is why the vis- ceral inequalities experienced by ­women, racial minorities, and ­those from disadvantaged classes are not best understood as performative or identity based. They come to the fore when relative inequalities decline, so encour- aging the sense that mobility should be pos­si­ble—­but also when the ­actual concentration of top-­level inequalities leads in the other direction. The im- possibility of ever winning the game, however hard you play—­and even if you obtain a certain mea­sure of success—­becomes ever more apparent as the biggest victors forge further ahead. The overarching hold of ­those at the top who stand above you, judging you, and ultimately finding you wanting, becomes more grating. In this context, we can understand the anger ex- pressed ­toward statues of Cecil Rhodes or General Lee not as purely sym- bolic strug­gles, or just as trying to set the historical rec­ord straight, but tes- tify to the resurgent anger t­oward elites—in the form of power­ful white men—­who increasingly characterize the “stuff of in­equality.”
 Visceral inequalities are linked to the changing dynamics of 219
 
-The bodies of ­those who have been brought into view by the economists’
-income share analy­sis are very much t­hose of white men. At the very top
-levels of the income distribution, among the top few ­percent who are the
-major beneficiaries of enhanced income and wealth, w
-­ omen have not moved
-proportionately into the highest pay brackets. This domain of the superrich
-remains very much a male, patriarchal world. W
-­ omen remain highly under-
-represented among top income earners in many advanced economies (At-
-kinson et al. 2018), being less than 20 ­percent of ­those in the top 1 ­percent of
-earners in most nations. They are even more underrepresented among the top
-0.1 ­percent.i 220
 
-Therefore, in recent de­cades, the stuff of in­equality is increasingly ren-
-dered as visceral, physical, and embodied, rather than abstracted into rela-
-tive categories. This is a far-­reaching pro­cess that generates tensions and
-conflicts that are increasingly virulent—­and which can be expected to be-
-come more so. Visceral in­equality recognizes the historically dif­fer­ent
-mechanisms by which the stuff of in­equality is rendered, or more exactly, cat-
-egorical distinctions are produced. 227
+The bodies of ­those who have been brought into view by the economists’ income share analy­sis are very much t­hose of white men. At the very top levels of the income distribution, among the top few ­percent who are the major beneficiaries of enhanced income and wealth, w ­ omen have not moved proportionately into the highest pay brackets. This domain of the superrich remains very much a male, patriarchal world. W ­ omen remain highly under- represented among top income earners in many advanced economies (At- kinson et al. 2018), being less than 20 ­percent of ­those in the top 1 ­percent of earners in most nations. They are even more underrepresented among the top 0.1 ­percent.i 220
+
+Therefore, in recent de­cades, the stuff of in­equality is increasingly ren- dered as visceral, physical, and embodied, rather than abstracted into rela- tive categories. This is a far-­reaching pro­cess that generates tensions and conflicts that are increasingly virulent—­and which can be expected to be- come more so. Visceral in­equality recognizes the historically dif­fer­ent mechanisms by which the stuff of in­equality is rendered, or more exactly, cat- egorical distinctions are produced. 227
