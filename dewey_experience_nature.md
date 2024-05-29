@@ -2,7 +2,7 @@
 
 >The *intrinsic* nature of events is revealed in experience as the immediately felt qualities of things. [@Dewey_1958, xii]
 
-The intimate co- ordination and even fusion of these qualities with the regularities that form the objects of knowledge, in the proper sense of the word "knowledge," characterizes intelligently directed experience, as distinct from mere casual and uncritical experience.
+The intimate co-ordination and even fusion of these qualities with the regularities that form the objects of knowledge, in the proper sense of the word "knowledge," characterizes intelligently directed experience, as distinct from mere casual and uncritical experience.
 
 But when the secondary objects, the refined objects, are employed as a method or road for coming at them, it may be etc. these qualities cease to be isolated details; meaning contained in a they get the whole system of related objects; they are rendered continuous with the rest of nature and now The phenomena observed in take on the import of the things they are seen to be continuous with. [@Dewey_1958, 5] 
 
@@ -35,7 +35,9 @@ But in every event there is something obdurate, self-sufficient, wholly immediat
 A world that consisted entirely of stable objects directly presented and possessed would have no esthetic qualities ; it would just be, and would lack power to satisfy and to inspire. Objects are actually esthetic when they turn hazard and defeat to an issue which is above and beyond trouble and vicissitude. Festal celebration and consummatory delights belong only in a world that knows risk and hardship. 90
 
 Objects may be more or less absorptive and arresting and thus possess degrees of intensity with respect to finality. But this difference of intensity is not, save as subject to reflective choice, a distinction in rank or class of finality.
+
 It applies to different toothaches as well as to different objects of thought; but it does not apply, inherently, to the difference between a tooth-ache and an ideal object save that a thing like a toothache is often possessed of greater intensity of finality.
+
 If we follow the clew of the latter fact, we shall probably conclude that search for pure and unalloyed finality carries us to inarticulate sensation and overwhelming passion. For such affairs are the best instances of things that are complete in themselves with no outleadings. 106
 
 

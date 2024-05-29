@@ -2,7 +2,7 @@
 tell us a little about where you'd like to land and with whom  you agree to share a dwelling place
 
 
-wave of populism, migration crisis, growth of inequalities: 'three different responses, basically comprehensible if not effecit, to the powerful reaction of the Earth ot what gloabalization has done to it. 20-21
+wave of populism, migration crisis, growth of inequalities: 'three different responses, basically comprehensible if not effecit, to the powerful reaction of the Earth to what gloabalization has done to it. 20-21
 
 Terrestrial with a capital T to emphasize that we are referring to a concept, and even specifying in advance where we are headed: the Terrestrial as a new *political actor.* 40
 
