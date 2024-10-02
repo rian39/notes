@@ -1,5 +1,7 @@
+On the contrary, a numerical sign that is not produced by something outside the system of marking it institutes, which marks a mobile and plural distribu- tion, which itself determines functions and relations, which arrives at arrangements rather than totals, distributions rather than collections, which operates more by breaks, transitions, migration, and accumulation than by combining units—a sign of this kind would appear to belong to the semiotic of a nomad war machine directed against the State apparatus. The numbering number.8 Its numerical organization 139 
 
 Writing now functions on the same level as the real, and the real materially writes. The diagram retains the most deterritorialized content and the most deterritorialized expression, in order to conjugate them. 141
+
 
 That trait is said to be " deterritorializing" in relation to the other precisely because it diagrams it, carries it off, raises it to its own power 142
 

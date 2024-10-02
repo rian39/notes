@@ -1,3 +1,7 @@
+~/archive/Foucault_Michel_Archaeology_of_Knowledge.pdf
+
+~/archive/gilles-deleuze-sean-hand-foucault-university-of-minnesota-press-1988.pdf
+
 A statement always represents a transmission of elements distributed in a common space. .. the formations and transformations of these spaces themselves pose topological problems 3
 
 What counts is the regularity of the statement: it represents not the average, but rather the whole statistical curve. 4
@@ -66,7 +70,7 @@ Therefore we should not ask: 'What is power and where does it come from?', but '
 
 power to affect is like a function of force. But it is a pure function, that is to say a non-formalized function, independent of the concrete forms it assumes, the aims it serves and the means it employs: as a physics of action, it is a physics of abstract action. 72
 
-We can therefore define the diagram in several different, interlocking ways: it is the presentation of the rela- tions between forces unique to a particular formation; it is the distribution of the power to affect and the power to be affected; it is the mixing of non-formalized pure functions and unformed pure matter. 73
+We can therefore define the diagram in several different, interlocking ways: it is the presentation of the relations between forces unique to a particular formation; it is the distribution of the power to affect and the power to be affected; it is the mixing of non-formalized pure functions and unformed pure matter. 73
 
 Knowledge concerns formed matters (substances) and formalized functions, divided up segment by segment according to the two great formal conditions of seeing and speaking, light and language: it is therefore stratified, archivized, and endowed with a relatively rigid segmentarity. Power, on the other hand, is diagrammatic: it mobilizes non-stratified matter and functions, and unfolds with a very flexible segmentarity. In fact, it passes not so much through forms as through particular points which on each occasion mark the application of a force, the action or reaction of a force in relation to others, that is to say an affect like 'a state of power that is always local and unstable'. This leads to a fourth definition of the diagram: it is a transmission or distribution of particular features. 73
 
@@ -89,7 +93,7 @@ The most general formula of the relation to oneself is the affect of self by sel
 
 Not that brief memory that comes afterwards and is the opposite of forgetting, but the 'absolute memory' which doubles the present and the outside and is one with forgetting, since it is itself endlessly forgotten and recon- stituted: its fold, in fact, merges with the unfolding, because the latter remains present within the former as the thing that is folded. 107
 
-For seeing and speaking means knowing [jflnoz'r], but we do not see what we speak about, nor do we speak about what we see; and when we see a pipe we shall always say (in one way or another): 'this is not a pipe', as though intentionality denied itself, and collapsed into itself. Everything is knowledge, and this is the first reason why there is no 'savage experience': there is nothing beneath or prior to knowledge. But knowledge is irreducibly double, since it involves speaking and seeing, language and light, which is the reason why there is no intentionality. 109
+For seeing and speaking means knowing [jflnoz'r], but we do not see what we speak about, nor do we speak about what we see; and when we see a pipe we shall always say (in one way or another): 'this is not a pipe', as though intentionality denied itself, and collapsed into itself. Everything is knowledge, and this is the first reason why there is no 'savage experience': there is nothing beneath or prior to knowledge. But knowledge is irreducibly double, since it involves speaking and seeing, language and light, which is the reason why there is no intentionality. 110
 
 There is an interlacing or intertwining of the visible and the articulable: it is the Platonic model of weaving that replaces intentionality. But this interlacing is in fact a stranglehold, or a battle between two implacable foes who are the forms of knowledge-Being: if you like it is an intentionality, but one that is reversible, has multiplied in both directions, and has become infinitesimal or microscopic. It is still not the fold of Being, but rather the interlacing of its two forms. It is still not a topology of the fold, but rather a strategy of the interlacing. 112
 
