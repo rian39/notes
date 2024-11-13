@@ -17,9 +17,9 @@ Similarly, one might describe the specific position of the enunciating subject i
 
 If a proposition, a sentence, a group of signs can be called 'statement' , it is not therefore because, one day, someone happened to speak them or put them into some concrete form of writing; it is because the position of the subject can be assigned. 95
 
-And the statement not only needs this materiality; its materiality is not given to it, in addition , once all its determinations have been fixed : it is partly made up of this materiality. 100
+And the statement not only needs this materiality; its materiality is not given to it, in addition , once all its determinations have been fixed: it is partly made up of this materiality. 100
 
-Yet the materiality plays a much more important role in the statement: it is not simply a principle of variation, a modification of the criteria of recog­ nition, or a determination oflinguistic sub-groups. It is constitutive of the statement itself: a statement must have a substance, a support, a place, and
+Yet the materiality plays a much more important role in the statement: it is not simply a principle of variation, a modification of the criteria of recognition, or a determination of linguistic sub-groups. It is constitutive of the statement itself: a statement must have a substance, a support, a place, and
 a date.101
 
 What, then, is this rule of repeatable materiality that characterizes the statement? 102
@@ -52,7 +52,7 @@ Archaeology - and this is one of its principal themes - may thus constitute the 
 
 On the contrary, its purpose is to map, in a particular discursive practice, the point at which they are constituted, to define the form that they assume, the relations that they have with each other, and the domain that they govern. In short, its purpose is to maintain discourse in all its many irregularities; and consequently to suppress the theme of a contradiction uniformly lost and rediscovered, resolved and forever rising again, in the undifferentiated element of the Logos. 155-156
 
-the positivities that I have tried to establish must not be understood as a set of determinations imposed from the outside on the thought of individuals, or inhabiting it from the inside, in advance as it were; they constitute rather the set of conditions in accordance with which a practice is exercised, in accordance with which that practices gives rise to partially or totally new statements, and in accordance with which it can be modified. These positivities are no so much limitations imposed on the initiative of subjects as the field in which that initiative is articulated 208-209
+the positivities that I have tried to establish must not be understood as a set of determinations imposed from the outside on the thought of individuals, or inhabiting it from the inside, in advance as it were; they constitute rather the set of conditions in accordance with which a practice is exercised, in accordance with which that practices gives rise to partially or totally new statements, and in accordance with which it can be modified. These positivities are not so much limitations imposed on the initiative of subjects as the field in which that initiative is articulated 208-209
 
 What it seeks in the texts of Linnaeus or Buffon, Petty or Ricardo, Pinel or Bichat, is not to draw up a list of founding saints; it is to uncover  the regularity of a discursive practice. A practice that is in operation, in the same way, in the work of their predecessors; a practice that takes account in their work not only of the most original affirmations (those that no one else dreamt of before them), but also of those that they borrowed, even copied, from their predecessors. A discovery is no less regular, from the enunciative point of view, than the text that repeats and diffuses it; regularity is no less operant, no less effective and active, in a banal as in a unique formation 144-145
 
